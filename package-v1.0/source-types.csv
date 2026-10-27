@@ -1,0 +1,29 @@
+platform,label,type,typeLabel,count,denominator,share
+chatgpt,ChatGPT,homepage,Homepage,124,489,0.25357873210633947
+chatgpt,ChatGPT,treatment,Treatment / services path,187,489,0.3824130879345603
+chatgpt,ChatGPT,dentist_team,Dentist / team path,3,489,0.006134969325153374
+chatgpt,ChatGPT,location,Location / contact path,29,489,0.05930470347648262
+chatgpt,ChatGPT,editorial,Editorial path,1,489,0.002044989775051125
+chatgpt,ChatGPT,directory_social,Known directory / social host,48,489,0.09815950920245399
+chatgpt,ChatGPT,unclassified,Unclassified path,97,489,0.1983640081799591
+gemini,Gemini,homepage,Homepage,36,189,0.19047619047619047
+gemini,Gemini,treatment,Treatment / services path,118,189,0.6243386243386243
+gemini,Gemini,dentist_team,Dentist / team path,1,189,0.005291005291005291
+gemini,Gemini,location,Location / contact path,5,189,0.026455026455026454
+gemini,Gemini,editorial,Editorial path,2,189,0.010582010582010581
+gemini,Gemini,directory_social,Known directory / social host,4,189,0.021164021164021163
+gemini,Gemini,unclassified,Unclassified path,23,189,0.12169312169312169
+ai_overviews,Google AI Overviews,homepage,Homepage,11,123,0.08943089430894309
+ai_overviews,Google AI Overviews,treatment,Treatment / services path,56,123,0.45528455284552843
+ai_overviews,Google AI Overviews,dentist_team,Dentist / team path,0,123,0
+ai_overviews,Google AI Overviews,location,Location / contact path,5,123,0.04065040650406504
+ai_overviews,Google AI Overviews,editorial,Editorial path,4,123,0.032520325203252036
+ai_overviews,Google AI Overviews,directory_social,Known directory / social host,15,123,0.12195121951219512
+ai_overviews,Google AI Overviews,unclassified,Unclassified path,32,123,0.2601626016260163
+ai_mode,Google AI Mode,homepage,Homepage,5,209,0.023923444976076555
+ai_mode,Google AI Mode,treatment,Treatment / services path,26,209,0.12440191387559808
+ai_mode,Google AI Mode,dentist_team,Dentist / team path,6,209,0.028708133971291867
+ai_mode,Google AI Mode,location,Location / contact path,4,209,0.019138755980861243
+ai_mode,Google AI Mode,editorial,Editorial path,0,209,0
+ai_mode,Google AI Mode,directory_social,Known directory / social host,48,209,0.22966507177033493
+ai_mode,Google AI Mode,unclassified,Unclassified path,120,209,0.5741626794258373

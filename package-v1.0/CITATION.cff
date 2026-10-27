@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite this dataset using its canonical page and version."
+type: dataset
+title: "Dental AI Search Visibility Across Four Platforms"
+version: "1.0"
+date-released: "2026-10-26"
+url: "https://rotgar.com/medical/resources/dental-ai-visibility-four-platform-study"
+license: CC-BY-4.0
+authors:
+  - family-names: Yudin
+    given-names: Evgeniy
+    orcid: "https://orcid.org/0009-0007-8400-9561"

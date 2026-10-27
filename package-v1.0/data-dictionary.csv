@@ -1,0 +1,43 @@
+file,field,definition
+response-metrics.csv,observation,"Public semantic observation key, not an API response or task identifier."
+response-metrics.csv,queryCell,One of the 18 exact fixed prompt cells.
+response-metrics.csv,platform,"chatgpt, gemini, ai_overviews or ai_mode."
+response-metrics.csv,city,City explicitly named in the query; not a physical city-IP guarantee.
+response-metrics.csv,intent,"cosmetic, implants or urgent dental task."
+response-metrics.csv,variant,selection or dentist_branch_evidence; different information requested.
+response-metrics.csv,wave,"Scheduled repeat label 1, 2 or 3. Delayed recovery timestamps preserve actual chronology."
+response-metrics.csv,status,"answer, no_answer, collection_failed or not_collected. No-answer is not brand absence."
+response-metrics.csv,firstPassStatus,"Original first-pass capture status, retained even when one temporary-failure recovery succeeds."
+response-metrics.csv,recoveryAttempted / recovered / attemptCount,One explicitly admitted missing-only recovery at most; capture recovery is distinct from an AI answer being present.
+response-metrics.csv,firstPassCollectedAt / recoveryCollectedAt,Original and delayed-recovery completion timestamps; scheduled wave labels do not overwrite actual chronology.
+response-metrics.csv,answerPresent,True only when a successfully collected answer-bearing surface has nonblank answer text.
+response-metrics.csv,sourceUrls,Unique normalized eligible answer-reference URLs within the answer.
+response-metrics.csv,sourceDomains,Unique normalized source hostnames within the answer; not corporate ownership.
+response-metrics.csv,collectedAt,"UTC completion time of the provider request, including a recorded failure if present."
+response-metrics.csv,model,Returned model label when supplied by the source provider; blank means not provided.
+citations.csv,sourceOrder,"First declared order among deduplicated eligible citations, not a quality ranking."
+citations.csv,url,"HTTP(S) URL after www/host, trailing slash, fragment and known tracking normalization."
+citations.csv,domain,"Normalized hostname from the citation URL, not registrable-domain grouping."
+citations.csv,type,Conservative navigational URL category from the published codebook.
+citations.csv,title,Source title supplied with the declared citation; not full AI answer text.
+within-pairs.csv / cross-platform-pairs.csv,answerPair,Both observations contain successfully captured AI answers.
+within-pairs.csv / cross-platform-pairs.csv,emptySourceSides,"0, 1 or 2 empty citation sides for an answer pair; blank if pair is ineligible."
+within-pairs.csv / cross-platform-pairs.csv,urlJaccard,Intersection/union of normalized URL sets; blank for empty/empty or ineligible pairs.
+within-pairs.csv / cross-platform-pairs.csv,domainJaccard,Intersection/union of normalized hostname sets; blank for empty/empty or ineligible pairs.
+within-pairs.csv / cross-platform-pairs.csv,bothSourceNonempty,Both captured answers contain citations; sensitivity-view membership.
+platform-summary.csv / intent-summary.csv,planned,All fixed requests in the displayed platform or platform–task denominator.
+platform-summary.csv / intent-summary.csv,completed,Successfully collected answer or no-answer captures; technical failures excluded.
+platform-summary.csv / intent-summary.csv,sourceBearing,Answer-bearing observations with at least one eligible citation.
+platform-summary.csv / intent-summary.csv,sourceUrlOccurrences,Within-answer deduplicated URL counts summed across observations.
+platform-summary.csv / intent-summary.csv,definedDomainPairs,Eligible answer pairs with a nonempty hostname union.
+platform-summary.csv / intent-summary.csv,meanDomainJaccard,Macro-mean of defined within-exact-query pairwise hostname Jaccards.
+platform-summary.csv / intent-summary.csv,meanBothNonemptyDomainJaccard,Macro-mean restricted to pairs where both answers have citations.
+cross-platform-summary.csv,matchedPairs,54 planned same-query/same-scheduled-repeat-label pairs for each platform combination.
+source-types.csv,count,Answer-level URL occurrences assigned to a navigational category.
+source-types.csv,share,Category count divided by all citation occurrences in that platform.
+qualitative-source-review.csv,slot,One predetermined city × dental task × platform first-reference slot.
+qualitative-source-review.csv,reviewStatus,"Source-review state; retain inaccessible, unknown and empty states rather than factual-error assumptions."
+qualitative-source-review.csv,treatmentEvidence / dentistEvidence / locationEvidence / contactEvidence,Inspectible evidence recorded by the source-page reviewer; not a clinical or ranking-factor score.
+qualitative-source-review.csv,priceQualificationEvidence,Positive visible fee/payment/insurance/financing context or relevant qualification; not a verified treatment quote.
+qualitative-source-review.csv,manualReview / reviewAgent / inspectedScope,"Assistant review of the saved page text and declared scope, not independent human, peer or clinical review."
+qualitative-source-review.csv,pageSha256,Hash of the dated saved source-page evidence when available; not an AI response identifier.

@@ -1,0 +1,1011 @@
+observation,queryCell,platform,city,intent,variant,wave,sourceOrder,url,domain,type,title
+O001,D01,chatgpt,New York City,cosmetic,selection,1,1,https://bestnewyork.us/cosmetic-dentists,bestnewyork.us,treatment,The 13 Best Cosmetic Dentists in New York
+O001,D01,chatgpt,New York City,cosmetic,selection,1,2,https://realself.com/find/New-York/New-York-City/Porcelain-Veneers,realself.com,directory_social,"Top Porcelain Veneers Providers in New York City, NY"
+O001,D01,chatgpt,New York City,cosmetic,selection,1,3,https://myspecialtydentist.com/best/prosthodontics/ny/new-york,myspecialtydentist.com,unclassified,"Best Prosthodontists in New York, New York (2026)"
+O001,D01,chatgpt,New York City,cosmetic,selection,1,4,https://realself.com/find/New-York/New-York/Porcelain-Veneers,realself.com,directory_social,"Top Porcelain Veneers Providers in New York, NY"
+O002,D01,gemini,New York City,cosmetic,selection,1,1,https://lowenberglituchykantor.com/the-doctors,lowenberglituchykantor.com,unclassified,"The Doctors - LLK - Central Park South, New York City (NYC)"
+O002,D01,gemini,New York City,cosmetic,selection,1,2,https://maisonbedental.com/services/cosmetic-dentistry/porcelain-veneers-new-york-ny,maisonbedental.com,treatment,"Porcelain Veneers in New York, NY | Maison BE Dental Studio"
+O002,D01,gemini,New York City,cosmetic,selection,1,3,https://vipsmiles.com/porcelain-veneers-in-nyc,vipsmiles.com,treatment,Best Porcelain Veneers In NYC - Dr. Catrise Austin
+O004,D01,ai_mode,New York City,cosmetic,selection,1,1,https://book.modento.io/armstrong-dental-studio-midtown-manhattan/g/google-schedule-link/veneer-consult-4tjef,book.modento.io,treatment,Veneer Consult
+O004,D01,ai_mode,New York City,cosmetic,selection,1,2,https://app.nexhealth.com/appt/New-York-Family-Dental-Arts?atid=47783&lid=21247,app.nexhealth.com,unclassified,Cosmetic/ Porcelain Veneer Consultation
+O004,D01,ai_mode,New York City,cosmetic,selection,1,3,https://app.nexhealth.com/appt/smileartsofny?atid=6869&lid=2884,app.nexhealth.com,unclassified,Porcelain Veneers Consultation
+O004,D01,ai_mode,New York City,cosmetic,selection,1,4,https://navmds.com/doctor/dr-mojgan-fajiram-dds,navmds.com,directory_social,Porcelain Veneers
+O004,D01,ai_mode,New York City,cosmetic,selection,1,5,https://tebra.com/care/practice/charles-m-marks-dds-dental-associates-940176?lid=2009579444,tebra.com,directory_social,Porcelain Veneers
+O005,D02,gemini,New York City,cosmetic,dentist_branch_evidence,1,1,https://vipsmiles.com/porcelain-veneers-in-nyc,vipsmiles.com,treatment,Best Porcelain Veneers In NYC - Dr. Catrise Austin
+O005,D02,gemini,New York City,cosmetic,dentist_branch_evidence,1,2,https://lowenberglituchykantor.com/services/porcelain-veneers,lowenberglituchykantor.com,treatment,"Porcelain Veneers in NY, Dental Services for Celebrities - LLK"
+O005,D02,gemini,New York City,cosmetic,dentist_branch_evidence,1,3,https://nycdentalwellness.com/locations/new-york-dentist/cosmetic-dentistry,nycdentalwellness.com,treatment,Cosmetic Dentist Midtown Manhattan | NYC Dental Wellness
+O005,D02,gemini,New York City,cosmetic,dentist_branch_evidence,1,4,https://godental365.com/location/dentist-upper-west-side/porcelain-veneers,godental365.com,treatment,"Porcelain Veneers New York, NY - Dental365 - Upper West Side"
+O007,D02,ai_mode,New York City,cosmetic,dentist_branch_evidence,1,1,https://navmds.com/doctor/dr-mojgan-fajiram-dds,navmds.com,directory_social,Porcelain Veneers
+O007,D02,ai_mode,New York City,cosmetic,dentist_branch_evidence,1,2,https://tebra.com/care/practice/charles-m-marks-dds-dental-associates-940176?lid=2009579444,tebra.com,directory_social,Porcelain Veneers
+O007,D02,ai_mode,New York City,cosmetic,dentist_branch_evidence,1,3,https://book.modento.io/armstrong-dental-studio-midtown-manhattan/g/google-schedule-link/veneer-consult-4tjef,book.modento.io,treatment,Veneer Consult
+O007,D02,ai_mode,New York City,cosmetic,dentist_branch_evidence,1,4,https://app.nexhealth.com/appt/smileartsofny?atid=6869&lid=2884,app.nexhealth.com,unclassified,Porcelain Veneers Consultation
+O007,D02,ai_mode,New York City,cosmetic,dentist_branch_evidence,1,5,https://schedule.jarvisanalytics.com/frame/contemporary-esthetic-dentistry?location_id=7719&service_id=1387,schedule.jarvisanalytics.com,unclassified,Porcelain Crowns & Veneers
+O008,D02,chatgpt,New York City,cosmetic,dentist_branch_evidence,1,1,https://cosmeticdentistrynyc.com/porcelain-veneers,cosmeticdentistrynyc.com,treatment,Official porcelain veneers service page
+O008,D02,chatgpt,New York City,cosmetic,dentist_branch_evidence,1,2,https://cosmeticdentistrynyc.com/,cosmeticdentistrynyc.com,homepage,Office and contact details
+O008,D02,chatgpt,New York City,cosmetic,dentist_branch_evidence,1,3,https://nyccd.com/services/veneers,nyccd.com,treatment,Official veneers service page
+O008,D02,chatgpt,New York City,cosmetic,dentist_branch_evidence,1,4,https://nyccd.com/about/dentists,nyccd.com,unclassified,Dentist biographies
+O008,D02,chatgpt,New York City,cosmetic,dentist_branch_evidence,1,5,https://nymanhattandentist.com/,nymanhattandentist.com,homepage,Official practice website and services
+O008,D02,chatgpt,New York City,cosmetic,dentist_branch_evidence,1,6,https://veneers.nyc/contact-us,veneers.nyc,location,Official veneers practice website
+O008,D02,chatgpt,New York City,cosmetic,dentist_branch_evidence,1,7,https://smileworksnyc.com/cosmetic-dentistry/veneer,smileworksnyc.com,treatment,Official porcelain veneer service page
+O008,D02,chatgpt,New York City,cosmetic,dentist_branch_evidence,1,8,https://doctorarmen.com/,doctorarmen.com,homepage,Official practice website and porcelain veneer services
+O008,D02,chatgpt,New York City,cosmetic,dentist_branch_evidence,1,9,https://lowenberglituchykantor.com/,lowenberglituchykantor.com,homepage,Official practice website and porcelain veneer information
+O008,D02,chatgpt,New York City,cosmetic,dentist_branch_evidence,1,10,https://wynattechudds.com/new-york,wynattechudds.com,unclassified,Official New York office page and services
+O008,D02,chatgpt,New York City,cosmetic,dentist_branch_evidence,1,11,https://arbeitman-shein.com/contact-us/contact-information-office-map,arbeitman-shein.com,location,Official office and services page
+O010,D03,ai_mode,New York City,implants,selection,1,1,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdKNmREUmtjM0Y0GAo,google.com,unclassified,NYC Dental Implants Center
+O010,D03,ai_mode,New York City,implants,selection,1,2,https://google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEdONE1tWnVNZxgK,google.com,unclassified,Dental Implant Center NYC
+O010,D03,ai_mode,New York City,implants,selection,1,3,https://google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEdkdGVEVnpNdxgK,google.com,unclassified,"Mark Stein, DDS, MD"
+O011,D03,chatgpt,New York City,implants,selection,1,1,https://nycdentalimplantscenter.com/dr-navid-rahmani,nycdentalimplantscenter.com,dentist_team,Dr. Navid Rahmani
+O011,D03,chatgpt,New York City,implants,selection,1,2,https://bestnewyork.us/dental-implant-dentists,bestnewyork.us,treatment,The 13 Best Dental Implant Dentists in New York
+O011,D03,chatgpt,New York City,implants,selection,1,3,https://yelp.com/biz/david-weinstein-dds-new-york?adjust_creative=openai,yelp.com,directory_social,"NY Periodontics: Dr. David Weinstein, Dr. Stuart Froum, Dr. Clifford Melnick, & Dr. Allison Rascon"
+O011,D03,chatgpt,New York City,implants,selection,1,4,https://nycdentalimplantscenter.com/,nycdentalimplantscenter.com,homepage,nycdentalimplantscenter.com
+O011,D03,chatgpt,New York City,implants,selection,1,5,https://nyperiodontics.com/,nyperiodontics.com,homepage,nyperiodontics.com
+O011,D03,chatgpt,New York City,implants,selection,1,6,https://natourdmd.com/,natourdmd.com,homepage,Prosthodontist and Implant Dentist: Mazen Natour DMD
+O011,D03,chatgpt,New York City,implants,selection,1,7,https://dental.columbia.edu/teaching-clinics/implant-center,dental.columbia.edu,treatment,Columbia Dental Implant Center - NYC
+O011,D03,chatgpt,New York City,implants,selection,1,8,https://212smiling.com/,212smiling.com,homepage,Periodontist - Prosthodontist - Implant Dentist
+O012,D03,gemini,New York City,implants,selection,1,1,https://nycdentalimplantscenter.com/best-rated-nyc-dental-implant-specialists-top-dentist,nycdentalimplantscenter.com,treatment,Best Rated Dental Implants NYC | Top Implant Specialist in New York
+O012,D03,gemini,New York City,implants,selection,1,2,https://zocdoc.com/practice/manhattan-periodontics-and-implant-dentistry-21023,zocdoc.com,directory_social,"Manhattan Periodontics and Implant Dentistry — New York, NY"
+O012,D03,gemini,New York City,implants,selection,1,3,https://rankmydentist.com/top-dentists/new-york-city/dental-implants,rankmydentist.com,treatment,Best Dental Implants in New York - Top Dentists Guide
+O013,D04,ai_mode,New York City,implants,dentist_branch_evidence,1,1,https://rankmydentist.com/top-dentists/new-york-city/dental-implants,rankmydentist.com,treatment,Best Dental Implants in New York
+O013,D04,ai_mode,New York City,implants,dentist_branch_evidence,1,2,https://zocdoc.com/dentist/greg-diamond-dds-510266?LocIdent=238506&entity_id=pr_ivQnLKqdQ0GhE-B8txNx0R-lo_-QGspJ_BIkytQjBPeiyk2B-entity,zocdoc.com,directory_social,Dental Consultation
+O013,D04,ai_mode,New York City,implants,dentist_branch_evidence,1,3,https://tebra.com/care/practice/robert-lipschutz-dmd-pc-350578?lid=3377357785,tebra.com,directory_social,Dental Implants
+O013,D04,ai_mode,New York City,implants,dentist_branch_evidence,1,4,https://zocdoc.com/dentist/robert-zarabi-dds-674419?LocIdent=368117&entity_id=pr_cY67ht0eSUWyCBs4b_Q2PQ-lo_UtEdeMayfUGvIpYNE4EsLw-entity,zocdoc.com,directory_social,Periodontist Consultation
+O014,D04,chatgpt,New York City,implants,dentist_branch_evidence,1,1,https://upperwestsidedentist.com/,upperwestsidedentist.com,homepage,Official practice website and credentials
+O014,D04,chatgpt,New York City,implants,dentist_branch_evidence,1,2,https://dolmanoralsurgery.com/services/dental-implants,dolmanoralsurgery.com,treatment,Dental implant services and office details
+O014,D04,chatgpt,New York City,implants,dentist_branch_evidence,1,3,https://aldentalstudio.com/,aldentalstudio.com,homepage,Official practice website and implant services
+O014,D04,chatgpt,New York City,implants,dentist_branch_evidence,1,4,https://dentistonmadison.com/,dentistonmadison.com,homepage,Official profile and practice details
+O014,D04,chatgpt,New York City,implants,dentist_branch_evidence,1,5,https://gellerdds.com/,gellerdds.com,homepage,Official biography and implant services
+O014,D04,chatgpt,New York City,implants,dentist_branch_evidence,1,6,https://cosmeticdentalny.com/contact,cosmeticdentalny.com,location,Official practice and contact page
+O014,D04,chatgpt,New York City,implants,dentist_branch_evidence,1,7,https://perionyc.com/,perionyc.com,homepage,Official practice website and locations
+O014,D04,chatgpt,New York City,implants,dentist_branch_evidence,1,8,https://nxdental.com/,nxdental.com,homepage,Official implant dentistry website
+O014,D04,chatgpt,New York City,implants,dentist_branch_evidence,1,9,https://unitednationsplazadental.com/,unitednationsplazadental.com,homepage,Official practice website and dentist profiles
+O014,D04,chatgpt,New York City,implants,dentist_branch_evidence,1,10,https://smileworksnyc.com/oral-surgery/dental-implant,smileworksnyc.com,treatment,Official implant service page
+O014,D04,chatgpt,New York City,implants,dentist_branch_evidence,1,11,https://smileworksnyc.com/manhattan/dental-implants,smileworksnyc.com,treatment,"Dental Implants in Manhattan, New York"
+O015,D04,gemini,New York City,implants,dentist_branch_evidence,1,1,https://new-york-oral-surgery.com/,new-york-oral-surgery.com,homepage,"Oral Surgery NY, Oral Maxillofacial New York City, Dental Implants"
+O015,D04,gemini,New York City,implants,dentist_branch_evidence,1,2,https://rankmydentist.com/top-dentists-new-york-city/nyc-dental-implants-center,rankmydentist.com,treatment,NYC Dental Implants Center - Rank My Dentist
+O015,D04,gemini,New York City,implants,dentist_branch_evidence,1,3,https://nycdentalimplantscenter.com/best-rated-nyc-dental-implant-specialists-top-dentist,nycdentalimplantscenter.com,treatment,Best Rated Dental Implants NYC | Top Implant Specialist in New York
+O015,D04,gemini,New York City,implants,dentist_branch_evidence,1,4,https://centralparkoralsurgery.nyc/dental-implants-nyc,centralparkoralsurgery.nyc,treatment,"Dental Implants NYC | Full Mouth, All-on-4 & Same-Day Implants"
+O017,D05,chatgpt,New York City,urgent,selection,1,1,https://172nycdental.com/services/dental-emergency,172nycdental.com,treatment,Emergency dental services
+O017,D05,chatgpt,New York City,urgent,selection,1,2,https://209nycdental.com/services/dental-emergency,209nycdental.com,treatment,Emergency dental care
+O017,D05,chatgpt,New York City,urgent,selection,1,3,https://nychealthandhospitals.org/bellevue/services/dental,nychealthandhospitals.org,treatment,Bellevue dental clinics
+O017,D05,chatgpt,New York City,urgent,selection,1,4,https://dental.columbia.edu/patient-care/teaching-clinics/emergency-care,dental.columbia.edu,unclassified,Emergency dental care
+O017,D05,chatgpt,New York City,urgent,selection,1,5,https://dental.columbia.edu/cdm-emergency-services-policy,dental.columbia.edu,unclassified,CDM Emergency Services Policy
+O017,D05,chatgpt,New York City,urgent,selection,1,6,https://health.ny.gov/diseases/aids/general/resources/dental_resource_directory/medicaid_medicare.htm,health.ny.gov,editorial,Dental Clinics that Accept Medicaid
+O018,D05,gemini,New York City,urgent,selection,1,1,https://emergencydentistnyc.com/,emergencydentistnyc.com,homepage,"Emergency Dentist NYC: Emergency, Cosmetic, and General"
+O018,D05,gemini,New York City,urgent,selection,1,2,https://cpwdentistry.com/service/emergency-dentistry-nyc,cpwdentistry.com,treatment,Emergency Dentist NYC - Central Park West Dentistry
+O018,D05,gemini,New York City,urgent,selection,1,3,https://dentistemergency.nyc/,dentistemergency.nyc,homepage,Emergency Dental Center | Emergency Dentist in Midtown East
+O018,D05,gemini,New York City,urgent,selection,1,4,https://godental365.com/location/dentist-14th-street/emergency-dentist,godental365.com,treatment,"Emergency Dentist New York, NY - Dental365 - 14th Street"
+O018,D05,gemini,New York City,urgent,selection,1,5,https://hellotend.com/site/dentist-studios/new-york-city/emergency,hellotend.com,unclassified,"Emergency Dentist in New York City, NY - Tend Dental"
+O019,D05,ai_overviews,New York City,urgent,selection,1,1,https://fididentalnyc.com/services/emergency-dentistry,fididentalnyc.com,treatment,"Emergency Dentistry Specialist - Financial District New York, NY: FiDi Dental: Dentistry"
+O019,D05,ai_overviews,New York City,urgent,selection,1,2,https://uptownnycdental.com/new-york-ny/emergency-dentist,uptownnycdental.com,treatment,"Emergency Dentist New York, NY | Uptown Dental Group | Emergency Dental Care Near Me"
+O019,D05,ai_overviews,New York City,urgent,selection,1,3,https://zocdoc.com/practice/emergency-dentist-nyc-and-general-family-dentistry-48142,zocdoc.com,directory_social,"Emergency Dentist NYC & General Family Dentistry — New York, NY"
+O019,D05,ai_overviews,New York City,urgent,selection,1,4,https://smilecafeny.com/specialty/emergency-dentistry-new-york-ny,smilecafeny.com,treatment,Emergency Dentistry in New York NY | Smile Cafe NY
+O019,D05,ai_overviews,New York City,urgent,selection,1,5,https://247localdentist.com/profile/new-york-ny-lumia-dental,247localdentist.com,unclassified,24
+O020,D05,ai_mode,New York City,urgent,selection,1,1,https://dental.nyu.edu/patientcare/emergency-services-urgent-care.html,dental.nyu.edu,unclassified,Emergency Services/Urgent Care - NYU College of Dentistry
+O020,D05,ai_mode,New York City,urgent,selection,1,2,https://dental.nyu.edu/patientcare/faq.html,dental.nyu.edu,unclassified,Frequently Asked Questions - NYU College of Dentistry
+O020,D05,ai_mode,New York City,urgent,selection,1,3,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdZemRqQTNiR0l4GAo,google.com,unclassified,Emergency Dental Center
+O020,D05,ai_mode,New York City,urgent,selection,1,4,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhRM2NHdGpYMlI1GAo,google.com,unclassified,Emergency Dentist 24/7 New York
+O020,D05,ai_mode,New York City,urgent,selection,1,5,https://zocdoc.com/dentist/marina-mats-dds-10124?LocIdent=10656&entity_id=pr_mP_EPZL8NUGgnaGL_6h81R-lo_sMYEODiaCU-woQsMDWwvaB-entity,zocdoc.com,directory_social,Dental Emergency
+O021,D06,gemini,New York City,urgent,dentist_branch_evidence,1,1,https://247localdentist.com/profile/new-york-ny-209-nyc-dental,247localdentist.com,unclassified,"24-Hour Emergency Dentist New York, NY 10022 | 209 NYC Dental"
+O021,D06,gemini,New York City,urgent,dentist_branch_evidence,1,2,https://dental.nyu.edu/patientcare/emergency-services-urgent-care.html,dental.nyu.edu,unclassified,Emergency Services/Urgent Care - NYU College of Dentistry
+O021,D06,gemini,New York City,urgent,dentist_branch_evidence,1,3,https://lesbellesnyc.com/emergency-dentistry,lesbellesnyc.com,treatment,Emergency Dentist on the Upper East Side of Manhattan
+O023,D06,ai_mode,New York City,urgent,dentist_branch_evidence,1,1,https://google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4YUdocmRqUjJOalkYCg,google.com,unclassified,Emergency Dentist NYC
+O023,D06,ai_mode,New York City,urgent,dentist_branch_evidence,1,2,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdkblltNDRkR3RtGAo,google.com,unclassified,NYU Dental - Urgent Care Ctr.
+O023,D06,ai_mode,New York City,urgent,dentist_branch_evidence,1,3,https://google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEdoeFluTXphZxgK,google.com,unclassified,209 NYC Dental
+O023,D06,ai_mode,New York City,urgent,dentist_branch_evidence,1,4,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhvM2NsOXJOekZxGAo,google.com,unclassified,After Dark Dental
+O023,D06,ai_mode,New York City,urgent,dentist_branch_evidence,1,5,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhkNU1tWnJNSEpyGAo,google.com,unclassified,Priority Emergency Dental Care
+O024,D06,chatgpt,New York City,urgent,dentist_branch_evidence,1,1,https://209nycdental.com/services/dental-emergency,209nycdental.com,treatment,"Evidence: emergency services, dentist names, hours and address"
+O024,D06,chatgpt,New York City,urgent,dentist_branch_evidence,1,2,https://172nycdental.com/services/dental-emergency,172nycdental.com,treatment,"Evidence: emergency services, walk-in policy and address"
+O024,D06,chatgpt,New York City,urgent,dentist_branch_evidence,1,3,https://google.com/search?q=After+Dark+Dental+NYC+official+website,google.com,unclassified,Evidence and clinic information
+O024,D06,chatgpt,New York City,urgent,dentist_branch_evidence,1,4,https://dentistemergency.nyc/,dentistemergency.nyc,homepage,"Evidence: dentist, emergency availability and office address"
+O024,D06,chatgpt,New York City,urgent,dentist_branch_evidence,1,5,https://manhattan-dental.com/emergency-care,manhattan-dental.com,unclassified,"Evidence: emergency appointment policy, hours and address"
+O024,D06,chatgpt,New York City,urgent,dentist_branch_evidence,1,6,https://nydentistemergency.com/,nydentistemergency.com,homepage,"Evidence: emergency services, dentist and office address"
+O024,D06,chatgpt,New York City,urgent,dentist_branch_evidence,1,7,https://tribecadentalstudio.com/emergency-dentist-nyc,tribecadentalstudio.com,treatment,"Evidence: emergency services, hours and location"
+O024,D06,chatgpt,New York City,urgent,dentist_branch_evidence,1,8,https://google.com/search?q=Queens+Emergency+Dental+Flushing+official+website,google.com,unclassified,Evidence and clinic information
+O025,D07,ai_overviews,Chicago,cosmetic,selection,1,1,https://chicagodentalstudio.com/veneers-chicago,chicagodentalstudio.com,treatment,Chicago Veneers | Natural & Beautiful Smile
+O025,D07,ai_overviews,Chicago,cosmetic,selection,1,2,https://mitchelldentalspa.com/,mitchelldentalspa.com,homepage,Chicago's Best Cosmetic Dentist | Mitchell Dental Spa
+O025,D07,ai_overviews,Chicago,cosmetic,selection,1,3,https://oradentalstudio.com/porcelain-veneers,oradentalstudio.com,treatment,"Porcelain Veneers in Chicago, IL | Cosmetic Dentist"
+O025,D07,ai_overviews,Chicago,cosmetic,selection,1,4,https://m.yelp.com/search?find_desc=Veneers&find_loc=Chicago%2C+IL,m.yelp.com,directory_social,"TOP 10 BEST Veneers in Chicago, IL - Updated 2026 - Yelp"
+O025,D07,ai_overviews,Chicago,cosmetic,selection,1,5,https://chicagostylesmiles.com/contact,chicagostylesmiles.com,location,New Patient
+O025,D07,ai_overviews,Chicago,cosmetic,selection,1,6,https://app.nexhealth.com/appt/chicagodentalboutique?atid=4447&lid=1544,app.nexhealth.com,unclassified,"Consultation (Implants, Veneers, Invisalign, Whitening)"
+O025,D07,ai_overviews,Chicago,cosmetic,selection,1,7,https://drraffichicago.com/veneers,drraffichicago.com,treatment,Porcelain Veneers - Chicago - Dr. Raffi Dentistry
+O025,D07,ai_overviews,Chicago,cosmetic,selection,1,8,https://archerdentistry.com/how-to-choose-the-right-cosmetic-dentist-in-chicago,archerdentistry.com,treatment,How to Choose the Right Cosmetic Dentist in Chicago |
+O026,D07,ai_mode,Chicago,cosmetic,selection,1,1,https://luxsmiles.net/,luxsmiles.net,homepage,Prosthodontist in Chicago IL | Lux Smiles Cosmetic Dentistry and Prosthodontics
+O026,D07,ai_mode,Chicago,cosmetic,selection,1,2,https://app.nexhealth.com/appt/chicagodentalboutique?atid=4447&lid=1544,app.nexhealth.com,unclassified,"Consultation (Implants, Veneers, Invisalign, Whitening)"
+O026,D07,ai_mode,Chicago,cosmetic,selection,1,3,https://app.nexhealth.com/appt/Dr-Brittany-Dickinson-DMD?atid=13163&lid=20742,app.nexhealth.com,dentist_team,Veneers Consultation
+O026,D07,ai_mode,Chicago,cosmetic,selection,1,4,https://booking.adit.com/0867d586-b840-4736-8558-4ca3d1b71d0c,booking.adit.com,unclassified,Porcelain Veneers
+O027,D07,chatgpt,Chicago,cosmetic,selection,1,1,https://google.com/maps/place/Advanced%20Dentistry%20of%20Chicago%20%7C%20Stuart%20Schelkopf%20DDS.%20MS.%20FACP/data=!4m7!3m6!1s0x880e2d36acf94cf9:0xa948994e2185128b!8m2!3d41.8865777!4d-87.6327762!16s%2Fg%2F11llkk3r8j!19sChIJ-Uz5rDYtDogRixKFIU6ZSKk?authuser=0&hl=en&rclk=1,google.com,unclassified,Advanced Dentistry of Chicago | Stuart Schelkopf DDS. MS. FACP
+O027,D07,chatgpt,Chicago,cosmetic,selection,1,2,https://localdentalclinics.net/c/cosmetic-dentists/illinois/chicago,localdentalclinics.net,treatment,"Best Cosmetic Dentists in Chicago, IL: Top Rated & Reviewed"
+O027,D07,chatgpt,Chicago,cosmetic,selection,1,3,https://yelp.com/biz/brittany-c-dickinson-dmd-chicago-2?adjust_creative=openai,yelp.com,directory_social,"Dr. Brittany Dickinson, D.M.D, M.S."
+O027,D07,chatgpt,Chicago,cosmetic,selection,1,4,https://yelp.com/biz/dr-kevin-landers-faacd-advanced-cosmetic-and-implant-dentistry-chicago?adjust_creative=openai,yelp.com,directory_social,Advanced Cosmetic & Implant Dentistry
+O027,D07,chatgpt,Chicago,cosmetic,selection,1,5,https://yelp.com/biz/chicago-style-smiles-chicago?adjust_creative=openai,yelp.com,directory_social,Chicago Style Smiles
+O027,D07,chatgpt,Chicago,cosmetic,selection,1,6,https://bestinhood.com/chicago/dentists/best-cosmetic-dentists-in-chicago,bestinhood.com,directory_social,5 Best Cosmetic Dentists in Chicago (2026)
+O027,D07,chatgpt,Chicago,cosmetic,selection,1,7,https://chicagostylesmiles.com/,chicagostylesmiles.com,homepage,Practice website
+O027,D07,chatgpt,Chicago,cosmetic,selection,1,8,https://yelp.com/biz/benjamin-s-fiss-dds-chicago-3?adjust_creative=openai,yelp.com,directory_social,"Benjamin S. Fiss, D.D.S."
+O027,D07,chatgpt,Chicago,cosmetic,selection,1,9,https://yelp.com/biz/lux-smiles-cosmetic-dentistry-and-prosthodontics-chicago?adjust_creative=openai,yelp.com,directory_social,Lux Smiles Cosmetic Dentistry and Prosthodontics
+O028,D07,gemini,Chicago,cosmetic,selection,1,1,https://mitchelldentalspa.com/,mitchelldentalspa.com,homepage,Mitchell Dental Spa: Chicago's Best Cosmetic Dentist
+O028,D07,gemini,Chicago,cosmetic,selection,1,2,https://realself.com/find/Illinois/Chicago/Porcelain-Veneers,realself.com,directory_social,"Top Porcelain Veneers Providers in Chicago, IL - RealSelf.com"
+O028,D07,gemini,Chicago,cosmetic,selection,1,3,https://drfiss.com/full-mouth-veneer-before-and-afters,drfiss.com,treatment,"Before & After Full Mouth Porcelain Veneers in Chicago, IL"
+O028,D07,gemini,Chicago,cosmetic,selection,1,4,https://cosmeticdentistchicago.com/reviews,cosmeticdentistchicago.com,unclassified,"Reviews - Advanced Cosmetic Dentistry - Dr. Kevin Landers, FAACD"
+O029,D08,ai_mode,Chicago,cosmetic,dentist_branch_evidence,1,1,https://chicagostylesmiles.com/contact,chicagostylesmiles.com,location,New Patient
+O029,D08,ai_mode,Chicago,cosmetic,dentist_branch_evidence,1,2,https://app.nexhealth.com/appt/Dr-Brittany-Dickinson-DMD?atid=13163&lid=20742,app.nexhealth.com,dentist_team,Veneers Consultation
+O029,D08,ai_mode,Chicago,cosmetic,dentist_branch_evidence,1,3,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdvNU1IaGlNWGR4GAo,google.com,unclassified,Lux Smiles Cosmetic Dentistry and Prosthodontics
+O030,D08,chatgpt,Chicago,cosmetic,dentist_branch_evidence,1,1,https://premierdentistrychicago.com/dental-services/cosmetic-dentistry/porcelain-veneers,premierdentistrychicago.com,treatment,Official porcelain veneers service page
+O030,D08,chatgpt,Chicago,cosmetic,dentist_branch_evidence,1,2,https://drsharifi.com/,drsharifi.com,homepage,Official practice website
+O030,D08,chatgpt,Chicago,cosmetic,dentist_branch_evidence,1,3,https://choicesindentistry.com/veneers,choicesindentistry.com,treatment,Official veneers page
+O030,D08,chatgpt,Chicago,cosmetic,dentist_branch_evidence,1,4,https://watertowerdentalcare.com/services/porcelain-veneers,watertowerdentalcare.com,treatment,Official porcelain veneers page
+O030,D08,chatgpt,Chicago,cosmetic,dentist_branch_evidence,1,5,https://lincolnparkdentalassociates.com/our-services/cosmetic-dentistry/porcelain-dental-veneers,lincolnparkdentalassociates.com,treatment,Official porcelain veneers page
+O030,D08,chatgpt,Chicago,cosmetic,dentist_branch_evidence,1,6,https://biteclubchi.com/cosmetic-dentist-in-bucktown/porcelain-veneers,biteclubchi.com,treatment,Official porcelain veneers page
+O030,D08,chatgpt,Chicago,cosmetic,dentist_branch_evidence,1,7,https://halsteddental.com/hi-tech-smiles,halsteddental.com,unclassified,Official practice website
+O030,D08,chatgpt,Chicago,cosmetic,dentist_branch_evidence,1,8,https://chicagofamilydentalcare.com/services/porcelain-veneers,chicagofamilydentalcare.com,treatment,Official porcelain veneers page
+O030,D08,chatgpt,Chicago,cosmetic,dentist_branch_evidence,1,9,https://dazzlingdentistry.com/dental-services/cosmetic-dentistry/porcelain-veneers,dazzlingdentistry.com,treatment,Official porcelain veneers page
+O031,D08,gemini,Chicago,cosmetic,dentist_branch_evidence,1,1,https://mitchelldentalspa.com/,mitchelldentalspa.com,homepage,Mitchell Dental Spa: Chicago's Best Cosmetic Dentist
+O031,D08,gemini,Chicago,cosmetic,dentist_branch_evidence,1,2,https://chicagodental312.com/cosmetic-dentistry/veneers,chicagodental312.com,treatment,Veneers - Chicago Dental 312
+O033,D09,chatgpt,Chicago,implants,selection,1,1,https://google.com/maps/place?q=place_id%3AChIJFwk0unrTD4gR3JJGektzCtA&hl=en,google.com,unclassified,Chicago Oral Surgery & Implant Center
+O033,D09,chatgpt,Chicago,implants,selection,1,2,https://yably.com/prosthodontists-endodontists-periodontists/chicago,yably.com,unclassified,"The best 76 Prosthodontists, Endodontists & Periodontists in Chicago for 2026"
+O033,D09,chatgpt,Chicago,implants,selection,1,3,https://yelp.com/biz/perio-implant-chicago-chicago?adjust_creative=openai,yelp.com,directory_social,Perio Implant Chicago
+O033,D09,chatgpt,Chicago,implants,selection,1,4,https://reviews.birdeye.com/d/periodontists/chicago-il,reviews.birdeye.com,unclassified,"Top Periodontists Companies in Chicago, IL"
+O033,D09,chatgpt,Chicago,implants,selection,1,5,https://dentistry.uic.edu/patients/dental-services,dentistry.uic.edu,unclassified,Dental Services | College of Dentistry
+O033,D09,chatgpt,Chicago,implants,selection,1,6,https://dentistry.uic.edu/academics/academic-departments/department-of-restorative-dentistry/impant-and-innovations-center,dentistry.uic.edu,unclassified,Implant and Innovations Center | College of Dentistry
+O033,D09,chatgpt,Chicago,implants,selection,1,7,https://yelp.com/biz/clearchoice-dental-implant-center-chicago-2?adjust_creative=openai,yelp.com,directory_social,ClearChoice Dental Implant Center - Chicago
+O033,D09,chatgpt,Chicago,implants,selection,1,8,https://dentalimplantdirectory.com/cities/chicago-il,dentalimplantdirectory.com,unclassified,"Dental Implants in Chicago, IL"
+O033,D09,chatgpt,Chicago,implants,selection,1,9,"https://google.com/maps/place/PerioCraft+-+Advance+Periodontics+%26+Implants/@41.8834907,-87.6257549,17z/data=!3m1!4b1!4m6!3m5!1s0x880e2d3331ae7d0f:0x45aa9bceb68e953a!8m2!3d41.8834907!4d-87.6257549!16s%2Fg%2F11xn5mfl4_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",google.com,treatment,PerioCraft - Advance Periodontics & Implants
+O033,D09,chatgpt,Chicago,implants,selection,1,10,https://yelp.com/biz/fayz-bita-dds-ms-hyde-park-periodontics-and-implant-solutions-chicago?adjust_creative=openai,yelp.com,directory_social,HYDE PARK PERIODONTICS & IMPLANT SOLUTIONS
+O033,D09,chatgpt,Chicago,implants,selection,1,11,https://dentistry.uic.edu/patients/dental-services/specialty-services/periodontal-gum-disease-therapy,dentistry.uic.edu,unclassified,Periodontal (Gum Disease) Therapy | College of Dentistry
+O034,D09,gemini,Chicago,implants,selection,1,1,https://prweb.com/releases/chicago-implant-specialist-dr-irfan-atcha-and-new-teeth-chicago-recognized-as-americas-best-dentists-2026-302697667.html,prweb.com,treatment,Chicago Implant Specialist Dr. Irfan Atcha and New Teeth ... - PRWeb
+O034,D09,gemini,Chicago,implants,selection,1,2,https://dentartchicago.com/,dentartchicago.com,homepage,"DentArt Chicago: Top Rated Dentist Chicago, IL"
+O034,D09,gemini,Chicago,implants,selection,1,3,https://toprateddentist.com/dentists/chicago-il,toprateddentist.com,directory_social,"Best Dentists Near Me in Chicago, IL (2026) | TopRatedDentist.com"
+O035,D09,ai_overviews,Chicago,implants,selection,1,1,https://rankmydentist.com/top-dentists/chicago/all-on-4-dental-implants,rankmydentist.com,treatment,Best All-On-X Dental Implants in Chicago
+O035,D09,ai_overviews,Chicago,implants,selection,1,2,https://yelp.com/search?find_desc=Affordable+Dental+Implants&find_loc=Ravenswood%2C+Chicago%2C+IL,yelp.com,directory_social,"Best Affordable Dental Implants near Ravenswood, Chicago, IL"
+O035,D09,ai_overviews,Chicago,implants,selection,1,3,https://windycityfamilydental.com/cosmetic-dentistry/dental-implants,windycityfamilydental.com,treatment,Dental Implants in Chicago | Tooth Implants & All-on-4
+O035,D09,ai_overviews,Chicago,implants,selection,1,4,https://app.nexhealth.com/appt/MG_Dentistry_Rejuvenation_Center?atid=101314&lid=39206,app.nexhealth.com,unclassified,Consult-Implant
+O035,D09,ai_overviews,Chicago,implants,selection,1,5,https://tebra.com/care/practice/illinois-dental-center-of-belmont-569109?lid=2637247115,tebra.com,directory_social,Dental Implants
+O035,D09,ai_overviews,Chicago,implants,selection,1,6,https://app.nexhealth.com/appt/brighter_dental?atid=54724&lid=25195,app.nexhealth.com,unclassified,Dental Implant Consult
+O035,D09,ai_overviews,Chicago,implants,selection,1,7,https://opencare.com/dentists/chicago-il,opencare.com,directory_social,"20 Best Dentists Near Me in Chicago, IL | Opencare.com"
+O035,D09,ai_overviews,Chicago,implants,selection,1,8,https://dentalimplantscompare.com/find-dental-implants-chicago,dentalimplantscompare.com,treatment,"Find the best low cost dental implants in Chicago, IL"
+O036,D09,ai_mode,Chicago,implants,selection,1,1,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdNeGJETnpjRFY2GAo,google.com,unclassified,Chicago Oral Surgery & Implant Center
+O036,D09,ai_mode,Chicago,implants,selection,1,2,https://google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEhjeFptUnhlZxgK,google.com,unclassified,New Teeth Chicago Dental Implants & Cosmetic Dentistry
+O036,D09,ai_mode,Chicago,implants,selection,1,3,https://google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4Y1RZMmNuTjZNVGMYCg,google.com,unclassified,Comprehensive Dental & Implant Center
+O037,D10,gemini,Chicago,implants,dentist_branch_evidence,1,1,https://orasurgery.com/,orasurgery.com,homepage,ORA Oral Surgery & Implant Studio: Chicago Oral Surgeon
+O037,D10,gemini,Chicago,implants,dentist_branch_evidence,1,2,https://rankmydentist.com/top-dentists/chicago/dental-implants,rankmydentist.com,treatment,Best Dental Implants in Chicago - Top Dentists Guide
+O039,D10,ai_mode,Chicago,implants,dentist_branch_evidence,1,1,https://clearchoice.com/schedule-a-consultation?fc=CC_470d33c4-081a-11ef-a998-c202c3cbb21b&zip=60661,clearchoice.com,unclassified,Dental Implants Consultation
+O039,D10,ai_mode,Chicago,implants,dentist_branch_evidence,1,2,https://app.nexhealth.com/appt/chicagodentalarts?atid=7611&lid=3326,app.nexhealth.com,unclassified,Implant Consultation
+O039,D10,ai_mode,Chicago,implants,dentist_branch_evidence,1,3,https://app.nexhealth.com/appt/smile_partners_usa?atid=223316&lid=72031,app.nexhealth.com,unclassified,Implant Consult
+O039,D10,ai_mode,Chicago,implants,dentist_branch_evidence,1,4,https://tebra.com/care/facility/dr-arshia-taranum-dds-inc-1174060461?lid=2637247115,tebra.com,directory_social,Dental Implants
+O039,D10,ai_mode,Chicago,implants,dentist_branch_evidence,1,5,https://tebra.com/care/practice/illinois-dental-center-of-belmont-569109?lid=2637247115,tebra.com,directory_social,Dental Implants
+O040,D10,chatgpt,Chicago,implants,dentist_branch_evidence,1,1,https://dentalgroupofchicago.com/dental-implants,dentalgroupofchicago.com,treatment,Dental implant services and dentist profile
+O040,D10,chatgpt,Chicago,implants,dentist_branch_evidence,1,2,https://wickerparkdentalgroup.com/chicago-il/dental-implants,wickerparkdentalgroup.com,treatment,Implant services and dentist profile
+O040,D10,chatgpt,Chicago,implants,dentist_branch_evidence,1,3,https://google.com/search?q=Chicago+Oral+Surgery+%26+Implant+Center+Jordan+Ledger+official,google.com,unclassified,Office and provider information
+O040,D10,chatgpt,Chicago,implants,dentist_branch_evidence,1,4,https://google.com/search?q=Hyde+Park+Periodontics+%26+Implant+Solutions+official+website,google.com,unclassified,Find the practice and its implant services
+O040,D10,chatgpt,Chicago,implants,dentist_branch_evidence,1,5,https://crowedentalassociates.com/tooth-replacement-options,crowedentalassociates.com,unclassified,Official dental implant treatment page
+O040,D10,chatgpt,Chicago,implants,dentist_branch_evidence,1,6,https://google.com/search?q=Comprehensive+Dental+%26+Implant+Center+Victor+Pavlych+official,google.com,unclassified,Practice listing and implant-provider details
+O040,D10,chatgpt,Chicago,implants,dentist_branch_evidence,1,7,https://google.com/search?q=Perio+Implant+Chicago+official+website,google.com,unclassified,Practice website
+O040,D10,chatgpt,Chicago,implants,dentist_branch_evidence,1,8,https://chicagodentalimplantsolutions.com/locations,chicagodentalimplantsolutions.com,location,Official locations page
+O040,D10,chatgpt,Chicago,implants,dentist_branch_evidence,1,9,https://dentistschicago.com/dental-implants,dentistschicago.com,treatment,Official dental implant services page
+O040,D10,chatgpt,Chicago,implants,dentist_branch_evidence,1,10,https://brighterdentalchicago.com/dental-implants,brighterdentalchicago.com,treatment,Dental implant services and office addresses
+O041,D11,ai_overviews,Chicago,urgent,selection,1,1,https://24hrdentist.com/,24hrdentist.com,homepage,Emergency Dentist Chicago | 773-549-2800
+O041,D11,ai_overviews,Chicago,urgent,selection,1,2,https://emergencydentistchicago.com/,emergencydentistchicago.com,homepage,Emergency Dentist of Chicago | Weekend Emergency Dentist
+O041,D11,ai_overviews,Chicago,urgent,selection,1,3,https://udpdentistry.com/service/emergency-dentistry/same-day-emergency-dentistry,udpdentistry.com,treatment,"Same-Day Emergency Dentistry in Chicago, IL | University Dental"
+O041,D11,ai_overviews,Chicago,urgent,selection,1,4,https://windycityfamilydental.com/emergency-dentistry,windycityfamilydental.com,treatment,Emergency Dentist in Chicago | Same-Day Care
+O041,D11,ai_overviews,Chicago,urgent,selection,1,5,https://vistadentalchicago.com/emergency-dental-care,vistadentalchicago.com,treatment,Emergency Dentist in Chicago & Skokie Same-Day Urgent Care
+O041,D11,ai_overviews,Chicago,urgent,selection,1,6,https://firstdentalchicago.com/emergency-dental-care,firstdentalchicago.com,treatment,"Emergency Dental Care - Same-Day Appointments - First Dental Center - Chicago, IL"
+O042,D11,ai_mode,Chicago,urgent,selection,1,1,https://book.modento.io/dental-group-of-chicago/g/google-schedule-link/dental-emergency,book.modento.io,treatment,Dental Emergency
+O042,D11,ai_mode,Chicago,urgent,selection,1,2,https://schedule.jarvisanalytics.com/frame/puredentalspa?location_id=9839&service_id=3066,schedule.jarvisanalytics.com,unclassified,Emergency Visit - New Patient
+O042,D11,ai_mode,Chicago,urgent,selection,1,3,https://search.opencare.com/results/24630728688,search.opencare.com,directory_social,Emergency Visit
+O042,D11,ai_mode,Chicago,urgent,selection,1,4,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhwbU5qZDBOSFpyGAo,google.com,unclassified,Immediate Emergency Dental
+O042,D11,ai_mode,Chicago,urgent,selection,1,5,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhwa1gyTnFZM2hyGAo,google.com,unclassified,Immediate Emergency Dental
+O043,D11,chatgpt,Chicago,urgent,selection,1,1,https://vistadentalchicago.com/emergency-dental-care,vistadentalchicago.com,treatment,EMERGENCY DENTAL CARE
+O043,D11,chatgpt,Chicago,urgent,selection,1,2,https://vistadentalchicago.com/urgent-care,vistadentalchicago.com,unclassified,Urgent Dental Care in Chicago & Skokie
+O043,D11,chatgpt,Chicago,urgent,selection,1,3,https://emergencydentistchicago.com/contact,emergencydentistchicago.com,location,Contact Emergency Dentist
+O043,D11,chatgpt,Chicago,urgent,selection,1,4,https://yelp.com/biz/emergency-dentist-chicago-2?adjust_creative=openai,yelp.com,directory_social,Emergency Dentist of Chicago
+O043,D11,chatgpt,Chicago,urgent,selection,1,5,https://smile360chicago.us/services/emergency,smile360chicago.us,treatment,Emergency Dentistry in Chicago
+O043,D11,chatgpt,Chicago,urgent,selection,1,6,https://smile360chicago.us/contact,smile360chicago.us,location,Contact Smile360 Chicago
+O043,D11,chatgpt,Chicago,urgent,selection,1,7,https://swloopdental.com/emergency-dental-care,swloopdental.com,treatment,"Emergency Dental Care | Chicago, IL"
+O043,D11,chatgpt,Chicago,urgent,selection,1,8,https://firstdentalchicago.com/emergency-dental-care,firstdentalchicago.com,treatment,Emergency Dental Care - Same-Day Appointments - First Dental Center
+O044,D11,gemini,Chicago,urgent,selection,1,1,https://firstdentalchicago.com/emergency-dental-care,firstdentalchicago.com,treatment,"Emergency Dental Care - Same-Day Appointments - Chicago, IL"
+O044,D11,gemini,Chicago,urgent,selection,1,2,https://emergencydentistchicago.com/,emergencydentistchicago.com,homepage,Emergency Dentist of Chicago | Weekend Emergency Dentist
+O044,D11,gemini,Chicago,urgent,selection,1,3,https://24hrdentist.com/,24hrdentist.com,homepage,Emergency Dentist Chicago | 773-549-2800
+O044,D11,gemini,Chicago,urgent,selection,1,4,https://aspendental.com/dentist/il/chicago/3201-n-western-ave/emergency-dental-services,aspendental.com,treatment,"Emergency Dental Services in Chicago, IL (Roscoe Village)"
+O044,D11,gemini,Chicago,urgent,selection,1,5,https://hydepark.smilestudiochicago.com/chicago-il/emergency-dentist-vs-emergency-room,hydepark.smilestudiochicago.com,treatment,"Emergency Dentist vs. Emergency Room Chicago, IL"
+O046,D12,chatgpt,Chicago,urgent,dentist_branch_evidence,1,1,https://vistadentalchicago.com/emergency-dental-care,vistadentalchicago.com,treatment,Official emergency-care page
+O046,D12,chatgpt,Chicago,urgent,dentist_branch_evidence,1,2,https://emergencydentistchicago.com/contact,emergencydentistchicago.com,location,Official contact and emergency-care page
+O046,D12,chatgpt,Chicago,urgent,dentist_branch_evidence,1,3,https://moderndentalchicago.com/emergency-dentist-chicago,moderndentalchicago.com,treatment,Official emergency-dentistry page
+O046,D12,chatgpt,Chicago,urgent,dentist_branch_evidence,1,4,https://regensmilestudio.com/services/emergencies,regensmilestudio.com,treatment,Official emergency-care page
+O046,D12,chatgpt,Chicago,urgent,dentist_branch_evidence,1,5,https://postfamilydental.com/chicago-il/services/emergency-dental-services,postfamilydental.com,treatment,Official emergency-dental-services page
+O046,D12,chatgpt,Chicago,urgent,dentist_branch_evidence,1,6,https://smile360chicago.us/,smile360chicago.us,homepage,Official practice website
+O046,D12,chatgpt,Chicago,urgent,dentist_branch_evidence,1,7,https://dentistschicago.com/emergency-dental-care,dentistschicago.com,treatment,Official emergency-dental-care page
+O046,D12,chatgpt,Chicago,urgent,dentist_branch_evidence,1,8,https://swloopdental.com/emergency-dental-care,swloopdental.com,treatment,Official emergency-care page
+O047,D12,gemini,Chicago,urgent,dentist_branch_evidence,1,1,https://aspendental.com/dentist/il/chicago/3201-n-western-ave/emergency-dental-services,aspendental.com,treatment,"Emergency Dental Services in Chicago, IL (Roscoe Village)"
+O047,D12,gemini,Chicago,urgent,dentist_branch_evidence,1,2,https://vistadentalchicago.com/emergency-dental-care,vistadentalchicago.com,treatment,Emergency Dentist in Chicago & Skokie Same-Day Urgent Care
+O047,D12,gemini,Chicago,urgent,dentist_branch_evidence,1,3,https://mydentalq.com/emergency-dentist-lincoln-park-south-loop,mydentalq.com,treatment,Emergency Dentist in Lincoln Park & South Loop | DentalQ
+O047,D12,gemini,Chicago,urgent,dentist_branch_evidence,1,4,https://24hrdentist.com/,24hrdentist.com,homepage,Emergency Dentist Chicago | 773-549-2800
+O047,D12,gemini,Chicago,urgent,dentist_branch_evidence,1,5,https://archerdental.org/dental-services/walk-in-dental-appointments,archerdental.org,unclassified,Walk-in & Same Day Appointments - Archer Dental
+O049,D13,chatgpt,Dallas,cosmetic,selection,1,1,https://sk2dental.com/smile-gallery,sk2dental.com,unclassified,"Smile Gallery | Dallas, Texas"
+O049,D13,chatgpt,Dallas,cosmetic,selection,1,2,https://drdavidbrumbaugh.com/patient-resources/gallery,drdavidbrumbaugh.com,unclassified,Smile Gallery | Before & After
+O049,D13,chatgpt,Dallas,cosmetic,selection,1,3,https://cosmeticdentistofdallas.com/smile-gallery,cosmeticdentistofdallas.com,unclassified,Cosmetic Dentistry Before & After Photos
+O049,D13,chatgpt,Dallas,cosmetic,selection,1,4,https://yelp.com/biz/dallas-esthetics-dallas?adjust_creative=openai,yelp.com,directory_social,Dallas Esthetics
+O049,D13,chatgpt,Dallas,cosmetic,selection,1,5,https://dallasesthetics.com/,dallasesthetics.com,homepage,Practice information
+O049,D13,chatgpt,Dallas,cosmetic,selection,1,6,https://premierdallasdentist.com/,premierdallasdentist.com,homepage,Cosmetic Dentist North Dallas
+O049,D13,chatgpt,Dallas,cosmetic,selection,1,7,https://yelp.com/biz/vicki-borowski-dds-cowdin-cosmetic-dentistry-dallas?adjust_creative=openai,yelp.com,directory_social,Cowdin Cosmetic Dentistry
+O049,D13,chatgpt,Dallas,cosmetic,selection,1,8,https://cowdindentistry.com/,cowdindentistry.com,homepage,Practice website
+O050,D13,gemini,Dallas,cosmetic,selection,1,1,https://veneerdentistsnearme.com/minimal-prep-veneers/dallas-cosmetic-dentistry-park-cities-dental,veneerdentistsnearme.com,treatment,Dallas Cosmetic Dentistry - Park Cities Dental - Top Veneer Dentists
+O051,D13,ai_overviews,Dallas,cosmetic,selection,1,1,https://dailysmilesdental.com/cosmetic-dentistry.html,dailysmilesdental.com,treatment,"Cosmetic Dentist Dallas, TX | Daily Smiles Dental Dallas"
+O051,D13,ai_overviews,Dallas,cosmetic,selection,1,2,https://dallascosmeticdentist.us/which-veneers-look-most-natural-dallas-tx,dallascosmeticdentist.us,treatment,"Discover Which Veneers Look Most Natural in Dallas, TX"
+O051,D13,ai_overviews,Dallas,cosmetic,selection,1,3,https://thedentistdallas.com/best-veneers-near-me,thedentistdallas.com,treatment,Best Veneers Near Me - Dallas Dentist
+O051,D13,ai_overviews,Dallas,cosmetic,selection,1,4,https://zocdoc.com/practice/mylo-dental-studio-139214?LocIdent=335602&entity_id=pt_6jy5rAaVqkSKEgtWph_jIw-lo_aEGTUU23n0aW-pzT_X-RmR-entity,zocdoc.com,directory_social,Dentist
+O051,D13,ai_overviews,Dallas,cosmetic,selection,1,5,https://reddit.com/r/Dallas/comments/1aw1nw3/any_recommendations_for_great_cosmetic_dentists,reddit.com,directory_social,Any recommendations for great cosmetic dentists in DFW?
+O051,D13,ai_overviews,Dallas,cosmetic,selection,1,6,https://zocdoc.com/dentist/anthony-henegar-dds-591496?LocIdent=319949&entity_id=pr_ZQUjmKlV9UWGgLdrINEspA-lo_QfjW9JGVZEOto77LzTQozR-entity,zocdoc.com,directory_social,Dental Consultation
+O051,D13,ai_overviews,Dallas,cosmetic,selection,1,7,https://dentistindallastexas.com/blog/which-is-better-veneers-or-bonding-the-dallas-cosmetic-dentist-reviews-both,dentistindallastexas.com,editorial,Veneers or Bonding? The Dallas Cosmetic Dentist Reviews ...
+O051,D13,ai_overviews,Dallas,cosmetic,selection,1,8,https://cosmeticdentistdallastx.com/dallas-tx/dental-veneers-and-dental-laminates,cosmeticdentistdallastx.com,treatment,"Dental Veneers and Dental Laminates Dallas, TX"
+O051,D13,ai_overviews,Dallas,cosmetic,selection,1,9,https://dailysmilesdental.com/porcelain-veneers.html,dailysmilesdental.com,treatment,"Veneers Dallas, TX | Cracked Teeth | Daily Smiles Dental Dallas"
+O052,D13,ai_mode,Dallas,cosmetic,selection,1,1,https://m.yelp.com/search?find_desc=Porcelain+Veneers&find_loc=Dallas%2C+TX,m.yelp.com,directory_social,"TOP 10 BEST Porcelain Veneers in Dallas, TX"
+O052,D13,ai_mode,Dallas,cosmetic,selection,1,2,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdNMlh6Wm1lR2QyGAo,google.com,unclassified,Dental Design Specialists
+O052,D13,ai_mode,Dallas,cosmetic,selection,1,3,https://zocdoc.com/practice/mylo-dental-studio-139214?LocIdent=335602&entity_id=pt_6jy5rAaVqkSKEgtWph_jIw-lo_aEGTUU23n0aW-pzT_X-RmR-entity,zocdoc.com,directory_social,Dentist - All Procedures
+O053,D14,gemini,Dallas,cosmetic,dentist_branch_evidence,1,1,https://mintdentistry.com/dentist/dfw/highland-hotel/services/cosmetic-dentistry/porcelain-veneers-dallas-tx,mintdentistry.com,treatment,"Porcelain Veneers in Dallas, TX | MINT Highland Hotel"
+O053,D14,gemini,Dallas,cosmetic,dentist_branch_evidence,1,2,https://dallasdentalspa.com/no-prep-veneers,dallasdentalspa.com,treatment,No-Prep Veneers - Dallas Dental Arts
+O053,D14,gemini,Dallas,cosmetic,dentist_branch_evidence,1,3,https://dallascosmeticdentist.us/porcelain-dental-veneers,dallascosmeticdentist.us,treatment,Porcelain Veneers Dallas TX - Dallas Laser Dentistry
+O053,D14,gemini,Dallas,cosmetic,dentist_branch_evidence,1,4,https://drjackbodie.com/cosmetic-treatments/porcelain-veneers,drjackbodie.com,treatment,"Porcelain Veneers Dentist in Dallas TX - Jack Bodie, DDS"
+O054,D14,ai_overviews,Dallas,cosmetic,dentist_branch_evidence,1,1,https://m.yelp.com/search?find_desc=best+dentist+veneers&find_loc=Dallas%2C+TX,m.yelp.com,directory_social,"Best Dentist Veneers Dallas, TX"
+O054,D14,ai_overviews,Dallas,cosmetic,dentist_branch_evidence,1,2,https://facebook.com/fb-answers/cosmetic-dentistry-dallas-texas,facebook.com,directory_social,"Cosmetic Dentistry Dallas Texas: Dentists, Costs, and Options"
+O054,D14,ai_overviews,Dallas,cosmetic,dentist_branch_evidence,1,3,https://dallascosmeticdentist.us/porcelain-dental-veneers,dallascosmeticdentist.us,treatment,Porcelain Veneers Dallas TX
+O054,D14,ai_overviews,Dallas,cosmetic,dentist_branch_evidence,1,4,https://google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEhCc2NYSXdkQRgK,google.com,unclassified,Dallas Laser Dentistry
+O054,D14,ai_overviews,Dallas,cosmetic,dentist_branch_evidence,1,5,https://google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEdONGF6UjVlURgK,google.com,unclassified,North Dallas Cosmetic Dentistry - Robert B. Mitchell
+O054,D14,ai_overviews,Dallas,cosmetic,dentist_branch_evidence,1,6,https://dallascosmeticdentist.us/award-winning-cosmetic-dentistry,dallascosmeticdentist.us,treatment,Award-winning Cosmetic Dentistry Dallas TX | Dallas Laser Dentistry
+O054,D14,ai_overviews,Dallas,cosmetic,dentist_branch_evidence,1,7,https://parkcentraldentaltx.com/services/cosmetic-dentistry/porcelain-dental-veneers,parkcentraldentaltx.com,treatment,Porcelain Veneers Dallas TX | Transform Your Smile | PCD
+O054,D14,ai_overviews,Dallas,cosmetic,dentist_branch_evidence,1,8,https://topcosmeticdentistofdallas.com/dental-services/cosmetic-dentistry/porcelain-veneers,topcosmeticdentistofdallas.com,treatment,Porcelain Veneers Dallas TX | William P. Huckin University Park
+O055,D14,ai_mode,Dallas,cosmetic,dentist_branch_evidence,1,1,https://dallascosmeticdentist.us/porcelain-dental-veneers,dallascosmeticdentist.us,treatment,Porcelain Veneers Dallas TX
+O055,D14,ai_mode,Dallas,cosmetic,dentist_branch_evidence,1,2,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdNMlh6Wm1lR2QyGAo,google.com,unclassified,Dental Design Specialists
+O055,D14,ai_mode,Dallas,cosmetic,dentist_branch_evidence,1,3,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdjM2VqQTRjMmhzGAo,google.com,unclassified,Redefine: Dental Aesthetic and Wellness Center of Dallas by Darya Timin DDS
+O056,D14,chatgpt,Dallas,cosmetic,dentist_branch_evidence,1,1,https://cowdincosmeticdentistry.com/porcelain-veneers-dallas-tx,cowdincosmeticdentistry.com,treatment,Official porcelain veneers page
+O056,D14,chatgpt,Dallas,cosmetic,dentist_branch_evidence,1,2,https://topcosmeticdentistofdallas.com/dental-services/cosmetic-dentistry/porcelain-veneers,topcosmeticdentistofdallas.com,treatment,Official porcelain veneers page
+O056,D14,chatgpt,Dallas,cosmetic,dentist_branch_evidence,1,3,https://nevilledental.com/,nevilledental.com,homepage,Official practice website
+O056,D14,chatgpt,Dallas,cosmetic,dentist_branch_evidence,1,4,https://cosmeticdentistofdallas.com/services/cosmetic-dentistry/porcelain-veneers-dallas-tx,cosmeticdentistofdallas.com,treatment,Official porcelain veneers page
+O056,D14,chatgpt,Dallas,cosmetic,dentist_branch_evidence,1,5,https://blissdentalofdallas.com/veneers,blissdentalofdallas.com,treatment,Official veneers page
+O056,D14,chatgpt,Dallas,cosmetic,dentist_branch_evidence,1,6,https://dallasesthetics.com/our-services/cosmetic-dentistry,dallasesthetics.com,treatment,Official cosmetic dentistry page
+O056,D14,chatgpt,Dallas,cosmetic,dentist_branch_evidence,1,7,https://dallasesthetics.com/our-services/porcelain-veneers,dallasesthetics.com,treatment,Porcelain Veneers
+O056,D14,chatgpt,Dallas,cosmetic,dentist_branch_evidence,1,8,https://eastquarterdental.com/porcelain-veneers,eastquarterdental.com,treatment,Official porcelain veneers page
+O056,D14,chatgpt,Dallas,cosmetic,dentist_branch_evidence,1,9,https://katytrail.dental/services/cosmetic-dentistry/dental-veneers,katytrail.dental,treatment,Official dental veneers page
+O058,D15,ai_mode,Dallas,implants,selection,1,1,https://m.yelp.com/search?find_desc=Dental+Implants&find_loc=Dallas%2C+TX,m.yelp.com,directory_social,"TOP 10 BEST Dental Implants in Dallas, TX - Updated 2026 - Yelp"
+O058,D15,ai_mode,Dallas,implants,selection,1,2,https://google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEdkb00yUXpPURgK,google.com,unclassified,The Dental Implant Center
+O058,D15,ai_mode,Dallas,implants,selection,1,3,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVd3eGNuQTJjVzV6GAo,google.com,unclassified,Dallas Dental Implant Center
+O059,D15,chatgpt,Dallas,implants,selection,1,1,https://dentistsranked.com/dental-services/dental-implants-dallas-tx,dentistsranked.com,treatment,"Best Dental Implant Dentists in Dallas, TX (2026): 251 Ranked"
+O059,D15,chatgpt,Dallas,implants,selection,1,2,https://dentalimplantdirectory.com/cities/dallas-tx,dentalimplantdirectory.com,unclassified,"Dental Implants in Dallas, TX"
+O059,D15,chatgpt,Dallas,implants,selection,1,3,https://myspecialtydentist.com/best/prosthodontics/tx/dallas,myspecialtydentist.com,unclassified,"Best Prosthodontists in Dallas, Texas (2026)"
+O059,D15,chatgpt,Dallas,implants,selection,1,4,https://dentalimplantcenter.com/,dentalimplantcenter.com,homepage,Dental Implant Center
+O059,D15,chatgpt,Dallas,implants,selection,1,5,https://toothlocal.com/texas/dallas/the-dental-implant-center,toothlocal.com,treatment,"The Dental Implant Center, Dallas TX: Reviews and What Patients Say"
+O059,D15,chatgpt,Dallas,implants,selection,1,6,https://toothlocal.com/texas/dallas/dallas-periodontal-associates-and-dental-implants,toothlocal.com,treatment,"Dallas Periodontal Associates & Dental Implants, Dallas TX: Reviews and What Patients Say"
+O059,D15,chatgpt,Dallas,implants,selection,1,7,https://localdentalclinics.net/c/dental-implants/texas/dallas,localdentalclinics.net,treatment,"Best Dental Implants in Dallas, TX: Top Rated & Reviewed"
+O059,D15,chatgpt,Dallas,implants,selection,1,8,https://dallasimplant.com/,dallasimplant.com,homepage,dallasimplant.com
+O059,D15,chatgpt,Dallas,implants,selection,1,9,https://texascenterforos.com/,texascenterforos.com,homepage,Texas Center for Oral Surgery
+O059,D15,chatgpt,Dallas,implants,selection,1,10,https://dallasperiodontics.com/,dallasperiodontics.com,homepage,Dallas Periodontics and Dental Implants
+O059,D15,chatgpt,Dallas,implants,selection,1,11,https://fastnewsmile.com/,fastnewsmile.com,homepage,FastNewSmile
+O060,D15,gemini,Dallas,implants,selection,1,1,https://dbest.co/best-dental-implant-dallas,dbest.co,treatment,The Best Dental Implants Dallas [ 2026 ] - Dbest
+O060,D15,gemini,Dallas,implants,selection,1,2,https://rankmydentist.com/top-dentists/dallas/all-on-4-dental-implants,rankmydentist.com,treatment,Best All-On-X Dental Implants in Dallas - Top Dentists Guide
+O060,D15,gemini,Dallas,implants,selection,1,3,https://dentalimplantcenter.com/about-dr-david-mcfadden,dentalimplantcenter.com,unclassified,"Dr. David McFadden, Board-Certified Prosthodontist in Dallas, TX."
+O060,D15,gemini,Dallas,implants,selection,1,4,https://smyleee.com/top-10/top-10-best-dental-implants-in-dallas-tx-best-dental-implants-in-dallas-texas,smyleee.com,treatment,Top 10 Best Dental Implants in Dallas Tx (October 2026 Review)
+O060,D15,gemini,Dallas,implants,selection,1,5,https://downtowndallasdentist.com/dental-implants,downtowndallasdentist.com,treatment,"Dallas Dental Implants - Dr. Keith W. Brewster, DDS"
+O061,D16,ai_mode,Dallas,implants,dentist_branch_evidence,1,1,https://zocdoc.com/practice/dental-dimensions-65968?LocIdent=145850&entity_id=pt_yjfGx_a4i0qiOkKjuR58GR-lo_2Fwiaz4Qd0aB9nw8i5zF6B-entity,zocdoc.com,directory_social,Dental Implant(S)
+O061,D16,ai_mode,Dallas,implants,dentist_branch_evidence,1,2,https://app.nexhealth.com/appt/smiley-dental-and-orthodontics?atid=1176569&lid=118656,app.nexhealth.com,unclassified,Implant Consult
+O061,D16,ai_mode,Dallas,implants,dentist_branch_evidence,1,3,https://tebra.com/care/provider/quincy-attipoe-dds-1912116435?lid=1563497261,tebra.com,directory_social,Implants
+O062,D16,chatgpt,Dallas,implants,dentist_branch_evidence,1,1,https://dentalimplantcenter.com/,dentalimplantcenter.com,homepage,Official practice website
+O062,D16,chatgpt,Dallas,implants,dentist_branch_evidence,1,2,https://periodallas.com/,periodallas.com,homepage,Official practice website
+O062,D16,chatgpt,Dallas,implants,dentist_branch_evidence,1,3,https://parkcitiesoms.com/,parkcitiesoms.com,homepage,Official practice website
+O062,D16,chatgpt,Dallas,implants,dentist_branch_evidence,1,4,https://archpointid.com/,archpointid.com,homepage,Official practice website and locations
+O062,D16,chatgpt,Dallas,implants,dentist_branch_evidence,1,5,https://oralsurgeryofdallas.com/procedures/dental-implants,oralsurgeryofdallas.com,treatment,Dental implant services and office details
+O062,D16,chatgpt,Dallas,implants,dentist_branch_evidence,1,6,https://google.com/search?q=Texas+Center+for+Oral+Surgery+%26+Dental+Implants+Dallas+official+website,google.com,unclassified,Practice listing and office details
+O062,D16,chatgpt,Dallas,implants,dentist_branch_evidence,1,7,https://freshsmiletx.com/,freshsmiletx.com,homepage,Official practice website
+O062,D16,chatgpt,Dallas,implants,dentist_branch_evidence,1,8,https://mysoleildental.com/services/dental-implants,mysoleildental.com,treatment,Official dental implant service page
+O063,D16,gemini,Dallas,implants,dentist_branch_evidence,1,1,https://dentalimplantcenter.com/contact-us-and-sign-up-for-a-personal-consultation,dentalimplantcenter.com,location,Contact Us & Sign up for a Personal Consultation
+O063,D16,gemini,Dallas,implants,dentist_branch_evidence,1,2,https://dallasimplant.com/dental-implant-treatment,dallasimplant.com,treatment,"Dental Implant Treatment in Dallas, TX"
+O063,D16,gemini,Dallas,implants,dentist_branch_evidence,1,3,https://downtowndallasdentist.com/dental-implants,downtowndallasdentist.com,treatment,"Dallas Dental Implants - Dr. Keith W. Brewster, DDS"
+O064,D16,ai_overviews,Dallas,implants,dentist_branch_evidence,1,1,https://ntxpa.com/dental-implants-dallas-tx,ntxpa.com,treatment,"Dental Implants in Dallas TX | D. Bradley Dean, DDS, MS"
+O064,D16,ai_overviews,Dallas,implants,dentist_branch_evidence,1,2,https://archpointid.com/,archpointid.com,homepage,"All-on-4 Dental Implants in Dallas–Fort Worth, TX | ARCHPOINT Implant Dentistry"
+O064,D16,ai_overviews,Dallas,implants,dentist_branch_evidence,1,3,https://archpointid.com/office/dallas,archpointid.com,location,Dental Implants in Dallas | ARCHPOINT Implant Dentistry
+O064,D16,ai_overviews,Dallas,implants,dentist_branch_evidence,1,4,https://google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEdkb00yUXpPURgK,google.com,unclassified,The Dental Implant Center
+O064,D16,ai_overviews,Dallas,implants,dentist_branch_evidence,1,5,https://google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4Y1RWaWJtcDJlRGcYCg,google.com,unclassified,ARCHPOINT Implant Dentistry
+O064,D16,ai_overviews,Dallas,implants,dentist_branch_evidence,1,6,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVd3eGNuQTJjVzV6GAo,google.com,unclassified,Dallas Dental Implant Center
+O064,D16,ai_overviews,Dallas,implants,dentist_branch_evidence,1,7,https://clearchoice.com/schedule-a-consultation?fc=CC_470d3d56-081a-11ef-a998-c202c3cbb21b&zip=75231,clearchoice.com,unclassified,Dental Implants Consultation
+O064,D16,ai_overviews,Dallas,implants,dentist_branch_evidence,1,8,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhac2FIQnNYMk40GAo,google.com,unclassified,Dallas Periodontics and Dental Implants
+O065,D17,chatgpt,Dallas,urgent,selection,1,1,https://dentalemergencycare.com/,dentalemergencycare.com,homepage,Dental Emergency Care
+O065,D17,chatgpt,Dallas,urgent,selection,1,2,https://drdavidbrumbaugh.com/services/general-dentistry/emergency-dentistry,drdavidbrumbaugh.com,treatment,"Emergency Dentist in Dallas, TX"
+O065,D17,chatgpt,Dallas,urgent,selection,1,3,https://mysoleildental.com/services/emergency-dentist,mysoleildental.com,treatment,"Emergency Dentist Oak Lawn, Dallas: $75 Exam"
+O065,D17,chatgpt,Dallas,urgent,selection,1,4,https://goldcoastdental.com/locations/dallas-tx/emergency-dentist-in-dallas,goldcoastdental.com,treatment,Emergency Dentist in Dallas
+O065,D17,chatgpt,Dallas,urgent,selection,1,5,https://bonnieviewdentaldallas.com/our-services/emergency-dentistry,bonnieviewdentaldallas.com,treatment,"Emergency Dentist in Dallas, TX"
+O065,D17,chatgpt,Dallas,urgent,selection,1,6,https://dulcedentalofdallas.com/our-services/emergency-dentistry,dulcedentalofdallas.com,treatment,"Emergency Dentist in Dallas, TX"
+O066,D17,gemini,Dallas,urgent,selection,1,1,https://parkcentraldentaltx.com/services/general-family-dentistry/same-day-emergency-care,parkcentraldentaltx.com,treatment,Emergency Dentist Dallas TX | Same-Day Care | 214-340-9696
+O066,D17,gemini,Dallas,urgent,selection,1,2,https://crossroadsdentaldallas.com/our-services/emergency-dental-care,crossroadsdentaldallas.com,treatment,"Emergency Dentist in Dallas, Texas - Crossroads Dental"
+O066,D17,gemini,Dallas,urgent,selection,1,3,https://247localdentist.com/profile/dallas-tx-mint-dentistry-uptown,247localdentist.com,unclassified,"24-Hour Emergency Dentist Dallas, TX 75201 | MINT Dentistry"
+O066,D17,gemini,Dallas,urgent,selection,1,4,https://smilekingdomtx.com/services/emergency-dentist-dallas,smilekingdomtx.com,treatment,Emergency Dentist Dallas - Smile Kingdom Dental & Orthodontics
+O068,D17,ai_mode,Dallas,urgent,selection,1,1,https://emergencydental.com/dallas,emergencydental.com,unclassified,"Emergency Dentist in Dallas, TX | Same-Day Dental Care"
+O068,D17,ai_mode,Dallas,urgent,selection,1,2,https://zocdoc.com/dentist/jonathan-swope-dds-673354?LocIdent=368044&entity_id=pr_A4h2jGx0WEK7tf-X_aQDTg-lo_ZNkzBA7lAUuUCAQLnD2jLQ-entity,zocdoc.com,directory_social,Dental Emergency
+O068,D17,ai_mode,Dallas,urgent,selection,1,3,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdoaWMzaDNlVEZqGAo,google.com,unclassified,DentUrgent
+O069,D18,gemini,Dallas,urgent,dentist_branch_evidence,1,1,https://dentaldefendersdallas.com/empty-page/emergency-dental-care-Dallas,dentaldefendersdallas.com,treatment,"Emergency Dental Care in Dallas, TX | (469) 677-2575"
+O069,D18,gemini,Dallas,urgent,dentist_branch_evidence,1,2,https://parkcentraldentaltx.com/services/general-family-dentistry/same-day-emergency-care,parkcentraldentaltx.com,treatment,Emergency Dentist Dallas TX | Same-Day Care | 214-340-9696
+O069,D18,gemini,Dallas,urgent,dentist_branch_evidence,1,3,https://emergencydentistdallastx.com/,emergencydentistdallastx.com,homepage,"Emergency Dentist in Dallas, TX | Open 7 Days | DentUrgent"
+O069,D18,gemini,Dallas,urgent,dentist_branch_evidence,1,4,https://lfdentist.com/dental-services/general-dentistry/emergency-dentistry-dallas-tx,lfdentist.com,treatment,"No-waiting Emergency Dentist in Dallas, TX | Same day dental care"
+O069,D18,gemini,Dallas,urgent,dentist_branch_evidence,1,5,https://247localdentist.com/profile/dallas-tx-dental-loft,247localdentist.com,unclassified,"24-Hour Emergency Dentist Dallas, TX 75231 | Dental Loft"
+O071,D18,ai_mode,Dallas,urgent,dentist_branch_evidence,1,1,https://zocdoc.com/dentist/jonathan-swope-dds-673354?LocIdent=368044&entity_id=pr_A4h2jGx0WEK7tf-X_aQDTg-lo_ZNkzBA7lAUuUCAQLnD2jLQ-entity,zocdoc.com,directory_social,Dental Emergency
+O071,D18,ai_mode,Dallas,urgent,dentist_branch_evidence,1,2,https://zocdoc.com/dentist/shahriar-soroushi-dds-704623?LocIdent=137872&entity_id=pr_OpZ92Hj8H0iI9KkkIGJV_w-lo_RJvmUM1D3Eeh_qO1280pkR-entity,zocdoc.com,directory_social,Dental Emergency
+O071,D18,ai_mode,Dallas,urgent,dentist_branch_evidence,1,3,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVc1M05ubGZlR3N5GAo,google.com,unclassified,Emergency Dental Service Dallas
+O072,D18,chatgpt,Dallas,urgent,dentist_branch_evidence,1,1,https://emergencydentistdallastx.com/,emergencydentistdallastx.com,homepage,Official website and emergency services
+O072,D18,chatgpt,Dallas,urgent,dentist_branch_evidence,1,2,https://emergencydentistdallastx.com/contact-us,emergencydentistdallastx.com,location,Office contact and address
+O072,D18,chatgpt,Dallas,urgent,dentist_branch_evidence,1,3,https://dallassaturdaydentist.com/,dallassaturdaydentist.com,homepage,Official website and evidence
+O072,D18,chatgpt,Dallas,urgent,dentist_branch_evidence,1,4,https://eastquarterdental.com/emergency-dentistry,eastquarterdental.com,treatment,Official emergency dentistry page
+O072,D18,chatgpt,Dallas,urgent,dentist_branch_evidence,1,5,https://drdavidbrumbaugh.com/services/general-dentistry/emergency-dentistry,drdavidbrumbaugh.com,treatment,Official emergency dentistry page
+O072,D18,chatgpt,Dallas,urgent,dentist_branch_evidence,1,6,https://hfdentist.com/,hfdentist.com,homepage,Official practice website
+O072,D18,chatgpt,Dallas,urgent,dentist_branch_evidence,1,7,https://dulcedentalofdallas.com/our-services/emergency-dentistry,dulcedentalofdallas.com,treatment,Official emergency dentistry page
+O072,D18,chatgpt,Dallas,urgent,dentist_branch_evidence,1,8,https://emergencydental.com/dallas,emergencydental.com,unclassified,Official Dallas-area location and services
+O072,D18,chatgpt,Dallas,urgent,dentist_branch_evidence,1,9,https://emergencydental.com/dallas/contact-us,emergencydental.com,location,Contact and hours
+O073,D01,gemini,New York City,cosmetic,selection,2,1,https://drmarclazare.com/post/best-cosmetic-dentists-for-porcelain-veneers-in-nyc,drmarclazare.com,treatment,7 Best Cosmetic Dentists for Porcelain Veneers in NYC (2026)
+O073,D01,gemini,New York City,cosmetic,selection,2,2,https://lowenberglituchykantor.com/the-doctors,lowenberglituchykantor.com,unclassified,"The Doctors - LLK - Central Park South, New York City (NYC)"
+O073,D01,gemini,New York City,cosmetic,selection,2,3,https://hauteliving.com/hautemd/best-cosmetic-dentists-new-york,hauteliving.com,treatment,Cosmetic Dentists in New York City: Veneers & Invisalign
+O075,D01,ai_mode,New York City,cosmetic,selection,2,1,https://app.nexhealth.com/appt/New-York-Family-Dental-Arts?atid=47783&lid=21247,app.nexhealth.com,unclassified,Cosmetic/ Porcelain Veneer Consultation
+O075,D01,ai_mode,New York City,cosmetic,selection,2,2,https://app.nexhealth.com/appt/smileartsofny?atid=6869&lid=2884,app.nexhealth.com,unclassified,Porcelain Veneers Consultation
+O075,D01,ai_mode,New York City,cosmetic,selection,2,3,https://book.modento.io/armstrong-dental-studio-midtown-manhattan/g/google-schedule-link/veneer-consult-4tjef,book.modento.io,treatment,Veneer Consult
+O075,D01,ai_mode,New York City,cosmetic,selection,2,4,https://zocdoc.com/practice/new-york-ny-dental-176959?LocIdent=403346&entity_id=pt_bc-_9fsFK0Omuq4J0uJd1A-lo_3MPloM2YWkCU3oalndz67Q-entity,zocdoc.com,directory_social,Veneer(S)
+O075,D01,ai_mode,New York City,cosmetic,selection,2,5,https://navmds.com/doctor/dr-mojgan-fajiram-dds,navmds.com,directory_social,Porcelain Veneers
+O076,D01,chatgpt,New York City,cosmetic,selection,2,1,https://bestnewyork.us/cosmetic-dentists,bestnewyork.us,treatment,The 13 Best Cosmetic Dentists in New York
+O076,D01,chatgpt,New York City,cosmetic,selection,2,2,https://realself.com/find/New-York/New-York-City/Porcelain-Veneers,realself.com,directory_social,"Top Porcelain Veneers Providers in New York City, NY"
+O076,D01,chatgpt,New York City,cosmetic,selection,2,3,https://realself.com/dr/steven-davidowitz-new-york-ny,realself.com,directory_social,"Steven Davidowitz, DDS, Dentist | Real Patient Reviews, Before & After Photos, Expert Answers"
+O076,D01,chatgpt,New York City,cosmetic,selection,2,4,https://yelp.com/biz/anthony-lambrakos-dds-rock-plaza-dental-new-york?adjust_creative=openai,yelp.com,directory_social,"Anthony Lambrakos, DDS"
+O078,D02,ai_mode,New York City,cosmetic,dentist_branch_evidence,2,1,https://tebra.com/care/provider/charles-marks-dds-1942324629?lid=2009579444,tebra.com,directory_social,Porcelain Veneers
+O078,D02,ai_mode,New York City,cosmetic,dentist_branch_evidence,2,2,https://navmds.com/doctor/dr-mojgan-fajiram-dds,navmds.com,directory_social,Porcelain Veneers
+O078,D02,ai_mode,New York City,cosmetic,dentist_branch_evidence,2,3,https://book.modento.io/armstrong-dental-studio-midtown-manhattan/g/google-schedule-link/veneer-consult-4tjef,book.modento.io,treatment,Veneer Consult
+O079,D02,chatgpt,New York City,cosmetic,dentist_branch_evidence,2,1,https://cosmeticdentistrynyc.com/porcelain-veneers,cosmeticdentistrynyc.com,treatment,Official porcelain veneers service page
+O079,D02,chatgpt,New York City,cosmetic,dentist_branch_evidence,2,2,https://nyccd.com/services/veneers,nyccd.com,treatment,Official veneer services page
+O079,D02,chatgpt,New York City,cosmetic,dentist_branch_evidence,2,3,https://nyccd.com/contact-us,nyccd.com,location,Office address
+O079,D02,chatgpt,New York City,cosmetic,dentist_branch_evidence,2,4,https://veneers.nyc/contact-us,veneers.nyc,location,Official practice contact and veneer information
+O079,D02,chatgpt,New York City,cosmetic,dentist_branch_evidence,2,5,https://veytsmandds.com/,veytsmandds.com,homepage,Official practice website
+O079,D02,chatgpt,New York City,cosmetic,dentist_branch_evidence,2,6,https://smilesbydrwei.com/,smilesbydrwei.com,homepage,Official practice website and office details
+O079,D02,chatgpt,New York City,cosmetic,dentist_branch_evidence,2,7,https://lowenberglituchykantor.com/,lowenberglituchykantor.com,homepage,Official practice website
+O079,D02,chatgpt,New York City,cosmetic,dentist_branch_evidence,2,8,https://smileworksnyc.com/cosmetic-dentistry/veneer,smileworksnyc.com,treatment,Official veneer service page
+O079,D02,chatgpt,New York City,cosmetic,dentist_branch_evidence,2,9,https://arbeitman-shein.com/,arbeitman-shein.com,homepage,Official practice website
+O079,D02,chatgpt,New York City,cosmetic,dentist_branch_evidence,2,10,https://nycdental.com/services/cosmetic-dentistry/veneers,nycdental.com,treatment,Official veneer service page
+O079,D02,chatgpt,New York City,cosmetic,dentist_branch_evidence,2,11,https://nycdentalwellness.com/locations/new-york-dentist/veneers,nycdentalwellness.com,treatment,Official veneer service page
+O080,D02,gemini,New York City,cosmetic,dentist_branch_evidence,2,1,https://smilelabny.com/porcelain-veneers-manhattan-nyc-union-square,smilelabny.com,treatment,"Porcelain Veneers Union Square, Manhattan | Smile Lab Dentistry"
+O080,D02,gemini,New York City,cosmetic,dentist_branch_evidence,2,2,https://cosmeticdentistrynyc.com/porcelain-veneers,cosmeticdentistrynyc.com,treatment,Porcelain Veneers in NYC | Dr. Pia Lieb
+O080,D02,gemini,New York City,cosmetic,dentist_branch_evidence,2,3,https://cosmeticdentistryny.com/services/porcelain-veneers,cosmeticdentistryny.com,treatment,"Porcelain Dental Veneers In New York City | Viviane Trinh, DMD"
+O080,D02,gemini,New York City,cosmetic,dentist_branch_evidence,2,4,https://godental365.com/location/dentist-upper-west-side/porcelain-veneers,godental365.com,treatment,"Porcelain Veneers New York, NY - Dental365 - Upper West Side"
+O081,D03,ai_mode,New York City,implants,selection,2,1,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdKNmREUmtjM0Y0GAo,google.com,unclassified,NYC Dental Implants Center
+O081,D03,ai_mode,New York City,implants,selection,2,2,https://zocdoc.com/dentist/greg-diamond-dds-510266?LocIdent=238506&entity_id=pr_ivQnLKqdQ0GhE-B8txNx0R-lo_-QGspJ_BIkytQjBPeiyk2B-entity,zocdoc.com,directory_social,Dental Consultation
+O081,D03,ai_mode,New York City,implants,selection,2,3,https://app.nexhealth.com/appt/TheExchangeDentalGroup?atid=9684&lid=4828,app.nexhealth.com,unclassified,Implant Consultation
+O081,D03,ai_mode,New York City,implants,selection,2,4,https://zocdoc.com/dentist/zachary-papadakis-dds-551418?LocIdent=294799&entity_id=pr_syKcPMuepEmSgcCrELoL_w-lo_rwBUGAwKlEGPzZE_8Xh1Cx-entity,zocdoc.com,directory_social,Bridge
+O082,D03,chatgpt,New York City,implants,selection,2,1,https://google.com/maps/place?q=place_id%3AChIJ3yUA_OhYwokRuB4KjegT3DY&hl=en,google.com,unclassified,NYC Dental Implants Center
+O082,D03,chatgpt,New York City,implants,selection,2,2,https://dentistsranked.com/dental-services/dental-implants-new-york-ny,dentistsranked.com,treatment,"Best Dental Implant Dentists in New York, NY (2026): 255 Ranked"
+O082,D03,chatgpt,New York City,implants,selection,2,3,https://yelp.com/biz/david-weinstein-dds-new-york?adjust_creative=openai,yelp.com,directory_social,"NY Periodontics: Dr. David Weinstein, Dr. Stuart Froum, Dr. Clifford Melnick, & Dr. Allison Rascon"
+O082,D03,chatgpt,New York City,implants,selection,2,4,https://dentalimplantdirectory.com/cities/new-york-ny,dentalimplantdirectory.com,unclassified,"Dental Implants in New York, NY"
+O082,D03,chatgpt,New York City,implants,selection,2,5,https://yelp.com/biz/james-choi-md-dmd-park-avenue-oral-maxillofacial-and-implant-new-york?adjust_creative=openai,yelp.com,directory_social,"Park Avenue Oral Maxillofacial & Implant Surgery: James Choi, MD, DMD, FACS"
+O082,D03,chatgpt,New York City,implants,selection,2,6,https://209nycdental.com/services/dental-implants-nyc,209nycdental.com,treatment,Dental Implants NYC | Board Certified Specialist | Insurance & CareCredit
+O082,D03,chatgpt,New York City,implants,selection,2,7,https://google.com/maps/place?q=place_id%3AChIJWVUs4ehYwokRxKufXwr4aro&hl=en,google.com,unclassified,Upper East Oral and Maxillofacial Surgery
+O082,D03,chatgpt,New York City,implants,selection,2,8,https://google.com/maps/place?q=place_id%3AChIJncf2t_pYwokRrkf8sgE0c38&hl=en,google.com,unclassified,Zachary Papadakis DDS - Dental Implants - Prosthodontics & Full-Mouth Reconstruction NYC
+O082,D03,chatgpt,New York City,implants,selection,2,9,https://aboms.org/,aboms.org,homepage,American Board of Oral and Maxillofacial Surgery
+O082,D03,chatgpt,New York City,implants,selection,2,10,https://perio.org/,perio.org,homepage,American Board of Periodontology
+O083,D03,gemini,New York City,implants,selection,2,1,https://nycdentalimplantscenter.com/best-rated-nyc-dental-implant-specialists-top-dentist,nycdentalimplantscenter.com,treatment,Best Rated Dental Implants NYC | Top Implant Specialist in New York
+O083,D03,gemini,New York City,implants,selection,2,2,https://tribecadentalstudio.com/best-dental-implants-nyc,tribecadentalstudio.com,treatment,Best Dental Implants in NYC - Tribeca Dental Studio
+O084,D03,ai_overviews,New York City,implants,selection,2,1,https://shalmandentistry.com/implants,shalmandentistry.com,treatment,Dental Implants in NYС | Top Implant Dentist Manhattan
+O084,D03,ai_overviews,New York City,implants,selection,2,2,https://heraldsquarecosmeticdental.com/7-reasons-to-choose-dental-implants,heraldsquarecosmeticdental.com,treatment,7 Reasons to Choose Dental Implants in NYC at Herald ...
+O084,D03,ai_overviews,New York City,implants,selection,2,3,https://sachardental.com/2021/07/19/the-best-dentist-for-dental-implants-in-nyc-and-why,sachardental.com,treatment,The best dentist for dental implants in NYC and why.
+O084,D03,ai_overviews,New York City,implants,selection,2,4,https://expertdentalnyc.com/,expertdentalnyc.com,homepage,Best NYC Dentists | Expert Dental NYC
+O084,D03,ai_overviews,New York City,implants,selection,2,5,https://tribecadentalstudio.com/best-dental-implants-nyc,tribecadentalstudio.com,treatment,Best Dental Implants in NYC - Tribeca Dental Studio
+O084,D03,ai_overviews,New York City,implants,selection,2,6,https://centurymedicaldental.com/dentistry/implants,centurymedicaldental.com,treatment,Affordable Dental Implants NYC | Top Rated Implant Dentist in Midtown West and Downtown Brooklyn
+O085,D04,chatgpt,New York City,implants,dentist_branch_evidence,2,1,https://upperwestsidedentist.com/,upperwestsidedentist.com,homepage,Official practice website — implant services and dentist credentials
+O085,D04,chatgpt,New York City,implants,dentist_branch_evidence,2,2,https://aldentalstudio.com/,aldentalstudio.com,homepage,Official website — dental implant services and office address
+O085,D04,chatgpt,New York City,implants,dentist_branch_evidence,2,3,https://lenschwarzbaumdds.com/,lenschwarzbaumdds.com,homepage,Official website — specialties and Manhattan office
+O085,D04,chatgpt,New York City,implants,dentist_branch_evidence,2,4,https://nydentalimplantscenter.com/,nydentalimplantscenter.com,homepage,Practice website
+O085,D04,chatgpt,New York City,implants,dentist_branch_evidence,2,5,https://google.com/search?q=NYC+Dental+Implants+Center+121+East+60th+official,google.com,unclassified,Find official practice listing
+O085,D04,chatgpt,New York City,implants,dentist_branch_evidence,2,6,https://perionyc.com/,perionyc.com,homepage,Official website — implant practice and both office addresses
+O085,D04,chatgpt,New York City,implants,dentist_branch_evidence,2,7,https://dental.columbia.edu/teaching-clinics/implant-center,dental.columbia.edu,treatment,Columbia University — official Implant Center services and location
+O085,D04,chatgpt,New York City,implants,dentist_branch_evidence,2,8,https://mountsinai.org/care/ent/services/oral-maxillofacial-surgery/treatments/dental-implants,mountsinai.org,treatment,Mount Sinai — official implant program and clinic addresses
+O085,D04,chatgpt,New York City,implants,dentist_branch_evidence,2,9,https://google.com/search?q=NY+Periodontics+136+East+64th+Street+official+website,google.com,unclassified,Locate NY Periodontics' official website
+O085,D04,chatgpt,New York City,implants,dentist_branch_evidence,2,10,https://dentalspecialistsofny.com/specialty/dental-implants,dentalspecialistsofny.com,treatment,Official implant services page and office details
+O085,D04,chatgpt,New York City,implants,dentist_branch_evidence,2,11,https://unitednationsplazadental.com/,unitednationsplazadental.com,homepage,"Official website — implant services, team and address"
+O085,D04,chatgpt,New York City,implants,dentist_branch_evidence,2,12,https://google.com/search?q=Brooklyn+Periodontics+Implant+Dentistry+26+Court+Street+official+website,google.com,unclassified,Find practice website and implant services
+O085,D04,chatgpt,New York City,implants,dentist_branch_evidence,2,13,https://clearchoice.com/,clearchoice.com,homepage,ClearChoice official website
+O085,D04,chatgpt,New York City,implants,dentist_branch_evidence,2,14,https://google.com/search?q=ClearChoice+Long+Island+City+22-15+43rd+Avenue,google.com,unclassified,Verify the Queens location
+O086,D04,gemini,New York City,implants,dentist_branch_evidence,2,1,https://nycdentalimplantscenter.com/best-rated-nyc-dental-implant-specialists-top-dentist,nycdentalimplantscenter.com,treatment,Best Rated Dental Implants NYC | Top Implant Specialist in New York
+O086,D04,gemini,New York City,implants,dentist_branch_evidence,2,2,https://smilelabny.com/dental-implants-manhattan-nyc-union-square,smilelabny.com,treatment,"Dental Implants Union Square, Manhattan | Smile Lab | Top-Rated"
+O086,D04,gemini,New York City,implants,dentist_branch_evidence,2,3,https://dralexgreenberg.com/dental-implants,dralexgreenberg.com,treatment,Dental Implants in Midtown East Manhattan - Alex Greenberg DDS
+O086,D04,gemini,New York City,implants,dentist_branch_evidence,2,4,https://dental.columbia.edu/teaching-clinics/implant-center,dental.columbia.edu,treatment,Columbia Dental Implant Center - NYC
+O087,D04,ai_overviews,New York City,implants,dentist_branch_evidence,2,1,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdKNmREUmtjM0Y0GAo,google.com,unclassified,NYC Dental Implants Center
+O087,D04,ai_overviews,New York City,implants,dentist_branch_evidence,2,2,https://zocdoc.com/dentist/greg-diamond-dds-510266?LocIdent=238506&entity_id=pr_ivQnLKqdQ0GhE-B8txNx0R-lo_-QGspJ_BIkytQjBPeiyk2B-entity,zocdoc.com,directory_social,Dental Consultation
+O088,D04,ai_mode,New York City,implants,dentist_branch_evidence,2,1,https://nycdentalimplantscenter.com/,nycdentalimplantscenter.com,homepage,NYC Dental Implants Center | Manhattan Implant Dentists
+O088,D04,ai_mode,New York City,implants,dentist_branch_evidence,2,2,https://zocdoc.com/dentist/greg-diamond-dds-510266?LocIdent=238506&entity_id=pr_ivQnLKqdQ0GhE-B8txNx0R-lo_-QGspJ_BIkytQjBPeiyk2B-entity,zocdoc.com,directory_social,Dental Consultation
+O088,D04,ai_mode,New York City,implants,dentist_branch_evidence,2,3,https://tebra.com/care/practice/robert-lipschutz-dmd-pc-350578?lid=3377357785,tebra.com,directory_social,Dental Implants
+O088,D04,ai_mode,New York City,implants,dentist_branch_evidence,2,4,https://app.nexhealth.com/appt/TheExchangeDentalGroup?atid=9684&lid=4828,app.nexhealth.com,unclassified,Implant Consultation
+O089,D05,gemini,New York City,urgent,selection,2,1,https://209nycdental.com/services/dental-emergency,209nycdental.com,treatment,Emergency Dentist NYC | Same-Day Urgent Care in Manhattan
+O089,D05,gemini,New York City,urgent,selection,2,2,https://godental365.com/location/dentist-14th-street/emergency-dentist,godental365.com,treatment,"Emergency Dentist New York, NY - Dental365 - 14th Street"
+O089,D05,gemini,New York City,urgent,selection,2,3,https://dentistsranked.com/emergency-dentists/new-york-ny,dentistsranked.com,treatment,"Emergency Dentists in New York, NY (2026): 28 With Same-Day Care"
+O089,D05,gemini,New York City,urgent,selection,2,4,https://brooklynemergencydentist.com/,brooklynemergencydentist.com,homepage,"Emergency Dentist Brooklyn, NY | 24 Hour Dental Emergencies"
+O091,D05,ai_mode,New York City,urgent,selection,2,1,https://dental.nyu.edu/patientcare/emergency-services-urgent-care.html,dental.nyu.edu,unclassified,Emergency Services/Urgent Care
+O091,D05,ai_mode,New York City,urgent,selection,2,2,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdkblltNDRkR3RtGAo,google.com,unclassified,NYU Dental - Urgent Care Ctr.
+O091,D05,ai_mode,New York City,urgent,selection,2,3,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdZemRqQTNiR0l4GAo,google.com,unclassified,Emergency Dental Center
+O091,D05,ai_mode,New York City,urgent,selection,2,4,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhRM2NHdGpYMlI1GAo,google.com,unclassified,Emergency Dentist 24/7 New York
+O092,D05,chatgpt,New York City,urgent,selection,2,1,https://172nycdental.com/services/dental-emergency,172nycdental.com,treatment,Emergency Dentist NYC | No Insurance Needed
+O092,D05,chatgpt,New York City,urgent,selection,2,2,https://emergencydentalnyc.net/,emergencydentalnyc.net,homepage,Practice website
+O092,D05,chatgpt,New York City,urgent,selection,2,3,https://perionyc.com/our-services/emergency-treatment,perionyc.com,unclassified,"Emergency Dental Care in Manhattan, NY"
+O092,D05,chatgpt,New York City,urgent,selection,2,4,https://westsidefamilydental.com/emergency-care,westsidefamilydental.com,unclassified,Emergency Dental Care Upper Westside
+O092,D05,chatgpt,New York City,urgent,selection,2,5,https://nychealthandhospitals.org/bellevue/services/dental,nychealthandhospitals.org,treatment,Adult and Pediatric Dental Clinics
+O092,D05,chatgpt,New York City,urgent,selection,2,6,https://nychealthandhospitals.org/services/dental-care,nychealthandhospitals.org,treatment,Dental Care
+O093,D06,ai_overviews,New York City,urgent,dentist_branch_evidence,2,1,https://google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4YUdocmRqUjJOalkYCg,google.com,unclassified,Emergency Dentist NYC
+O093,D06,ai_overviews,New York City,urgent,dentist_branch_evidence,2,2,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdkblltNDRkR3RtGAo,google.com,unclassified,NYU Dental - Urgent Care Ctr.
+O093,D06,ai_overviews,New York City,urgent,dentist_branch_evidence,2,3,https://google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEdoeFluTXphZxgK,google.com,unclassified,209 NYC Dental
+O094,D06,ai_mode,New York City,urgent,dentist_branch_evidence,2,1,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdZemRqQTNiR0l4GAo,google.com,unclassified,Emergency Dental Center
+O094,D06,ai_mode,New York City,urgent,dentist_branch_evidence,2,2,https://zocdoc.com/dentist/anthony-leonetti-dmd-294439?LocIdent=123555&entity_id=pr_nLKn9-zKmkGCe6Ih_EFcaR-lo_f9cBtd5lfE2jxoQc1msMnR-entity,zocdoc.com,directory_social,Dental Emergency
+O094,D06,ai_mode,New York City,urgent,dentist_branch_evidence,2,3,https://zocdoc.com/dentist/vitaliy-fabrikant-dmd-289538?LocIdent=120185&entity_id=pr_02Wr7mba3EenMy1WRoaTAR-lo_dnKFerr17U-5uI2G3n8WSh-entity,zocdoc.com,directory_social,Dental Emergency
+O094,D06,ai_mode,New York City,urgent,dentist_branch_evidence,2,4,https://zocdoc.com/dentist/marina-mats-dds-10124?LocIdent=10656&entity_id=pr_mP_EPZL8NUGgnaGL_6h81R-lo_sMYEODiaCU-woQsMDWwvaB-entity,zocdoc.com,directory_social,Dental Emergency
+O095,D06,chatgpt,New York City,urgent,dentist_branch_evidence,2,1,https://209nycdental.com/services/dental-emergency,209nycdental.com,treatment,Official emergency dental care page
+O095,D06,chatgpt,New York City,urgent,dentist_branch_evidence,2,2,https://209nycdental.com/,209nycdental.com,homepage,office details
+O095,D06,chatgpt,New York City,urgent,dentist_branch_evidence,2,3,https://tribecadentalstudio.com/emergency-dentist-nyc,tribecadentalstudio.com,treatment,Emergency Dentist in NYC
+O095,D06,chatgpt,New York City,urgent,dentist_branch_evidence,2,4,https://172nycdental.com/services/dental-emergency,172nycdental.com,treatment,Official emergency dentistry page
+O095,D06,chatgpt,New York City,urgent,dentist_branch_evidence,2,5,https://google.com/maps/search?api=1&query=After+Dark+Dental+10+W+37th+St+NYC,google.com,unclassified,Business listing and location
+O095,D06,chatgpt,New York City,urgent,dentist_branch_evidence,2,6,https://nydentistemergency.com/,nydentistemergency.com,homepage,Official practice website
+O095,D06,chatgpt,New York City,urgent,dentist_branch_evidence,2,7,https://manhattan-dental.com/emergency-care,manhattan-dental.com,unclassified,Official emergency care page
+O095,D06,chatgpt,New York City,urgent,dentist_branch_evidence,2,8,https://cascadadental.com/emergency-dentistry,cascadadental.com,treatment,Official emergency dentistry page
+O095,D06,chatgpt,New York City,urgent,dentist_branch_evidence,2,9,https://centredent.com/,centredent.com,homepage,Official website
+O095,D06,chatgpt,New York City,urgent,dentist_branch_evidence,2,10,https://nychealthandhospitals.org/bellevue/services/dental,nychealthandhospitals.org,treatment,Official dental services page
+O096,D06,gemini,New York City,urgent,dentist_branch_evidence,2,1,https://godental365.com/location/dentist-14th-street/emergency-dentist,godental365.com,treatment,"Emergency Dentist New York, NY - Dental365 - 14th Street"
+O096,D06,gemini,New York City,urgent,dentist_branch_evidence,2,2,https://cpwdentistry.com/service/emergency-dentistry-nyc,cpwdentistry.com,treatment,Emergency Dentist NYC - Central Park West Dentistry
+O096,D06,gemini,New York City,urgent,dentist_branch_evidence,2,3,https://hellotend.com/site/dentist-studios/new-york-city/emergency,hellotend.com,unclassified,"Emergency Dentist in New York City, NY - Tend Dental"
+O096,D06,gemini,New York City,urgent,dentist_branch_evidence,2,4,https://midtowndentalcareassociates.com/dental-emergencies,midtowndentalcareassociates.com,treatment,Emergency Dentist - Midtown NYC
+O096,D06,gemini,New York City,urgent,dentist_branch_evidence,2,5,https://emergency-dentist-brooklyn.com/,emergency-dentist-brooklyn.com,homepage,Emergency Dentist Brooklyn: Home
+O097,D07,ai_mode,Chicago,cosmetic,selection,2,1,https://chicagostylesmiles.com/contact,chicagostylesmiles.com,location,New Patient
+O097,D07,ai_mode,Chicago,cosmetic,selection,2,2,https://google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4YUcweWJtdG5aalkYCg,google.com,unclassified,Chicago Style Smiles
+O097,D07,ai_mode,Chicago,cosmetic,selection,2,3,https://google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEcxNk4ybzBiZxgK,google.com,unclassified,"The Chicago Dental Studio, River North"
+O098,D07,chatgpt,Chicago,cosmetic,selection,2,1,https://toprateddentist.com/dentists/chicago-il/cosmetic-dentistry,toprateddentist.com,directory_social,"Best Cosmetic Dentists in Chicago, IL (2026)"
+O098,D07,chatgpt,Chicago,cosmetic,selection,2,2,https://dentistsranked.com/dental-services/veneers-chicago-il,dentistsranked.com,treatment,"Best Veneer Dentists in Chicago, IL (2026): 153 Ranked"
+O098,D07,chatgpt,Chicago,cosmetic,selection,2,3,https://realself.com/find/Illinois/Chicago/Porcelain-Veneers,realself.com,directory_social,"Top Porcelain Veneers Providers in Chicago, IL"
+O098,D07,chatgpt,Chicago,cosmetic,selection,2,4,https://yelp.com/biz/lux-smiles-cosmetic-dentistry-and-prosthodontics-chicago?adjust_creative=openai,yelp.com,directory_social,Lux Smiles Cosmetic Dentistry and Prosthodontics
+O098,D07,chatgpt,Chicago,cosmetic,selection,2,5,https://google.com/maps/place/Advanced%20Dentistry%20of%20Chicago%20%7C%20Stuart%20Schelkopf%20DDS.%20MS.%20FACP/data=!4m7!3m6!1s0x880e2d36acf94cf9:0xa948994e2185128b!8m2!3d41.8865777!4d-87.6327762!16s%2Fg%2F11llkk3r8j!19sChIJ-Uz5rDYtDogRixKFIU6ZSKk?authuser=0&hl=en&rclk=1,google.com,unclassified,Advanced Dentistry of Chicago | Stuart Schelkopf DDS. MS. FACP
+O098,D07,chatgpt,Chicago,cosmetic,selection,2,6,https://yelp.com/biz/chicago-style-smiles-chicago?adjust_creative=openai,yelp.com,directory_social,Chicago Style Smiles
+O098,D07,chatgpt,Chicago,cosmetic,selection,2,7,https://yelp.com/biz/chicago-dental-solutions-chicago-13?adjust_creative=openai,yelp.com,directory_social,Chicago Dental Solutions @ Chicago Dental Design
+O099,D07,gemini,Chicago,cosmetic,selection,2,1,https://cosmeticdentistinchicago.com/,cosmeticdentistinchicago.com,homepage,Dr. Bianca Clark: Best Chicago Cosmetic Dentist
+O099,D07,gemini,Chicago,cosmetic,selection,2,2,https://top3doctors.com/providers/dr-carole-landman,top3doctors.com,dentist_team,Dr. Carole Landman | Chicago | Cosmetic Dentistry - Top 3 doctors
+O101,D08,chatgpt,Chicago,cosmetic,dentist_branch_evidence,2,1,https://premierdentistrychicago.com/dental-services/cosmetic-dentistry/porcelain-veneers,premierdentistrychicago.com,treatment,Official porcelain veneers page
+O101,D08,chatgpt,Chicago,cosmetic,dentist_branch_evidence,2,2,https://drsharifi.com/,drsharifi.com,homepage,Official practice website
+O101,D08,chatgpt,Chicago,cosmetic,dentist_branch_evidence,2,3,https://choicesindentistry.com/veneers,choicesindentistry.com,treatment,Official veneers page
+O101,D08,chatgpt,Chicago,cosmetic,dentist_branch_evidence,2,4,https://advanceddentistryofchicago.com/,advanceddentistryofchicago.com,homepage,Practice website
+O101,D08,chatgpt,Chicago,cosmetic,dentist_branch_evidence,2,5,https://lincolnparkdentalassociates.com/our-services/cosmetic-dentistry/porcelain-dental-veneers,lincolnparkdentalassociates.com,treatment,Official porcelain veneers page
+O101,D08,chatgpt,Chicago,cosmetic,dentist_branch_evidence,2,6,https://biteclubchi.com/cosmetic-dentist-in-bucktown/porcelain-veneers,biteclubchi.com,treatment,Official porcelain veneers page
+O101,D08,chatgpt,Chicago,cosmetic,dentist_branch_evidence,2,7,https://halsteddental.com/hi-tech-smiles,halsteddental.com,unclassified,Official practice page
+O101,D08,chatgpt,Chicago,cosmetic,dentist_branch_evidence,2,8,https://lincolncosmeticdental.com/contact,lincolncosmeticdental.com,location,Official practice and contact page
+O101,D08,chatgpt,Chicago,cosmetic,dentist_branch_evidence,2,9,https://bigsmiledental.com/our-services/veneers-porcelain,bigsmiledental.com,treatment,Official porcelain veneers page
+O101,D08,chatgpt,Chicago,cosmetic,dentist_branch_evidence,2,10,https://gangerfamilydentistry.com/cosmetic-dentistry-chicago,gangerfamilydentistry.com,treatment,Official cosmetic dentistry page
+O102,D08,gemini,Chicago,cosmetic,dentist_branch_evidence,2,1,https://drsharifi.com/cosmetic-treatments/porcelain-veneers,drsharifi.com,treatment,"Porcelain Veneers Chicago, IL"
+O102,D08,gemini,Chicago,cosmetic,dentist_branch_evidence,2,2,https://mitchelldentalspa.com/blog/porcelain-veneers-in-chicago-what-sets-the-best-cosmetic-dentists-apart,mitchelldentalspa.com,editorial,Chicago Porcelain Veneers Done Right - Mitchell Dental Spa
+O102,D08,gemini,Chicago,cosmetic,dentist_branch_evidence,2,3,https://chicagodentistry.com/Dentist-Hyde-Park-Chicago/services/cosmetic-dentistry/veneers,chicagodentistry.com,treatment,Dentist in 60615 | Smile Design Studio Of Hyde Park LLC | Veneers
+O102,D08,gemini,Chicago,cosmetic,dentist_branch_evidence,2,4,https://chicagoveneers.biz/,chicagoveneers.biz,homepage,"Veneers in Chicago, IL | Printers Row Dental"
+O103,D08,ai_overviews,Chicago,cosmetic,dentist_branch_evidence,2,1,https://newteethchicagodentalimplants.com/veneers,newteethchicagodentalimplants.com,treatment,No
+O103,D08,ai_overviews,Chicago,cosmetic,dentist_branch_evidence,2,2,https://threebestrated.com/cosmetic-dentists-in-chicago-il,threebestrated.com,treatment,"3 Best Cosmetic Dentists in Chicago, IL"
+O103,D08,ai_overviews,Chicago,cosmetic,dentist_branch_evidence,2,3,https://google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEcxNk4ybzBiZxgK,google.com,unclassified,"The Chicago Dental Studio, River North"
+O103,D08,ai_overviews,Chicago,cosmetic,dentist_branch_evidence,2,4,https://google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEhjeFptUnhlZxgK,google.com,unclassified,New Teeth Chicago Dental Implants & Cosmetic Dentistry
+O103,D08,ai_overviews,Chicago,cosmetic,dentist_branch_evidence,2,5,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdvNU1IaGlNWGR4GAo,google.com,unclassified,Lux Smiles Cosmetic Dentistry and Prosthodontics
+O104,D08,ai_mode,Chicago,cosmetic,dentist_branch_evidence,2,1,https://app.nexhealth.com/appt/Dr-Brittany-Dickinson-DMD?atid=13163&lid=20742,app.nexhealth.com,dentist_team,Veneers Consultation
+O104,D08,ai_mode,Chicago,cosmetic,dentist_branch_evidence,2,2,https://app.nexhealth.com/appt/chicagodentalboutique?atid=4447&lid=1544,app.nexhealth.com,unclassified,"Consultation (Implants, Veneers, Invisalign, Whitening)"
+O104,D08,ai_mode,Chicago,cosmetic,dentist_branch_evidence,2,3,https://app.nexhealth.com/appt/the-chicago-dental-studio?atid=818511&lid=155182,app.nexhealth.com,unclassified,New Patient Cosmetic Consultation
+O105,D09,gemini,Chicago,implants,selection,2,1,https://orasurgery.com/,orasurgery.com,homepage,ORA Oral Surgery & Implant Studio: Chicago Oral Surgeon
+O105,D09,gemini,Chicago,implants,selection,2,2,https://chicagodentalimplants.com/testimonials,chicagodentalimplants.com,unclassified,Oral Surgeon Orland Park | Chicago Dental Implants | Testimonials
+O105,D09,gemini,Chicago,implants,selection,2,3,https://rankmydentist.com/top-dentists/chicago,rankmydentist.com,unclassified,"Best Dentists In Chicago, IL - Top Rated Dental Clinics"
+O107,D09,ai_mode,Chicago,implants,selection,2,1,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdNeGJETnpjRFY2GAo,google.com,unclassified,Chicago Oral Surgery & Implant Center
+O107,D09,ai_mode,Chicago,implants,selection,2,2,https://google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4TVhJNGNqSTJhbTAYCg,google.com,unclassified,Old Orchard Periodontics
+O107,D09,ai_mode,Chicago,implants,selection,2,3,https://google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4Y1RZMmNuTjZNVGMYCg,google.com,unclassified,Comprehensive Dental & Implant Center
+O107,D09,ai_mode,Chicago,implants,selection,2,4,https://google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEdkdU5UbHdNURgK,google.com,unclassified,ORA Oral Surgery and Implant Studio
+O108,D09,chatgpt,Chicago,implants,selection,2,1,https://clearchoice.com/locations/il/chicago/630-w-washington-blvd,clearchoice.com,location,Official practice website
+O108,D09,chatgpt,Chicago,implants,selection,2,2,https://dentalimplantdirectory.com/cities/chicago-il,dentalimplantdirectory.com,unclassified,"Dental Implants in Chicago, IL"
+O108,D09,chatgpt,Chicago,implants,selection,2,3,https://reviews.birdeye.com/d/prosthodontists/chicago-il,reviews.birdeye.com,unclassified,"Top Prosthodontists Companies in Chicago, IL"
+O108,D09,chatgpt,Chicago,implants,selection,2,4,https://yelp.com/biz/chicago-oral-surgery-and-implant-center-chicago?adjust_creative=openai,yelp.com,directory_social,Chicago Oral Surgery & Implant Center
+O108,D09,chatgpt,Chicago,implants,selection,2,5,https://yelp.com/biz/lux-smiles-cosmetic-dentistry-and-prosthodontics-chicago?adjust_creative=openai,yelp.com,directory_social,Lux Smiles Cosmetic Dentistry and Prosthodontics
+O108,D09,chatgpt,Chicago,implants,selection,2,6,https://yelp.com/biz/south-loop-dental-specialists-chicago?adjust_creative=openai,yelp.com,directory_social,South Loop Dental Specialists
+O108,D09,chatgpt,Chicago,implants,selection,2,7,https://google.com/maps/place/Advanced%20Dentistry%20of%20Chicago%20%7C%20Stuart%20Schelkopf%20DDS.%20MS.%20FACP/data=!4m7!3m6!1s0x880e2d36acf94cf9:0xa948994e2185128b!8m2!3d41.8865777!4d-87.6327762!16s%2Fg%2F11llkk3r8j!19sChIJ-Uz5rDYtDogRixKFIU6ZSKk?authuser=0&hl=en&rclk=1,google.com,unclassified,Advanced Dentistry of Chicago | Stuart Schelkopf DDS. MS. FACP
+O108,D09,chatgpt,Chicago,implants,selection,2,8,https://yelp.com/biz/perio-implant-chicago-chicago?adjust_creative=openai,yelp.com,directory_social,Perio Implant Chicago
+O110,D10,ai_mode,Chicago,implants,dentist_branch_evidence,2,1,https://clearchoice.com/schedule-a-consultation?fc=CC_470d33c4-081a-11ef-a998-c202c3cbb21b&zip=60661,clearchoice.com,unclassified,Dental Implants Consultation
+O110,D10,ai_mode,Chicago,implants,dentist_branch_evidence,2,2,https://app.nexhealth.com/appt/smile_partners_usa?atid=223316&lid=72031,app.nexhealth.com,unclassified,Implant Consult
+O110,D10,ai_mode,Chicago,implants,dentist_branch_evidence,2,3,https://book.modento.io/sloop-dental/g/google-schedule-link/dental-implant-consultation,book.modento.io,treatment,Dental Implant Consultation
+O110,D10,ai_mode,Chicago,implants,dentist_branch_evidence,2,4,https://tebra.com/care/practice/illinois-dental-center-of-belmont-569109?lid=2637247115,tebra.com,directory_social,Dental Implants
+O110,D10,ai_mode,Chicago,implants,dentist_branch_evidence,2,5,https://app.nexhealth.com/appt/greatlakedentalpartners?atid=989055&lid=159525,app.nexhealth.com,unclassified,Implant Consultation
+O111,D10,chatgpt,Chicago,implants,dentist_branch_evidence,2,1,https://uadchicago.com/,uadchicago.com,homepage,Official practice website
+O111,D10,chatgpt,Chicago,implants,dentist_branch_evidence,2,2,https://crowedentalassociates.com/tooth-replacement-options,crowedentalassociates.com,unclassified,Official dental implant service page
+O111,D10,chatgpt,Chicago,implants,dentist_branch_evidence,2,3,https://lincolnparkdentalassociates.com/our-services/restorative-dentistry/dental-implants,lincolnparkdentalassociates.com,treatment,Official dental implant page
+O111,D10,chatgpt,Chicago,implants,dentist_branch_evidence,2,4,https://wickerparkdentalgroup.com/chicago-il/dental-implants,wickerparkdentalgroup.com,treatment,Official dental implant page
+O111,D10,chatgpt,Chicago,implants,dentist_branch_evidence,2,5,https://watertowerdentalcare.com/services/implant-dentistry,watertowerdentalcare.com,treatment,Official implant dentistry page
+O111,D10,chatgpt,Chicago,implants,dentist_branch_evidence,2,6,https://clearchoice.com/locations/il/chicago/630-w-washington-blvd,clearchoice.com,location,Official Chicago center page
+O111,D10,chatgpt,Chicago,implants,dentist_branch_evidence,2,7,https://google.com/search?q=Chicago+Oral+Surgery+%26+Implant+Center+Jordan+Ledger+official+website,google.com,unclassified,Practice website and service information
+O111,D10,chatgpt,Chicago,implants,dentist_branch_evidence,2,8,https://dentistschicago.com/dental-implants,dentistschicago.com,treatment,Official dental implant page
+O111,D10,chatgpt,Chicago,implants,dentist_branch_evidence,2,9,https://google.com/search?q=South+Loop+Dental+Specialists+Dr+Olguin+implants,google.com,unclassified,Practice listing
+O111,D10,chatgpt,Chicago,implants,dentist_branch_evidence,2,10,https://google.com/search?q=Advanced+Dentistry+of+Chicago+Stuart+Schelkopf+implants,google.com,unclassified,Practice listing
+O111,D10,chatgpt,Chicago,implants,dentist_branch_evidence,2,11,https://brighterdentalchicago.com/dental-implants,brighterdentalchicago.com,treatment,Official implant page
+O111,D10,chatgpt,Chicago,implants,dentist_branch_evidence,2,12,https://armitageoralsurgery.com/,armitageoralsurgery.com,homepage,Official practice website
+O112,D10,gemini,Chicago,implants,dentist_branch_evidence,2,1,https://implant500.com/,implant500.com,homepage,"Dentist in Chicago, IL | Simply Dental Implants"
+O112,D10,gemini,Chicago,implants,dentist_branch_evidence,2,2,https://osachicago.com/,osachicago.com,homepage,Oral & Maxillofacial Surgery Chicago IL | Oral & Maxillofacial
+O113,D11,ai_mode,Chicago,urgent,selection,2,1,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhwbU5qZDBOSFpyGAo,google.com,unclassified,Immediate Emergency Dental
+O113,D11,ai_mode,Chicago,urgent,selection,2,2,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhwa1gyTnFZM2hyGAo,google.com,unclassified,Immediate Emergency Dental
+O113,D11,ai_mode,Chicago,urgent,selection,2,3,https://book.modento.io/dental-group-of-chicago/g/google-schedule-link/dental-emergency,book.modento.io,treatment,Dental Emergency
+O113,D11,ai_mode,Chicago,urgent,selection,2,4,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhwNGJtSjRiVEY0GAo,google.com,unclassified,Prime Emergency Dental
+O114,D11,chatgpt,Chicago,urgent,selection,2,1,https://vistadentalchicago.com/urgent-care,vistadentalchicago.com,unclassified,Urgent Dental Care in Chicago & Skokie
+O114,D11,chatgpt,Chicago,urgent,selection,2,2,https://vistadentalchicago.com/emergency-dental-care,vistadentalchicago.com,treatment,EMERGENCY DENTAL CARE
+O114,D11,chatgpt,Chicago,urgent,selection,2,3,https://smile360chicago.us/services/emergency,smile360chicago.us,treatment,Emergency Dentistry in Chicago
+O114,D11,chatgpt,Chicago,urgent,selection,2,4,https://moderndentalchicago.com/emergency-dentist-chicago,moderndentalchicago.com,treatment,Emergency Dentist Chicago
+O114,D11,chatgpt,Chicago,urgent,selection,2,5,https://moderndentalchicago.com/,moderndentalchicago.com,homepage,Modern Dental Chicago
+O114,D11,chatgpt,Chicago,urgent,selection,2,6,https://regensmilestudio.com/services/emergencies,regensmilestudio.com,treatment,Emergency Dentist in Chicago
+O114,D11,chatgpt,Chicago,urgent,selection,2,7,https://yelp.com/biz/emergency-dentist-chicago-2?adjust_creative=openai,yelp.com,directory_social,Emergency Dentist of Chicago
+O115,D11,gemini,Chicago,urgent,selection,2,1,https://aspendental.com/dentist/il/chicago/3201-n-western-ave/emergency-dental-services,aspendental.com,treatment,"Emergency Dental Services in Chicago, IL (Roscoe Village)"
+O115,D11,gemini,Chicago,urgent,selection,2,2,https://emergencydentistchicago.com/,emergencydentistchicago.com,homepage,Emergency Dentist of Chicago | Weekend Emergency Dentist
+O115,D11,gemini,Chicago,urgent,selection,2,3,https://24hrdentist.com/emergency-dentist-chicago-24hr,24hrdentist.com,treatment,773-549-2800 - 24 hr Emergency Dentist in Chicago
+O115,D11,gemini,Chicago,urgent,selection,2,4,https://247localdentist.com/profile/chicago-il-miswak-dentistry,247localdentist.com,unclassified,"24-Hour Emergency Dentist Chicago, IL 60622 | Miswak Dentistry"
+O115,D11,gemini,Chicago,urgent,selection,2,5,https://chicagosmiledesign.com/services/treatments/emergencies,chicagosmiledesign.com,treatment,Emergencies in Chicago | Chicago Smile Design
+O117,D12,chatgpt,Chicago,urgent,dentist_branch_evidence,2,1,https://vistadentalchicago.com/urgent-care,vistadentalchicago.com,unclassified,Official urgent-care page and evidence
+O117,D12,chatgpt,Chicago,urgent,dentist_branch_evidence,2,2,https://smile360chicago.us/services/emergency,smile360chicago.us,treatment,Official emergency dentistry page
+O117,D12,chatgpt,Chicago,urgent,dentist_branch_evidence,2,3,https://moderndentalchicago.com/emergency-dentist-chicago,moderndentalchicago.com,treatment,Emergency Dentist Chicago
+O117,D12,chatgpt,Chicago,urgent,dentist_branch_evidence,2,4,https://watertowerdentalcare.com/services/emergency-dental-care,watertowerdentalcare.com,treatment,Official emergency dental care page
+O117,D12,chatgpt,Chicago,urgent,dentist_branch_evidence,2,5,https://postfamilydental.com/chicago-il/services/emergency-dental-services,postfamilydental.com,treatment,Official emergency dental services page
+O117,D12,chatgpt,Chicago,urgent,dentist_branch_evidence,2,6,https://dentistschicago.com/emergency-dental-care,dentistschicago.com,treatment,Official emergency-care page
+O118,D12,gemini,Chicago,urgent,dentist_branch_evidence,2,1,https://24hrdentist.com/emergency-dentist-chicago-24hr,24hrdentist.com,treatment,773-549-2800 - 24 hr Emergency Dentist in Chicago
+O118,D12,gemini,Chicago,urgent,dentist_branch_evidence,2,2,https://aspendental.com/dentist/il/chicago/3201-n-western-ave/emergency-dental-services,aspendental.com,treatment,"Emergency Dental Services in Chicago, IL (Roscoe Village)"
+O118,D12,gemini,Chicago,urgent,dentist_branch_evidence,2,3,https://emergencydentistchicago.com/,emergencydentistchicago.com,homepage,Emergency Dentist of Chicago | Weekend Emergency Dentist
+O118,D12,gemini,Chicago,urgent,dentist_branch_evidence,2,4,https://vistadentalchicago.com/emergency-dental-care,vistadentalchicago.com,treatment,Emergency Dentist in Chicago & Skokie Same-Day Urgent Care
+O118,D12,gemini,Chicago,urgent,dentist_branch_evidence,2,5,https://udpdentistry.com/service/emergency-dentistry/same-day-emergency-dentistry,udpdentistry.com,treatment,"Same-Day Emergency Dentistry in Chicago, IL | University Dental"
+O118,D12,gemini,Chicago,urgent,dentist_branch_evidence,2,6,https://hydepark.smilestudiochicago.com/chicago-il/emergency-dentist-vs-emergency-room,hydepark.smilestudiochicago.com,treatment,"Emergency Dentist vs. Emergency Room Chicago, IL"
+O120,D12,ai_mode,Chicago,urgent,dentist_branch_evidence,2,1,https://emergencydentistchicago.com/,emergencydentistchicago.com,homepage,Emergency Dentist of Chicago | Weekend Emergency Dentist
+O120,D12,ai_mode,Chicago,urgent,dentist_branch_evidence,2,2,https://24hrdentist.com/,24hrdentist.com,homepage,Emergency Dentist Chicago | 773-549-2800
+O120,D12,ai_mode,Chicago,urgent,dentist_branch_evidence,2,3,https://hydepark.smilestudiochicago.com/chicago-il/emergency-dentist-vs-emergency-room,hydepark.smilestudiochicago.com,treatment,"Emergency Dentist vs. Emergency Room Chicago, IL"
+O120,D12,ai_mode,Chicago,urgent,dentist_branch_evidence,2,4,https://chicagosmiledesign.com/services/treatments/emergencies,chicagosmiledesign.com,treatment,Emergencies in Chicago | Chicago Smile Design
+O121,D13,gemini,Dallas,cosmetic,selection,2,1,https://hpdentist.com/dental-veneers-in-dallas-a-path-to-a-stunning-smile,hpdentist.com,treatment,Dental Veneers in Dallas - Transform Your Smile
+O121,D13,gemini,Dallas,cosmetic,selection,2,2,https://drjackbodie.com/cosmetic-treatments/porcelain-veneers,drjackbodie.com,treatment,"Porcelain Veneers Dentist in Dallas TX - Jack Bodie, DDS"
+O122,D13,ai_overviews,Dallas,cosmetic,selection,2,1,https://dallascosmeticdentist.us/porcelain-dental-veneers,dallascosmeticdentist.us,treatment,Porcelain Veneers Dallas TX
+O122,D13,ai_overviews,Dallas,cosmetic,selection,2,2,https://drjackbodie.com/cosmetic-treatments/porcelain-veneers,drjackbodie.com,treatment,"Porcelain Veneers Dentist in Dallas TX - Jack Bodie, DDS"
+O122,D13,ai_overviews,Dallas,cosmetic,selection,2,3,https://hfdentist.com/dental-services/cosmetic-dentistry-dallas-tx,hfdentist.com,treatment,"Best Cosmetic Dentistry in Dallas, TX at Jeff Nguyen, D.D.S."
+O122,D13,ai_overviews,Dallas,cosmetic,selection,2,4,https://dallascosmeticdentist.us/award-winning-cosmetic-dentistry,dallascosmeticdentist.us,treatment,Award-winning Cosmetic Dentistry Dallas TX | Dallas Laser Dentistry
+O122,D13,ai_overviews,Dallas,cosmetic,selection,2,5,https://mintdentistry.com/dentist/dfw/highland-hotel/services/cosmetic-dentistry/porcelain-veneers-dallas-tx,mintdentistry.com,treatment,"Porcelain Veneers in Dallas, TX | MINT Highland Hotel"
+O122,D13,ai_overviews,Dallas,cosmetic,selection,2,6,https://reddit.com/r/Dallas/comments/1aw1nw3/any_recommendations_for_great_cosmetic_dentists,reddit.com,directory_social,Any recommendations for great cosmetic dentists in DFW?
+O123,D13,ai_mode,Dallas,cosmetic,selection,2,1,https://dallascosmeticdentist.us/porcelain-dental-veneers,dallascosmeticdentist.us,treatment,Porcelain Veneers Dallas TX
+O123,D13,ai_mode,Dallas,cosmetic,selection,2,2,https://drjackbodie.com/cosmetic-treatments/porcelain-veneers,drjackbodie.com,treatment,"Porcelain Veneers Dentist in Dallas TX - Jack Bodie, DDS"
+O123,D13,ai_mode,Dallas,cosmetic,selection,2,3,https://mintdentistry.com/dentist/dfw/highland-hotel/services/cosmetic-dentistry/porcelain-veneers-dallas-tx,mintdentistry.com,treatment,"Porcelain Veneers in Dallas, TX | MINT Highland Hotel"
+O123,D13,ai_mode,Dallas,cosmetic,selection,2,4,https://zocdoc.com/practice/mylo-dental-studio-139214?LocIdent=335602&entity_id=pt_6jy5rAaVqkSKEgtWph_jIw-lo_aEGTUU23n0aW-pzT_X-RmR-entity,zocdoc.com,directory_social,Dentist
+O123,D13,ai_mode,Dallas,cosmetic,selection,2,5,https://booking.adit.com/1f16b174-4cc7-41c6-bc36-ca8096c5957f,booking.adit.com,unclassified,Cosmetic Dentistry
+O124,D13,chatgpt,Dallas,cosmetic,selection,2,1,https://cowdincosmeticdentistry.com/porcelain-veneers-dallas-tx,cowdincosmeticdentistry.com,treatment,Dentist North Dallas | Cowdin Cosmetic Dentistry
+O124,D13,chatgpt,Dallas,cosmetic,selection,2,2,https://dallasesthetics.com/our-services/cosmetic-dentistry,dallasesthetics.com,treatment,Cosmetic Dentistry
+O124,D13,chatgpt,Dallas,cosmetic,selection,2,3,https://dallasesthetics.com/,dallasesthetics.com,homepage,Home
+O124,D13,chatgpt,Dallas,cosmetic,selection,2,4,https://dallasesthetics.com/our-services/porcelain-veneers,dallasesthetics.com,treatment,Official porcelain veneer page
+O124,D13,chatgpt,Dallas,cosmetic,selection,2,5,https://robertmitchelldds.com/,robertmitchelldds.com,homepage,Dentist in North Dallas | North Dallas Cosmetic Dentistry
+O124,D13,chatgpt,Dallas,cosmetic,selection,2,6,https://robertmitchelldds.com/cosmetic-dentistry.html,robertmitchelldds.com,treatment,Cosmetic Dentistry in North Dallas | North Dallas Cosmetic Dentistry
+O124,D13,chatgpt,Dallas,cosmetic,selection,2,7,https://yelp.com/biz/dallas-laser-dentistry-dallas-6?adjust_creative=openai,yelp.com,directory_social,Dallas Laser Dentistry
+O124,D13,chatgpt,Dallas,cosmetic,selection,2,8,https://google.com/maps/search?api=1&query=Dallas+Laser+Dentistry+Dallas+TX,google.com,unclassified,Find the practice
+O126,D14,ai_mode,Dallas,cosmetic,dentist_branch_evidence,2,1,https://dallascosmeticdentist.us/porcelain-dental-veneers,dallascosmeticdentist.us,treatment,Porcelain Veneers Dallas TX - Dallas Laser Dentistry
+O126,D14,ai_mode,Dallas,cosmetic,dentist_branch_evidence,2,2,https://mintdentistry.com/dentist/dfw/highland-hotel/services/cosmetic-dentistry/porcelain-veneers-dallas-tx,mintdentistry.com,treatment,"Porcelain Veneers in Dallas, TX | MINT Highland Hotel"
+O126,D14,ai_mode,Dallas,cosmetic,dentist_branch_evidence,2,3,https://yourprettysmile.com/veneers,yourprettysmile.com,treatment,Custom Veneers | Dallas Center for Oral Health & Wellness
+O126,D14,ai_mode,Dallas,cosmetic,dentist_branch_evidence,2,4,https://drdimensions.com/veneers-in-dallas-tx,drdimensions.com,treatment,"Dental Veneers in Dallas, TX | Dental Dimensions"
+O127,D14,chatgpt,Dallas,cosmetic,dentist_branch_evidence,2,1,https://topcosmeticdentistofdallas.com/dental-services/cosmetic-dentistry/porcelain-veneers,topcosmeticdentistofdallas.com,treatment,Official porcelain veneers page
+O127,D14,chatgpt,Dallas,cosmetic,dentist_branch_evidence,2,2,https://katytrail.dental/services/cosmetic-dentistry/dental-veneers,katytrail.dental,treatment,Porcelain Dental Veneers
+O127,D14,chatgpt,Dallas,cosmetic,dentist_branch_evidence,2,3,https://cowdincosmeticdentistry.com/porcelain-veneers-dallas-tx,cowdincosmeticdentistry.com,treatment,Official porcelain veneers page
+O127,D14,chatgpt,Dallas,cosmetic,dentist_branch_evidence,2,4,https://nevilledental.com/,nevilledental.com,homepage,Official Neville Dental website
+O127,D14,chatgpt,Dallas,cosmetic,dentist_branch_evidence,2,5,https://cosmeticdentistofdallas.com/services/cosmetic-dentistry/porcelain-veneers-dallas-tx,cosmeticdentistofdallas.com,treatment,Official porcelain veneers page
+O127,D14,chatgpt,Dallas,cosmetic,dentist_branch_evidence,2,6,https://dralbus.com/porcelain-veneers,dralbus.com,treatment,Official porcelain veneers page
+O127,D14,chatgpt,Dallas,cosmetic,dentist_branch_evidence,2,7,https://thrivedentist.com/locations/dallas/cosmetic-dentistry,thrivedentist.com,treatment,Official Dallas cosmetic dentistry page
+O127,D14,chatgpt,Dallas,cosmetic,dentist_branch_evidence,2,8,https://downtowndallasdentist.com/procedures/cosmetic-dentistry/porcelain-veneers,downtowndallasdentist.com,treatment,Official porcelain veneers page
+O127,D14,chatgpt,Dallas,cosmetic,dentist_branch_evidence,2,9,https://sealprosthodontics.com/,sealprosthodontics.com,homepage,Official website
+O127,D14,chatgpt,Dallas,cosmetic,dentist_branch_evidence,2,10,https://dallasesthetics.com/our-services/porcelain-veneers,dallasesthetics.com,treatment,Porcelain veneers page
+O128,D14,gemini,Dallas,cosmetic,dentist_branch_evidence,2,1,https://mintdentistry.com/dentist/dfw/highland-hotel/services/cosmetic-dentistry/porcelain-veneers-dallas-tx,mintdentistry.com,treatment,"Porcelain Veneers in Dallas, TX | MINT Highland Hotel"
+O128,D14,gemini,Dallas,cosmetic,dentist_branch_evidence,2,2,https://cosmeticdentistofdallas.com/services/cosmetic-dentistry/porcelain-veneers-dallas-tx,cosmeticdentistofdallas.com,treatment,"Porcelain Veneers in Dallas, TX | Drs Hamlett and La Mastra"
+O128,D14,gemini,Dallas,cosmetic,dentist_branch_evidence,2,3,https://drjackbodie.com/cosmetic-treatments/porcelain-veneers,drjackbodie.com,treatment,"Porcelain Veneers Dentist in Dallas TX - Jack Bodie, DDS"
+O128,D14,gemini,Dallas,cosmetic,dentist_branch_evidence,2,4,https://dallascosmeticdentist.us/porcelain-dental-veneers,dallascosmeticdentist.us,treatment,Porcelain Veneers Dallas TX - Dallas Laser Dentistry
+O129,D15,ai_mode,Dallas,implants,selection,2,1,https://google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEdkb00yUXpPURgK,google.com,unclassified,The Dental Implant Center
+O129,D15,ai_mode,Dallas,implants,selection,2,2,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdKaWNtZG1kak0wGAo,google.com,unclassified,Dallas Periodontal Associates & Dental Implants
+O129,D15,ai_mode,Dallas,implants,selection,2,3,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVc1bWMyMXFjak5xGAo,google.com,unclassified,Nuvia Dental Implant Center
+O129,D15,ai_mode,Dallas,implants,selection,2,4,https://google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEdabWNISnFjQRgK,google.com,unclassified,DFW Implant Center
+O129,D15,ai_mode,Dallas,implants,selection,2,5,https://google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEhCbU4ycHpZdxgK,google.com,unclassified,Park Lane Periodontal and Dental Implant Group
+O130,D15,chatgpt,Dallas,implants,selection,2,1,https://toothlocal.com/texas/dallas,toothlocal.com,unclassified,"Dentists in Dallas, TX: 944 Practices Compared"
+O130,D15,chatgpt,Dallas,implants,selection,2,2,https://toothrestorationtx.com/find-an-implant-specialist/dallas-tx,toothrestorationtx.com,treatment,"Implant Specialists in Dallas, Texas: The Register"
+O130,D15,chatgpt,Dallas,implants,selection,2,3,https://dentalimplantcenter.com/about-dr-david-mcfadden,dentalimplantcenter.com,unclassified,About Dr. David McFadden
+O130,D15,chatgpt,Dallas,implants,selection,2,4,https://yelp.com/biz/mcfadden-david-dmd-dallas?adjust_creative=openai,yelp.com,directory_social,The Dental Implant Center
+O130,D15,chatgpt,Dallas,implants,selection,2,5,https://dentalimplantcenter.com/,dentalimplantcenter.com,homepage,dentalimplantcenter.com
+O130,D15,chatgpt,Dallas,implants,selection,2,6,https://google.com/maps/place?q=place_id%3AChIJrex1iw8hTIYRYITy-fZBt5M&hl=en,google.com,unclassified,Texas Center for Oral Surgery & Dental Implants
+O130,D15,chatgpt,Dallas,implants,selection,2,7,https://google.com/search?q=Texas+Center+for+Oral+Surgery+and+Dental+Implants+Dallas,google.com,unclassified,Find the practice
+O130,D15,chatgpt,Dallas,implants,selection,2,8,https://google.com/maps/place?q=place_id%3AChIJY9Gc3BKfToYRdyPjCprukWY&hl=en,google.com,unclassified,Dallas Periodontics and Dental Implants
+O130,D15,chatgpt,Dallas,implants,selection,2,9,https://google.com/search?q=Dallas+Periodontics+and+Dental+Implants+Rambler+Road,google.com,unclassified,Find the practice
+O130,D15,chatgpt,Dallas,implants,selection,2,10,https://dentistsranked.com/dental-services/dental-implants-dallas-tx,dentistsranked.com,treatment,"Best Dental Implant Dentists in Dallas, TX (2026): 251 Ranked"
+O130,D15,chatgpt,Dallas,implants,selection,2,11,https://google.com/search?q=Beyond+Dental+Implant+Center+Dallas,google.com,unclassified,Find the practice
+O130,D15,chatgpt,Dallas,implants,selection,2,12,https://yelp.com/biz/dallas-prosthodontics-dallas?adjust_creative=openai,yelp.com,directory_social,Dallas Prosthodontics
+O130,D15,chatgpt,Dallas,implants,selection,2,13,https://myspecialtydentist.com/best/prosthodontics/tx/dallas,myspecialtydentist.com,unclassified,"Best Prosthodontists in Dallas, Texas (2026)"
+O130,D15,chatgpt,Dallas,implants,selection,2,14,https://google.com/search?q=Dallas+Prosthodontics+Belt+Line+Road,google.com,unclassified,Find the practice
+O131,D15,gemini,Dallas,implants,selection,2,1,https://dentalimplantcenter.com/,dentalimplantcenter.com,homepage,Dental Implant Center - Dallas Texas Implant Specialist
+O131,D15,gemini,Dallas,implants,selection,2,2,https://dentalimplantcenter.com/about-dr-david-mcfadden,dentalimplantcenter.com,unclassified,"Dr. David McFadden, Board-Certified Prosthodontist in Dallas, TX."
+O131,D15,gemini,Dallas,implants,selection,2,3,https://southmag.com/10-standout-dental-implant-clinics-in-dallas-that-are-changing-smiles,southmag.com,treatment,10 Standout Dental Implant Clinics in Dallas That Are Changing
+O131,D15,gemini,Dallas,implants,selection,2,4,https://rankmydentist.com/top-dentists/dallas/all-on-4-dental-implants,rankmydentist.com,treatment,Best All-On-X Dental Implants in Dallas - Top Dentists Guide
+O131,D15,gemini,Dallas,implants,selection,2,5,https://downtowndallasdentist.com/dental-implants,downtowndallasdentist.com,treatment,"Dallas Dental Implants - Dr. Keith W. Brewster, DDS"
+O133,D16,chatgpt,Dallas,implants,dentist_branch_evidence,2,1,https://dentalimplantcenter.com/,dentalimplantcenter.com,homepage,Official website and implant services
+O133,D16,chatgpt,Dallas,implants,dentist_branch_evidence,2,2,https://archpointid.com/office/dallas,archpointid.com,location,Official Dallas office and services
+O133,D16,chatgpt,Dallas,implants,dentist_branch_evidence,2,3,https://archpointid.com/,archpointid.com,homepage,"All-on-4 Dental Implants in Dallas–Fort Worth, TX"
+O133,D16,chatgpt,Dallas,implants,dentist_branch_evidence,2,4,https://parkcitiesoms.com/,parkcitiesoms.com,homepage,Official practice website and implant services
+O133,D16,chatgpt,Dallas,implants,dentist_branch_evidence,2,5,https://clearchoice.com/locations/tx/dallas/7557-rambler-rd,clearchoice.com,location,Official Dallas location and clinician profiles
+O133,D16,chatgpt,Dallas,implants,dentist_branch_evidence,2,6,https://oralsurgeryofdallas.com/procedures/dental-implants,oralsurgeryofdallas.com,treatment,Official dental implant service page
+O133,D16,chatgpt,Dallas,implants,dentist_branch_evidence,2,7,https://dallasperiodontalassociates.com/,dallasperiodontalassociates.com,homepage,Practice website
+O133,D16,chatgpt,Dallas,implants,dentist_branch_evidence,2,8,https://tedhumedental.com/services/restorative-dentistry/dental-implants,tedhumedental.com,treatment,Official dental implant service page
+O133,D16,chatgpt,Dallas,implants,dentist_branch_evidence,2,9,https://dallasdentistryanddentalimplants.com/,dallasdentistryanddentalimplants.com,homepage,Official practice website and dentist profiles
+O134,D16,gemini,Dallas,implants,dentist_branch_evidence,2,1,https://parkcitiesoms.com/,parkcitiesoms.com,homepage,Park Cities Oral & Maxillofacial Surgery Associates - Dental Implant
+O134,D16,gemini,Dallas,implants,dentist_branch_evidence,2,2,https://rankmydentist.com/top-dentists/dallas/all-on-4-dental-implants,rankmydentist.com,treatment,Best All-On-X Dental Implants in Dallas - Top Dentists Guide
+O134,D16,gemini,Dallas,implants,dentist_branch_evidence,2,3,https://dentalimplantcenter.com/contact-us-and-sign-up-for-a-personal-consultation,dentalimplantcenter.com,location,Contact Us & Sign up for a Personal Consultation
+O134,D16,gemini,Dallas,implants,dentist_branch_evidence,2,4,https://clearchoice.com/locations/tx/dallas/7557-rambler-rd,clearchoice.com,location,"Dental Implants in Dallas, TX | ClearChoice"
+O136,D16,ai_mode,Dallas,implants,dentist_branch_evidence,2,1,https://dallasdentalspecialists.com/,dallasdentalspecialists.com,homepage,"Dallas, TX Dentists | Dallas Dental Specialists | Family Dentist"
+O136,D16,ai_mode,Dallas,implants,dentist_branch_evidence,2,2,https://dallasimplant.com/meet-our-doctors,dallasimplant.com,dentist_team,Meet Our Doctors | Dallas Periodontal Associates
+O136,D16,ai_mode,Dallas,implants,dentist_branch_evidence,2,3,https://clearchoice.com/schedule-a-consultation?fc=CC_470d3d56-081a-11ef-a998-c202c3cbb21b&zip=75231,clearchoice.com,unclassified,Dental Implants Consultation
+O137,D17,gemini,Dallas,urgent,selection,2,1,https://parkcentraldentaltx.com/services/general-family-dentistry/same-day-emergency-care,parkcentraldentaltx.com,treatment,Emergency Dentist Dallas TX | Same-Day Care | 214-340-9696
+O137,D17,gemini,Dallas,urgent,selection,2,2,https://247localdentist.com/profile/dallas-tx-mint-dentistry-uptown,247localdentist.com,unclassified,"24-Hour Emergency Dentist Dallas, TX 75201 | MINT Dentistry"
+O137,D17,gemini,Dallas,urgent,selection,2,3,https://crossroadsdentaldallas.com/our-services/emergency-dental-care,crossroadsdentaldallas.com,treatment,"Emergency Dentist in Dallas, Texas - Crossroads Dental"
+O137,D17,gemini,Dallas,urgent,selection,2,4,https://smilekingdomtx.com/services/emergency-dentist-dallas,smilekingdomtx.com,treatment,Emergency Dentist Dallas - Smile Kingdom Dental & Orthodontics
+O138,D17,ai_overviews,Dallas,urgent,selection,2,1,https://emergencydental.com/dallas,emergencydental.com,unclassified,"Emergency Dentist in Dallas, TX | Same-Day Dental Care"
+O138,D17,ai_overviews,Dallas,urgent,selection,2,2,https://lfdentist.com/dental-services/general-dentistry/emergency-dentistry-dallas-tx,lfdentist.com,treatment,"No-waiting Emergency Dentist in Dallas, TX | Same day dental care"
+O138,D17,ai_overviews,Dallas,urgent,selection,2,3,https://katytrail.dental/emergency-dentist,katytrail.dental,treatment,"Emergency Dentist | Dentist in Dallas, TX"
+O138,D17,ai_overviews,Dallas,urgent,selection,2,4,https://dcds.org/for-the-public/low-cost-services,dcds.org,unclassified,Low Cost Services - Dallas County Dental Society
+O138,D17,ai_overviews,Dallas,urgent,selection,2,5,https://zocdoc.com/dentist/jonathan-swope-dds-673354?LocIdent=368044&entity_id=pr_A4h2jGx0WEK7tf-X_aQDTg-lo_ZNkzBA7lAUuUCAQLnD2jLQ-entity,zocdoc.com,directory_social,Dental Emergency
+O138,D17,ai_overviews,Dallas,urgent,selection,2,6,https://parkcentraldentaltx.com/services/general-family-dentistry/same-day-emergency-care,parkcentraldentaltx.com,treatment,Emergency Dentist Dallas TX | Same-Day Care | 214-340
+O139,D17,ai_mode,Dallas,urgent,selection,2,1,https://google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEdSck5XeGtlZxgK,google.com,unclassified,Ideal Dental Uptown
+O139,D17,ai_mode,Dallas,urgent,selection,2,2,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdoaWMzaDNlVEZqGAo,google.com,unclassified,DentUrgent
+O139,D17,ai_mode,Dallas,urgent,selection,2,3,https://google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEdSNE5HcHlNURgK,google.com,unclassified,Dallas Dental Arts
+O139,D17,ai_mode,Dallas,urgent,selection,2,4,https://zocdoc.com/dentist/minnie-koo-dds-428589?LocIdent=200819&entity_id=pr_YVzgaeHTokWUEdr1PnLCeB-lo_0opteNJ6DEWSHb1zh5XASh-entity,zocdoc.com,directory_social,Dental Emergency
+O139,D17,ai_mode,Dallas,urgent,selection,2,5,https://schedule.jarvisanalytics.com/frame/DECA?location_id=439&service_id=26,schedule.jarvisanalytics.com,unclassified,2. Emergency Visit
+O139,D17,ai_mode,Dallas,urgent,selection,2,6,https://schedule.jarvisanalytics.com/frame/DECA?location_id=2617&service_id=26,schedule.jarvisanalytics.com,unclassified,2. Emergency Visit
+O140,D17,chatgpt,Dallas,urgent,selection,2,1,https://emergencydental.com/dallas/contact-us,emergencydental.com,location,Contact Us
+O140,D17,chatgpt,Dallas,urgent,selection,2,2,https://dentalemergencycare.com/,dentalemergencycare.com,homepage,Dental Emergency Care
+O140,D17,chatgpt,Dallas,urgent,selection,2,3,https://parkcentraldentaltx.com/patient-resources/faq,parkcentraldentaltx.com,unclassified,FAQ
+O140,D17,chatgpt,Dallas,urgent,selection,2,4,https://mysoleildental.com/services/emergency-dentist,mysoleildental.com,treatment,"Emergency Dentist Oak Lawn, Dallas: $75 Exam"
+O140,D17,chatgpt,Dallas,urgent,selection,2,5,https://dcds.org/for-the-public/low-cost-services,dcds.org,unclassified,Low Cost Services
+O142,D18,ai_mode,Dallas,urgent,dentist_branch_evidence,2,1,https://zocdoc.com/dentist/jonathan-swope-dds-673354?LocIdent=368044&entity_id=pr_A4h2jGx0WEK7tf-X_aQDTg-lo_ZNkzBA7lAUuUCAQLnD2jLQ-entity,zocdoc.com,directory_social,Dental Emergency
+O142,D18,ai_mode,Dallas,urgent,dentist_branch_evidence,2,2,https://zocdoc.com/dentist/shahriar-soroushi-dds-704623?LocIdent=137872&entity_id=pr_OpZ92Hj8H0iI9KkkIGJV_w-lo_RJvmUM1D3Eeh_qO1280pkR-entity,zocdoc.com,directory_social,Dental Emergency
+O142,D18,ai_mode,Dallas,urgent,dentist_branch_evidence,2,3,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVc1M05ubGZlR3N5GAo,google.com,unclassified,Emergency Dental Service Dallas
+O143,D18,chatgpt,Dallas,urgent,dentist_branch_evidence,2,1,https://emergencydentistdallastx.com/contact-us,emergencydentistdallastx.com,location,Official contact page and office details
+O143,D18,chatgpt,Dallas,urgent,dentist_branch_evidence,2,2,https://emergencydentistdallastx.com/,emergencydentistdallastx.com,homepage,Emergency services and hours
+O143,D18,chatgpt,Dallas,urgent,dentist_branch_evidence,2,3,https://emergencydental.com/dallas/contact-us,emergencydental.com,location,"Official location, contact details and hours"
+O143,D18,chatgpt,Dallas,urgent,dentist_branch_evidence,2,4,https://dallassaturdaydentist.com/,dallassaturdaydentist.com,homepage,Official website and emergency-care information
+O143,D18,chatgpt,Dallas,urgent,dentist_branch_evidence,2,5,https://eastquarterdental.com/emergency-dentistry,eastquarterdental.com,treatment,"Official emergency dentistry page, address and contact information"
+O143,D18,chatgpt,Dallas,urgent,dentist_branch_evidence,2,6,https://drdavidbrumbaugh.com/services/general-dentistry/emergency-dentistry,drdavidbrumbaugh.com,treatment,Official emergency dentistry page
+O143,D18,chatgpt,Dallas,urgent,dentist_branch_evidence,2,7,https://hfdentist.com/,hfdentist.com,homepage,Official practice website and emergency-care information
+O143,D18,chatgpt,Dallas,urgent,dentist_branch_evidence,2,8,https://dulcedentalofdallas.com/our-services/emergency-dentistry,dulcedentalofdallas.com,treatment,Official emergency dentistry page
+O144,D18,gemini,Dallas,urgent,dentist_branch_evidence,2,1,https://dentaldefendersdallas.com/empty-page/emergency-dental-care-Dallas,dentaldefendersdallas.com,treatment,"Emergency Dental Care in Dallas, TX | (469) 677-2575"
+O144,D18,gemini,Dallas,urgent,dentist_branch_evidence,2,2,https://katytrail.dental/emergency-dentist,katytrail.dental,treatment,"Emergency Dentist in Dallas, TX - Katy Trail Dental"
+O144,D18,gemini,Dallas,urgent,dentist_branch_evidence,2,3,https://crossroadsdentaldallas.com/our-services/emergency-dental-care,crossroadsdentaldallas.com,treatment,"Emergency Dentist in Dallas, Texas - Crossroads Dental"
+O144,D18,gemini,Dallas,urgent,dentist_branch_evidence,2,4,https://dcds.org/for-the-public/low-cost-services,dcds.org,unclassified,Low Cost Services - Dallas County Dental Society
+O146,D01,ai_mode,New York City,cosmetic,selection,3,1,https://book.modento.io/armstrong-dental-studio-midtown-manhattan/g/google-schedule-link/veneer-consult-4tjef,book.modento.io,treatment,Veneer Consult
+O146,D01,ai_mode,New York City,cosmetic,selection,3,2,https://app.nexhealth.com/appt/New-York-Family-Dental-Arts?atid=47783&lid=21247,app.nexhealth.com,unclassified,Cosmetic/ Porcelain Veneer Consultation
+O146,D01,ai_mode,New York City,cosmetic,selection,3,3,https://zocdoc.com/practice/dr-vivian-wong-smile-arts-of-ny-152988?LocIdent=370692&entity_id=pt_Qph-ubgt9U-awK4lZBzrpw-lo_rOEjRBGBFUCLXj6brdZx8w-entity,zocdoc.com,directory_social,Veneer(S)
+O146,D01,ai_mode,New York City,cosmetic,selection,3,4,https://app.nexhealth.com/appt/smileartsofny?atid=6869&lid=2884,app.nexhealth.com,unclassified,Porcelain Veneers Consultation
+O146,D01,ai_mode,New York City,cosmetic,selection,3,5,https://nexhealth.info/book/appt/pearldentalnyc?lid=2089,nexhealth.info,unclassified,Veneer(S)
+O146,D01,ai_mode,New York City,cosmetic,selection,3,6,https://app.nexhealth.com/appt/central-park-dentists?atid=1365&lid=619,app.nexhealth.com,unclassified,Veneers
+O147,D01,chatgpt,New York City,cosmetic,selection,3,1,https://bestnewyork.us/cosmetic-dentists,bestnewyork.us,treatment,The 13 Best Cosmetic Dentists in New York
+O147,D01,chatgpt,New York City,cosmetic,selection,3,2,https://realself.com/find/New-York/New-York-City/Porcelain-Veneers,realself.com,directory_social,"Top Porcelain Veneers Providers in New York City, NY"
+O147,D01,chatgpt,New York City,cosmetic,selection,3,3,https://cosmeticdentistrynyc.com/,cosmeticdentistrynyc.com,homepage,Cosmetic Dentistry NYC
+O147,D01,chatgpt,New York City,cosmetic,selection,3,4,https://yelp.com/biz/new-york-center-for-cosmetic-dentistry-new-york?adjust_creative=openai,yelp.com,directory_social,The New York Center for Cosmetic Dentistry
+O147,D01,chatgpt,New York City,cosmetic,selection,3,5,https://yelp.com/biz/jason-e-holden-dmd-new-york?adjust_creative=openai,yelp.com,directory_social,"Prosthodontic Associates NYC, PLLC"
+O148,D01,gemini,New York City,cosmetic,selection,3,1,https://drmarclazare.com/post/best-cosmetic-dentists-for-porcelain-veneers-in-nyc,drmarclazare.com,treatment,7 Best Cosmetic Dentists for Porcelain Veneers in NYC (2026)
+O149,D02,ai_mode,New York City,cosmetic,dentist_branch_evidence,3,1,https://navmds.com/doctor/dr-mojgan-fajiram-dds,navmds.com,directory_social,Porcelain Veneers
+O149,D02,ai_mode,New York City,cosmetic,dentist_branch_evidence,3,2,https://tebra.com/care/practice/charles-m-marks-dds-dental-associates-940176?lid=2009579444,tebra.com,directory_social,Porcelain Veneers
+O149,D02,ai_mode,New York City,cosmetic,dentist_branch_evidence,3,3,https://tebra.com/care/provider/charles-marks-dds-1942324629?lid=2009579444,tebra.com,directory_social,Porcelain Veneers
+O150,D02,chatgpt,New York City,cosmetic,dentist_branch_evidence,3,1,https://cosmeticdentistrynyc.com/porcelain-veneers,cosmeticdentistrynyc.com,treatment,Official porcelain veneers page
+O150,D02,chatgpt,New York City,cosmetic,dentist_branch_evidence,3,2,https://nymanhattandentist.com/,nymanhattandentist.com,homepage,Official practice website
+O150,D02,chatgpt,New York City,cosmetic,dentist_branch_evidence,3,3,https://wynattechudds.com/new-york,wynattechudds.com,unclassified,New York office and services
+O150,D02,chatgpt,New York City,cosmetic,dentist_branch_evidence,3,4,https://arbeitman-shein.com/contact-us/contact-information-office-map,arbeitman-shein.com,location,Official office and contact page
+O150,D02,chatgpt,New York City,cosmetic,dentist_branch_evidence,3,5,https://nyccd.com/contact-us,nyccd.com,location,Official contact page
+O150,D02,chatgpt,New York City,cosmetic,dentist_branch_evidence,3,6,https://nyccd.com/,nyccd.com,homepage,porcelain veneers service page
+O150,D02,chatgpt,New York City,cosmetic,dentist_branch_evidence,3,7,https://lowenberglituchykantor.com/,lowenberglituchykantor.com,homepage,Official practice website
+O150,D02,chatgpt,New York City,cosmetic,dentist_branch_evidence,3,8,https://madisondentalspa.com/,madisondentalspa.com,homepage,Official practice website
+O150,D02,chatgpt,New York City,cosmetic,dentist_branch_evidence,3,9,https://smileworksnyc.com/cosmetic-dentistry/veneer,smileworksnyc.com,treatment,Official veneers page
+O151,D02,gemini,New York City,cosmetic,dentist_branch_evidence,3,1,https://lowenberglituchykantor.com/the-doctors,lowenberglituchykantor.com,unclassified,"The Doctors - LLK - Central Park South, New York City (NYC)"
+O151,D02,gemini,New York City,cosmetic,dentist_branch_evidence,3,2,https://cosmeticdentistryny.com/services/porcelain-veneers,cosmeticdentistryny.com,treatment,"Porcelain Dental Veneers In New York City | Viviane Trinh, DMD"
+O151,D02,gemini,New York City,cosmetic,dentist_branch_evidence,3,3,https://rankmydentist.com/top-dentists/new-york-city/veneers,rankmydentist.com,treatment,Top Dentists for Veneers in New York
+O153,D03,chatgpt,New York City,implants,selection,3,1,https://localdentalclinics.net/c/dental-implants/new-york/new-york,localdentalclinics.net,treatment,"Best Dental Implants in New York, NY: Top Rated & Reviewed"
+O153,D03,chatgpt,New York City,implants,selection,3,2,https://yelp.com/biz/david-weinstein-dds-new-york?adjust_creative=openai,yelp.com,directory_social,"NY Periodontics: Dr. David Weinstein, Dr. Stuart Froum, Dr. Clifford Melnick, & Dr. Allison Rascon"
+O153,D03,chatgpt,New York City,implants,selection,3,3,https://nyperiodontics.com/,nyperiodontics.com,homepage,Practice information
+O153,D03,chatgpt,New York City,implants,selection,3,4,https://nycdentalimplantscenter.com/dr-navid-rahmani,nycdentalimplantscenter.com,dentist_team,Dr. Navid Rahmani
+O153,D03,chatgpt,New York City,implants,selection,3,5,https://google.com/maps/place?q=place_id%3AChIJ3yUA_OhYwokRuB4KjegT3DY&hl=en,google.com,unclassified,NYC Dental Implants Center
+O153,D03,chatgpt,New York City,implants,selection,3,6,https://nycdentalimplantscenter.com/,nycdentalimplantscenter.com,homepage,Practice website
+O153,D03,chatgpt,New York City,implants,selection,3,7,https://yelp.com/biz/madison-avenue-periodontics-new-york?adjust_creative=openai,yelp.com,directory_social,Madison Avenue Periodontics
+O153,D03,chatgpt,New York City,implants,selection,3,8,https://madisonavenueperiodontics.com/,madisonavenueperiodontics.com,homepage,Practice website
+O153,D03,chatgpt,New York City,implants,selection,3,9,https://thewdentalgroup.com/best-periodontist-in-new-york-ny,thewdentalgroup.com,unclassified,"Best Periodontists in New York, NY"
+O153,D03,chatgpt,New York City,implants,selection,3,10,https://212smiling.com/,212smiling.com,homepage,Practice information
+O153,D03,chatgpt,New York City,implants,selection,3,11,https://yelp.com/biz/nyu-college-of-dentistry-new-york?adjust_creative=openai,yelp.com,directory_social,New York University College of Dentistry
+O153,D03,chatgpt,New York City,implants,selection,3,12,https://dental.nyu.edu/,dental.nyu.edu,homepage,NYU Dentistry
+O153,D03,chatgpt,New York City,implants,selection,3,13,https://yelp.com/biz/jason-e-holden-dmd-new-york?adjust_creative=openai,yelp.com,directory_social,"Prosthodontic Associates NYC, PLLC"
+O156,D03,ai_mode,New York City,implants,selection,3,1,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdKNmREUmtjM0Y0GAo,google.com,unclassified,NYC Dental Implants Center
+O156,D03,ai_mode,New York City,implants,selection,3,2,https://google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEdSamJYZHNOZxgK,google.com,unclassified,212 Smiling
+O156,D03,ai_mode,New York City,implants,selection,3,3,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdvM2RuSnljakJxGAo,google.com,unclassified,Implant Dental Works
+O157,D04,gemini,New York City,implants,dentist_branch_evidence,3,1,https://nycdentalimplantscenter.com/best-rated-nyc-dental-implant-specialists-top-dentist,nycdentalimplantscenter.com,treatment,Best Rated Dental Implants NYC | Top Implant Specialist in New York
+O157,D04,gemini,New York City,implants,dentist_branch_evidence,3,2,https://new-york-oral-surgery.com/,new-york-oral-surgery.com,homepage,"Oral Surgery NY, Oral Maxillofacial New York City, Dental Implants"
+O157,D04,gemini,New York City,implants,dentist_branch_evidence,3,3,https://zocdoc.com/practice/dental-implant-center-nyc-35231,zocdoc.com,directory_social,"Dental Implant Center NYC — New York, NY - Zocdoc"
+O159,D04,ai_mode,New York City,implants,dentist_branch_evidence,3,1,https://book.allinone.dental/ny-implan?rfv=634fa410-5cd3-46a5-af30-6e8715768e16,book.allinone.dental,unclassified,Implant Consult
+O159,D04,ai_mode,New York City,implants,dentist_branch_evidence,3,2,https://zocdoc.com/dentist/greg-diamond-dds-510266?LocIdent=238506&entity_id=pr_ivQnLKqdQ0GhE-B8txNx0R-lo_-QGspJ_BIkytQjBPeiyk2B-entity,zocdoc.com,directory_social,Dental Consultation
+O159,D04,ai_mode,New York City,implants,dentist_branch_evidence,3,3,https://zocdoc.com/dentist/robert-zarabi-dds-674419?LocIdent=368117&entity_id=pr_cY67ht0eSUWyCBs4b_Q2PQ-lo_UtEdeMayfUGvIpYNE4EsLw-entity,zocdoc.com,directory_social,Periodontist Consultation
+O160,D04,chatgpt,New York City,implants,dentist_branch_evidence,3,1,https://upperwestsidedentist.com/,upperwestsidedentist.com,homepage,Official website — implant services and credentials
+O160,D04,chatgpt,New York City,implants,dentist_branch_evidence,3,2,https://midtowndentalservices.com/dental-implants,midtowndentalservices.com,treatment,Official implant services page
+O160,D04,chatgpt,New York City,implants,dentist_branch_evidence,3,3,https://midtowndentalservices.com/about-us,midtowndentalservices.com,unclassified,Practice background
+O160,D04,chatgpt,New York City,implants,dentist_branch_evidence,3,4,https://aldentalstudio.com/,aldentalstudio.com,homepage,Official practice website
+O160,D04,chatgpt,New York City,implants,dentist_branch_evidence,3,5,https://perionyc.com/,perionyc.com,homepage,Official website and implant services
+O160,D04,chatgpt,New York City,implants,dentist_branch_evidence,3,6,https://smileworksnyc.com/oral-surgery/dental-implant,smileworksnyc.com,treatment,Official dental implant page
+O160,D04,chatgpt,New York City,implants,dentist_branch_evidence,3,7,https://nxdental.com/,nxdental.com,homepage,Official website and implant information
+O160,D04,chatgpt,New York City,implants,dentist_branch_evidence,3,8,https://unitednationsplazadental.com/,unitednationsplazadental.com,homepage,Official practice website
+O160,D04,chatgpt,New York City,implants,dentist_branch_evidence,3,9,https://dentalspecialistsofny.com/specialty/dental-implants,dentalspecialistsofny.com,treatment,Official dental implant service page
+O160,D04,chatgpt,New York City,implants,dentist_branch_evidence,3,10,https://nycdentalimplantscenter.com/,nycdentalimplantscenter.com,homepage,Practice listing and services
+O160,D04,chatgpt,New York City,implants,dentist_branch_evidence,3,11,https://nyperio.com/,nyperio.com,homepage,Practice information and services
+O160,D04,chatgpt,New York City,implants,dentist_branch_evidence,3,12,https://midmanhattanoralsurgery.com/,midmanhattanoralsurgery.com,homepage,Practice listing and contact details
+O160,D04,chatgpt,New York City,implants,dentist_branch_evidence,3,13,https://gddentistrynyc.com/staff,gddentistrynyc.com,dentist_team,Dentist biographies and practice services
+O161,D05,ai_overviews,New York City,urgent,selection,3,1,https://dental.nyu.edu/patientcare/emergency-services-urgent-care.html,dental.nyu.edu,unclassified,Emergency Services/Urgent Care
+O161,D05,ai_overviews,New York City,urgent,selection,3,2,https://nychealthandhospitals.org/services/dental-care,nychealthandhospitals.org,treatment,Dental Care - NYC Health + Hospitals
+O161,D05,ai_overviews,New York City,urgent,selection,3,3,https://emergencydentistnyc.com/,emergencydentistnyc.com,homepage,"Emergency Dentist NYC: Emergency, Cosmetic, and General ..."
+O161,D05,ai_overviews,New York City,urgent,selection,3,4,https://209nycdental.com/services/dental-emergency,209nycdental.com,treatment,Emergency Dentist NYC | Same-Day Urgent Care in Manhattan | 7 days a Week | PPO Insurance
+O161,D05,ai_overviews,New York City,urgent,selection,3,5,https://cpwdentistry.com/service/emergency-dentistry-nyc,cpwdentistry.com,treatment,Emergency Dentist NYC - Central Park West Dentistry | NYC Dentist
+O161,D05,ai_overviews,New York City,urgent,selection,3,6,https://emergencydentistnyc.com/services/emergency-dentistry,emergencydentistnyc.com,treatment,"Emergency Dentistry Specialist - Union Square New York City, NY: Emergency Dentist NYC: Emergency, Cosmetic, and General Dentistry"
+O161,D05,ai_overviews,New York City,urgent,selection,3,7,https://godental365.com/location/dentist-14th-street/emergency-dentist,godental365.com,treatment,"Emergency Dentist New York, NY - (212) 633-0365 - Urgent Dental Care in New York"
+O161,D05,ai_overviews,New York City,urgent,selection,3,8,https://dentistemergency.nyc/,dentistemergency.nyc,homepage,Emergency Dental Center | Emergency Dentist in Midtown ...
+O162,D05,ai_mode,New York City,urgent,selection,3,1,https://dental.nyu.edu/patientcare/emergency-services-urgent-care.html,dental.nyu.edu,unclassified,Emergency Services/Urgent Care
+O162,D05,ai_mode,New York City,urgent,selection,3,2,https://dental.nyu.edu/patientcare/resuming-care.html,dental.nyu.edu,unclassified,Resuming Care
+O162,D05,ai_mode,New York City,urgent,selection,3,3,https://cpwdentistry.com/service/emergency-dentistry-nyc,cpwdentistry.com,treatment,Emergency Dentist NYC - Central Park West Dentistry | NYC Dentist
+O162,D05,ai_mode,New York City,urgent,selection,3,4,https://google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4YUdocmRqUjJOalkYCg,google.com,unclassified,Emergency Dentist NYC
+O162,D05,ai_mode,New York City,urgent,selection,3,5,https://google.com/searchviewer/10?svid=CAwSGBIWCgNwdnESD0Nna3ZiUzh3TmpBd2FuURgK,google.com,unclassified,NYC Health + Hospitals / Bellevue
+O163,D05,chatgpt,New York City,urgent,selection,3,1,https://209nycdental.com/services/dental-emergency,209nycdental.com,treatment,Emergency Dentist NYC | Same-Day Urgent Care in Manhattan | 7 days a Week
+O163,D05,chatgpt,New York City,urgent,selection,3,2,https://yelp.com/biz/209-nyc-dental-new-york?adjust_creative=openai,yelp.com,directory_social,209 NYC Dental
+O163,D05,chatgpt,New York City,urgent,selection,3,3,https://172nycdental.com/services/dental-emergency,172nycdental.com,treatment,Emergency Dentist NYC | No Insurance Needed
+O163,D05,chatgpt,New York City,urgent,selection,3,4,https://yelp.com/biz/172-nyc-dental-new-york-2?adjust_creative=openai,yelp.com,directory_social,172 NYC Dental
+O163,D05,chatgpt,New York City,urgent,selection,3,5,https://dental.columbia.edu/cdm-emergency-services-policy,dental.columbia.edu,unclassified,CDM Emergency Services Policy
+O163,D05,chatgpt,New York City,urgent,selection,3,6,https://dental.columbia.edu/patient-care/teaching-clinics/emergency-care,dental.columbia.edu,unclassified,Emergency Care
+O163,D05,chatgpt,New York City,urgent,selection,3,7,https://nychealthandhospitals.org/bellevue/services/dental,nychealthandhospitals.org,treatment,Adult and Pediatric Dental Clinics
+O163,D05,chatgpt,New York City,urgent,selection,3,8,https://nyc.gov/html/hhc/bellevue/downloads/pdf/dental-1-12-en.pdf,nyc.gov,unclassified,HC Bellevue
+O163,D05,chatgpt,New York City,urgent,selection,3,9,https://nychealthandhospitals.org/lincoln/services/medical-specialties/dentistry-and-oral-and-maxillofacial-surgery,nychealthandhospitals.org,treatment,Dental Care and Oral & Maxillofacial Surgery
+O164,D05,gemini,New York City,urgent,selection,3,1,https://nxdental.com/services/dental-emergency,nxdental.com,treatment,Dental Emergency
+O164,D05,gemini,New York City,urgent,selection,3,2,https://209nycdental.com/services/dental-emergency,209nycdental.com,treatment,Emergency Dentist NYC | Same-Day Urgent Care in Manhattan
+O165,D06,ai_mode,New York City,urgent,dentist_branch_evidence,3,1,https://zocdoc.com/dentist/maor-gutwaks-dds-481225?LocIdent=202718&entity_id=pr_yoQqMHdHJky16fWSauY1kh-lo__u1NLQsCGEeofLc09U2udB-entity,zocdoc.com,directory_social,Dental Emergency
+O165,D06,ai_mode,New York City,urgent,dentist_branch_evidence,3,2,https://zocdoc.com/dentist/anthony-leonetti-dmd-294439?LocIdent=123555&entity_id=pr_nLKn9-zKmkGCe6Ih_EFcaR-lo_f9cBtd5lfE2jxoQc1msMnR-entity,zocdoc.com,directory_social,Dental Emergency
+O165,D06,ai_mode,New York City,urgent,dentist_branch_evidence,3,3,https://zocdoc.com/dentist/marina-mats-dds-10124?LocIdent=10656&entity_id=pr_mP_EPZL8NUGgnaGL_6h81R-lo_sMYEODiaCU-woQsMDWwvaB-entity,zocdoc.com,directory_social,Dental Emergency
+O165,D06,ai_mode,New York City,urgent,dentist_branch_evidence,3,4,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdZemRqQTNiR0l4GAo,google.com,unclassified,Emergency Dental Center
+O166,D06,chatgpt,New York City,urgent,dentist_branch_evidence,3,1,https://209nycdental.com/services/dental-emergency,209nycdental.com,treatment,Official emergency dental care page
+O166,D06,chatgpt,New York City,urgent,dentist_branch_evidence,3,2,https://209nycdental.com/,209nycdental.com,homepage,Office listing
+O166,D06,chatgpt,New York City,urgent,dentist_branch_evidence,3,3,https://172nycdental.com/services/dental-emergency,172nycdental.com,treatment,Official emergency dentistry page
+O166,D06,chatgpt,New York City,urgent,dentist_branch_evidence,3,4,https://dentistemergency.nyc/,dentistemergency.nyc,homepage,Official emergency dental service website
+O166,D06,chatgpt,New York City,urgent,dentist_branch_evidence,3,5,https://manhattan-dental.com/emergency-care,manhattan-dental.com,unclassified,Official emergency-care page
+O166,D06,chatgpt,New York City,urgent,dentist_branch_evidence,3,6,https://nydentistemergency.com/,nydentistemergency.com,homepage,Official practice website
+O166,D06,chatgpt,New York City,urgent,dentist_branch_evidence,3,7,https://tribecadentalstudio.com/emergency-dentist-nyc,tribecadentalstudio.com,treatment,Official emergency dentist page
+O166,D06,chatgpt,New York City,urgent,dentist_branch_evidence,3,8,https://dental.columbia.edu/patient-care/teaching-clinics/emergency-care,dental.columbia.edu,unclassified,Official Columbia emergency-care page
+O166,D06,chatgpt,New York City,urgent,dentist_branch_evidence,3,9,https://smileartsny.com/services/emergency-dentist-nyc,smileartsny.com,treatment,Same-day and weekend emergency appointments
+O166,D06,chatgpt,New York City,urgent,dentist_branch_evidence,3,10,https://gothamdental.com/emergency,gothamdental.com,unclassified,Same-day emergency care
+O166,D06,chatgpt,New York City,urgent,dentist_branch_evidence,3,11,https://toothdocsdental.com/services/emergency-dentistry,toothdocsdental.com,treatment,Emergency dentistry and same-day appointments
+O166,D06,chatgpt,New York City,urgent,dentist_branch_evidence,3,12,https://google.com/maps/search?api=1&query=After+Dark+Dental+10+West+37th+Street+NYC,google.com,unclassified,Business listing and contact details
+O167,D06,gemini,New York City,urgent,dentist_branch_evidence,3,1,https://emergencydentistnyc.com/,emergencydentistnyc.com,homepage,"Emergency Dentist NYC: Emergency, Cosmetic, and General"
+O167,D06,gemini,New York City,urgent,dentist_branch_evidence,3,2,https://godental365.com/location/dentist-14th-street/emergency-dentist,godental365.com,treatment,"Emergency Dentist New York, NY - Dental365 - 14th Street"
+O167,D06,gemini,New York City,urgent,dentist_branch_evidence,3,3,https://dentistemergency.nyc/,dentistemergency.nyc,homepage,Emergency Dental Center | Emergency Dentist in Midtown East
+O167,D06,gemini,New York City,urgent,dentist_branch_evidence,3,4,https://lesbellesnyc.com/emergency-dentistry,lesbellesnyc.com,treatment,Emergency Dentist on the Upper East Side of Manhattan
+O167,D06,gemini,New York City,urgent,dentist_branch_evidence,3,5,https://dentalartsny.com/emergency-dentist-upper-east-side.php,dentalartsny.com,treatment,Emergency Dentist Upper East Side - New York Family Dental Arts
+O167,D06,gemini,New York City,urgent,dentist_branch_evidence,3,6,https://dental.nyu.edu/patientcare/emergency-services-urgent-care.html,dental.nyu.edu,unclassified,Emergency Services/Urgent Care - NYU College of Dentistry
+O169,D07,chatgpt,Chicago,cosmetic,selection,3,1,https://ad-chicago.com/,ad-chicago.com,homepage,Advanced Dentistry
+O169,D07,chatgpt,Chicago,cosmetic,selection,3,2,https://google.com/maps/place/Advanced%20Dentistry%20of%20Chicago%20%7C%20Stuart%20Schelkopf%20DDS.%20MS.%20FACP/data=!4m7!3m6!1s0x880e2d36acf94cf9:0xa948994e2185128b!8m2!3d41.8865777!4d-87.6327762!16s%2Fg%2F11llkk3r8j!19sChIJ-Uz5rDYtDogRixKFIU6ZSKk?authuser=0&hl=en&rclk=1,google.com,unclassified,Advanced Dentistry of Chicago | Stuart Schelkopf DDS. MS. FACP
+O169,D07,chatgpt,Chicago,cosmetic,selection,3,3,https://chicagoaestheticdentistry.com/about,chicagoaestheticdentistry.com,unclassified,"Dr. Brittany Dickinson | Award-Winning Cosmetic Dentist in Chicago, IL"
+O169,D07,chatgpt,Chicago,cosmetic,selection,3,4,https://yelp.com/biz/brittany-c-dickinson-dmd-chicago-2?adjust_creative=openai,yelp.com,directory_social,"Dr. Brittany Dickinson, D.M.D, M.S."
+O169,D07,chatgpt,Chicago,cosmetic,selection,3,5,https://yelp.com/biz/chicago-dental-studio-chicago?adjust_creative=openai,yelp.com,directory_social,"The Chicago Dental Studio, River North"
+O169,D07,chatgpt,Chicago,cosmetic,selection,3,6,https://chicagoaestheticdentistry.com/,chicagoaestheticdentistry.com,homepage,chicagoaestheticdentistry.com
+O169,D07,chatgpt,Chicago,cosmetic,selection,3,7,https://mitchelldentalspa.com/,mitchelldentalspa.com,homepage,Chicago's Best Cosmetic Dentist
+O169,D07,chatgpt,Chicago,cosmetic,selection,3,8,https://mitchelldentalspa.com/cosmetic-dentistry/porcelain-veneers,mitchelldentalspa.com,treatment,Porcelain Veneers by Dr. Mitchell
+O169,D07,chatgpt,Chicago,cosmetic,selection,3,9,https://thechicagodentalstudio.com/,thechicagodentalstudio.com,homepage,thechicagodentalstudio.com
+O169,D07,chatgpt,Chicago,cosmetic,selection,3,10,https://crowedentalassociates.com/dental-smile-makeover,crowedentalassociates.com,unclassified,"Porcelain Veneers | Chicago, IL"
+O169,D07,chatgpt,Chicago,cosmetic,selection,3,11,https://crowedentalassociates.com/,crowedentalassociates.com,homepage,crowedentalassociates.com
+O169,D07,chatgpt,Chicago,cosmetic,selection,3,12,https://gangerfamilydentistry.com/cosmetic-dentistry-chicago,gangerfamilydentistry.com,treatment,Porcelain Veneers & Cosmetic Dentistry Chicago
+O169,D07,chatgpt,Chicago,cosmetic,selection,3,13,https://gangerfamilydentistry.com/,gangerfamilydentistry.com,homepage,gangerfamilydentistry.com
+O170,D07,gemini,Chicago,cosmetic,selection,3,1,https://mitchelldentalspa.com/blog/porcelain-veneers-in-chicago-what-sets-the-best-cosmetic-dentists-apart,mitchelldentalspa.com,editorial,Chicago Porcelain Veneers Done Right - Mitchell Dental Spa
+O171,D07,ai_overviews,Chicago,cosmetic,selection,3,1,https://dentalsalon.com/blog/cosmetic-dentistry-options,dentalsalon.com,editorial,Cosmetic dentistry options compared - Dental Salon
+O171,D07,ai_overviews,Chicago,cosmetic,selection,3,2,https://dentalsalon.com/bioclear,dentalsalon.com,unclassified,Bioclear in Chicago & Schaumburg | Dental Salon
+O171,D07,ai_overviews,Chicago,cosmetic,selection,3,3,https://chicagofamilydental.com/contents/general-family-dentistry/porcelain-veneers,chicagofamilydental.com,treatment,"Porcelain Veneers - The Loop Chicago, IL: Chicago Family Dental Center"
+O171,D07,ai_overviews,Chicago,cosmetic,selection,3,4,https://chicagostylesmiles.com/contact,chicagostylesmiles.com,location,New Patient
+O171,D07,ai_overviews,Chicago,cosmetic,selection,3,5,https://app.nexhealth.com/appt/chicagodentalboutique?atid=4447&lid=1544,app.nexhealth.com,unclassified,"Consultation (Implants, Veneers, Invisalign, Whitening)"
+O171,D07,ai_overviews,Chicago,cosmetic,selection,3,6,https://chicagodentistry.com/Dentist-Hyde-Park-Chicago/services/cosmetic-dentistry/veneers,chicagodentistry.com,treatment,Dentist in 60615 | Smile Design Studio Of Hyde Park LLC
+O171,D07,ai_overviews,Chicago,cosmetic,selection,3,7,https://mitchelldentalspa.com/blog/porcelain-veneers-in-chicago-what-sets-the-best-cosmetic-dentists-apart,mitchelldentalspa.com,editorial,Chicago Porcelain Veneers Done Right
+O171,D07,ai_overviews,Chicago,cosmetic,selection,3,8,https://settydentalgroup.com/service/cosmetic-dentistry/veneers,settydentalgroup.com,treatment,"Non-Invasive Chairside Composite Veneers in Chicago, Illinois"
+O171,D07,ai_overviews,Chicago,cosmetic,selection,3,9,https://acedentalcenter.com/cosmetic-dentistry/porcelain-veneers,acedentalcenter.com,treatment,"Porcelain Veneers Cost $850, Chicago, Lombard, Rockford IL,"
+O171,D07,ai_overviews,Chicago,cosmetic,selection,3,10,https://smilecreatorsdental.com/how-much-do-veneers-cost-nyc,smilecreatorsdental.com,treatment,How Much Do Veneers Cost in NYC? 2026 Price Guide
+O172,D07,ai_mode,Chicago,cosmetic,selection,3,1,https://google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4YUcweWJtdG5aalkYCg,google.com,unclassified,Chicago Style Smiles
+O172,D07,ai_mode,Chicago,cosmetic,selection,3,2,https://google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEcxNk4ybzBiZxgK,google.com,unclassified,"The Chicago Dental Studio, River North"
+O172,D07,ai_mode,Chicago,cosmetic,selection,3,3,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdvNU1IaGlNWGR4GAo,google.com,unclassified,Lux Smiles Cosmetic Dentistry and Prosthodontics
+O172,D07,ai_mode,Chicago,cosmetic,selection,3,4,https://chicagostylesmiles.com/contact,chicagostylesmiles.com,location,New Patient
+O173,D08,gemini,Chicago,cosmetic,dentist_branch_evidence,3,1,https://drsharifi.com/cosmetic-treatments/porcelain-veneers,drsharifi.com,treatment,"Porcelain Veneers Chicago, IL"
+O173,D08,gemini,Chicago,cosmetic,dentist_branch_evidence,3,2,https://chicagoveneers.biz/,chicagoveneers.biz,homepage,"Veneers in Chicago, IL | Printers Row Dental"
+O173,D08,gemini,Chicago,cosmetic,dentist_branch_evidence,3,3,https://mitchelldentalspa.com/,mitchelldentalspa.com,homepage,Mitchell Dental Spa: Chicago's Best Cosmetic Dentist
+O173,D08,gemini,Chicago,cosmetic,dentist_branch_evidence,3,4,https://chicagodentistry.com/Dentist-Hyde-Park-Chicago/services/cosmetic-dentistry/veneers,chicagodentistry.com,treatment,Dentist in 60615 | Smile Design Studio Of Hyde Park LLC | Veneers
+O173,D08,gemini,Chicago,cosmetic,dentist_branch_evidence,3,5,https://atooth.com/veneers,atooth.com,treatment,Best Dentist Veneers In Chicago - American Dental
+O175,D08,ai_mode,Chicago,cosmetic,dentist_branch_evidence,3,1,https://app.nexhealth.com/appt/Dr-Brittany-Dickinson-DMD?atid=13163&lid=20742,app.nexhealth.com,dentist_team,Veneers Consultation
+O175,D08,ai_mode,Chicago,cosmetic,dentist_branch_evidence,3,2,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdvNU1IaGlNWGR4GAo,google.com,unclassified,Lux Smiles Cosmetic Dentistry and Prosthodontics
+O175,D08,ai_mode,Chicago,cosmetic,dentist_branch_evidence,3,3,https://google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4YUcweWJtdG5aalkYCg,google.com,unclassified,Chicago Style Smiles
+O175,D08,ai_mode,Chicago,cosmetic,dentist_branch_evidence,3,4,https://chicagostylesmiles.com/contact,chicagostylesmiles.com,location,New Patient
+O176,D08,chatgpt,Chicago,cosmetic,dentist_branch_evidence,3,1,https://drsharifi.com/,drsharifi.com,homepage,Official practice website
+O176,D08,chatgpt,Chicago,cosmetic,dentist_branch_evidence,3,2,https://lincolnparkdentalassociates.com/our-services/cosmetic-dentistry/porcelain-dental-veneers,lincolnparkdentalassociates.com,treatment,Porcelain veneers — Lincoln Park Dental Associates
+O176,D08,chatgpt,Chicago,cosmetic,dentist_branch_evidence,3,3,https://watertowerdentalcare.com/services/porcelain-veneers,watertowerdentalcare.com,treatment,Porcelain Veneers: Enhance Your Smile in Chicago
+O176,D08,chatgpt,Chicago,cosmetic,dentist_branch_evidence,3,4,https://premierdentistrychicago.com/dental-services/cosmetic-dentistry/porcelain-veneers,premierdentistrychicago.com,treatment,Porcelain veneers — Premier Dentistry
+O176,D08,chatgpt,Chicago,cosmetic,dentist_branch_evidence,3,5,https://biteclubchi.com/cosmetic-dentist-in-bucktown/porcelain-veneers,biteclubchi.com,treatment,Porcelain veneers — Bite Club Dental
+O176,D08,chatgpt,Chicago,cosmetic,dentist_branch_evidence,3,6,https://lincolncosmeticdental.com/contact,lincolncosmeticdental.com,location,Lincoln Cosmetic Dental — contact and services
+O176,D08,chatgpt,Chicago,cosmetic,dentist_branch_evidence,3,7,https://chicagofamilydentalcare.com/services/porcelain-veneers,chicagofamilydentalcare.com,treatment,Porcelain veneers — Family Dental Care
+O176,D08,chatgpt,Chicago,cosmetic,dentist_branch_evidence,3,8,https://halsteddental.com/hi-tech-smiles,halsteddental.com,unclassified,Halsted Dental Aesthetics
+O176,D08,chatgpt,Chicago,cosmetic,dentist_branch_evidence,3,9,https://dazzlingdentistry.com/dental-services/cosmetic-dentistry/porcelain-veneers,dazzlingdentistry.com,treatment,Porcelain veneers — Dazzling Dentistry
+O176,D08,chatgpt,Chicago,cosmetic,dentist_branch_evidence,3,10,https://gangerfamilydentistry.com/cosmetic-dentistry-chicago,gangerfamilydentistry.com,treatment,Cosmetic dentistry and veneers — Ganger Family Dentistry
+O178,D09,ai_mode,Chicago,implants,selection,3,1,https://google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEdkdU5UbHdNURgK,google.com,unclassified,ORA Oral Surgery and Implant Studio
+O178,D09,ai_mode,Chicago,implants,selection,3,2,https://google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEdSdU1ETXlOZxgK,google.com,unclassified,Perio Implant Chicago
+O178,D09,ai_mode,Chicago,implants,selection,3,3,https://google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4TVhJNGNqSTJhbTAYCg,google.com,unclassified,Old Orchard Periodontics
+O178,D09,ai_mode,Chicago,implants,selection,3,4,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdNeGJETnpjRFY2GAo,google.com,unclassified,Chicago Oral Surgery & Implant Center
+O178,D09,ai_mode,Chicago,implants,selection,3,5,https://app.nexhealth.com/appt/chicagodentalboutique?atid=4447&lid=1544,app.nexhealth.com,unclassified,"Consultation (Implants, Veneers, Invisalign, Whitening)"
+O179,D09,chatgpt,Chicago,implants,selection,3,1,https://dentalimplantdirectory.com/cities/chicago-il,dentalimplantdirectory.com,unclassified,"Dental Implants in Chicago, IL"
+O179,D09,chatgpt,Chicago,implants,selection,3,2,https://chicagoildentalimplants.com/best/dental-implants-providers,chicagoildentalimplants.com,treatment,"Best dental implants providers in Chicago, IL"
+O179,D09,chatgpt,Chicago,implants,selection,3,3,https://dentistsranked.com/dental-services/dental-implants-chicago-il,dentistsranked.com,treatment,"Best Dental Implant Dentists in Chicago, IL (2026): 269 Ranked"
+O179,D09,chatgpt,Chicago,implants,selection,3,4,https://perioimplantchicago.com/,perioimplantchicago.com,homepage,Periodontist Chicago IL - Periodontal Care
+O179,D09,chatgpt,Chicago,implants,selection,3,5,https://oralsurgerychi.com/,oralsurgerychi.com,homepage,Home - oral surgeon Chicago IL
+O179,D09,chatgpt,Chicago,implants,selection,3,6,https://millenniumperiodontics.com/,millenniumperiodontics.com,homepage,Millennium Periodontics | Periodontist
+O179,D09,chatgpt,Chicago,implants,selection,3,7,https://chicagoildentalimplants.com/area/chicago-loop,chicagoildentalimplants.com,unclassified,Dental implants in Chicago Loop
+O179,D09,chatgpt,Chicago,implants,selection,3,8,https://implantdentistchicago.com/find-dentist,implantdentistchicago.com,unclassified,Practice information
+O179,D09,chatgpt,Chicago,implants,selection,3,9,https://yelp.com/biz/south-loop-dental-specialists-chicago?adjust_creative=openai,yelp.com,directory_social,South Loop Dental Specialists
+O179,D09,chatgpt,Chicago,implants,selection,3,10,https://implantendo.com/,implantendo.com,homepage,Practice website
+O180,D09,gemini,Chicago,implants,selection,3,1,https://dentistry.uic.edu/academics/academic-departments/department-of-restorative-dentistry/impant-and-innovations-center,dentistry.uic.edu,unclassified,Implant and Innovations Center - UIC College of Dentistry
+O181,D10,ai_mode,Chicago,implants,dentist_branch_evidence,3,1,https://clearchoice.com/schedule-a-consultation?fc=CC_470d33c4-081a-11ef-a998-c202c3cbb21b&zip=60661,clearchoice.com,unclassified,Dental Implants Consultation
+O181,D10,ai_mode,Chicago,implants,dentist_branch_evidence,3,2,https://app.nexhealth.com/appt/chicagodentalboutique?atid=4447&lid=1544,app.nexhealth.com,unclassified,"Consultation (Implants, Veneers, Invisalign, Whitening)"
+O181,D10,ai_mode,Chicago,implants,dentist_branch_evidence,3,3,https://book.modento.io/sloop-dental/g/google-schedule-link/dental-implant-consultation,book.modento.io,treatment,Dental Implant Consultation
+O181,D10,ai_mode,Chicago,implants,dentist_branch_evidence,3,4,https://app.nexhealth.com/appt/smile_partners_usa?atid=223316&lid=72031,app.nexhealth.com,unclassified,Implant Consult
+O182,D10,chatgpt,Chicago,implants,dentist_branch_evidence,3,1,https://dentalgroupofchicago.com/dental-implants,dentalgroupofchicago.com,treatment,Official dental implant page
+O182,D10,chatgpt,Chicago,implants,dentist_branch_evidence,3,2,https://crowedentalassociates.com/tooth-replacement-options,crowedentalassociates.com,unclassified,Official dental implant page
+O182,D10,chatgpt,Chicago,implants,dentist_branch_evidence,3,3,https://uadchicago.com/,uadchicago.com,homepage,Official practice website
+O182,D10,chatgpt,Chicago,implants,dentist_branch_evidence,3,4,https://clearchoice.com/locations/il/chicago/630-w-washington-blvd,clearchoice.com,location,Official Chicago center page and clinician details
+O182,D10,chatgpt,Chicago,implants,dentist_branch_evidence,3,5,https://lincolnparkdentalassociates.com/our-services/restorative-dentistry/dental-implants,lincolnparkdentalassociates.com,treatment,Official dental implant page
+O182,D10,chatgpt,Chicago,implants,dentist_branch_evidence,3,6,https://wickerparkdentalgroup.com/chicago-il/dental-implants,wickerparkdentalgroup.com,treatment,Official implant service page
+O182,D10,chatgpt,Chicago,implants,dentist_branch_evidence,3,7,https://teethxpress.com/location/teethxpress-dental-implants-chicago-il,teethxpress.com,treatment,TeethXpress provider listing and doctor information
+O182,D10,chatgpt,Chicago,implants,dentist_branch_evidence,3,8,https://armitageoralsurgery.com/,armitageoralsurgery.com,homepage,Official practice website
+O182,D10,chatgpt,Chicago,implants,dentist_branch_evidence,3,9,https://armitageoralsurgery.com/custom/pdfs/Implant-Brochure.pdf,armitageoralsurgery.com,treatment,Why Dental Implants are the best solution to replace missing teeth?
+O182,D10,chatgpt,Chicago,implants,dentist_branch_evidence,3,10,https://comfortteeth.com/services/dental-implants,comfortteeth.com,treatment,Official dental implant page
+O182,D10,chatgpt,Chicago,implants,dentist_branch_evidence,3,11,https://chicago-smiles.com/our-staff,chicago-smiles.com,unclassified,Our Staff - Mark Santucci
+O182,D10,chatgpt,Chicago,implants,dentist_branch_evidence,3,12,https://25eastdental.com/,25eastdental.com,homepage,25 East Dental
+O182,D10,chatgpt,Chicago,implants,dentist_branch_evidence,3,13,https://google.com/search?q=Hyde+Park+Periodontics+Implant+Solutions+Dr+Bita+Fayz,google.com,unclassified,Practice listing and contact details
+O182,D10,chatgpt,Chicago,implants,dentist_branch_evidence,3,14,https://google.com/search?q=South+Loop+Dental+Specialists+Chicago+implants,google.com,unclassified,Practice website
+O182,D10,chatgpt,Chicago,implants,dentist_branch_evidence,3,15,https://google.com/search?q=Lux+Smiles+Chicago+dental+implants,google.com,unclassified,Practice listing and contact details
+O182,D10,chatgpt,Chicago,implants,dentist_branch_evidence,3,16,https://google.com/search?q=Chicago+Oral+Surgery+Implant+Center+Jordan+Ledger,google.com,unclassified,Office and surgeon information
+O183,D10,gemini,Chicago,implants,dentist_branch_evidence,3,1,https://3020dentalimplants.com/,3020dentalimplants.com,homepage,Dental Implants Irving Park & Albany Park | 3020 Dental | Chicago
+O183,D10,gemini,Chicago,implants,dentist_branch_evidence,3,2,https://rankmydentist.com/top-dentists/chicago/dental-implants,rankmydentist.com,treatment,Best Dental Implants in Chicago - Top Dentists Guide
+O185,D11,chatgpt,Chicago,urgent,selection,3,1,https://vistadentalchicago.com/urgent-care,vistadentalchicago.com,unclassified,Urgent Dental Care in Chicago & Skokie
+O185,D11,chatgpt,Chicago,urgent,selection,3,2,https://vistadentalchicago.com/emergency-dental-care,vistadentalchicago.com,treatment,EMERGENCY DENTAL CARE
+O185,D11,chatgpt,Chicago,urgent,selection,3,3,https://moderndentalchicago.com/emergency-dentist-chicago,moderndentalchicago.com,treatment,Emergency Dentist Chicago
+O185,D11,chatgpt,Chicago,urgent,selection,3,4,https://firstdentalchicago.com/emergency-dental-care,firstdentalchicago.com,treatment,Emergency Dental Care - Same-Day Appointments - First Dental Center
+O185,D11,chatgpt,Chicago,urgent,selection,3,5,https://smile360chicago.us/services/emergency,smile360chicago.us,treatment,Emergency Dentistry in Chicago
+O185,D11,chatgpt,Chicago,urgent,selection,3,6,https://yelp.com/biz/university-associates-in-dentistry-chicago?adjust_creative=openai,yelp.com,directory_social,University Associates in Dentistry
+O185,D11,chatgpt,Chicago,urgent,selection,3,7,https://google.com/maps/search?api=1&query=University+Associates+in+Dentistry+Chicago,google.com,unclassified,Find the practice
+O186,D11,gemini,Chicago,urgent,selection,3,1,https://24hrdentist.com/emergency-dentist-chicago-24hr,24hrdentist.com,treatment,773-549-2800 - 24 hr Emergency Dentist in Chicago
+O186,D11,gemini,Chicago,urgent,selection,3,2,https://emergencydentistchicago.com/,emergencydentistchicago.com,homepage,Emergency Dentist of Chicago | Weekend Emergency Dentist
+O186,D11,gemini,Chicago,urgent,selection,3,3,https://emergencydentistsusa.com/chicago-il,emergencydentistsusa.com,unclassified,"24 Hour Emergency Dentist Chicago, Illinois"
+O186,D11,gemini,Chicago,urgent,selection,3,4,https://hydepark.smilestudiochicago.com/chicago-il/emergency-dentist-vs-emergency-room,hydepark.smilestudiochicago.com,treatment,"Emergency Dentist vs. Emergency Room Chicago, IL"
+O188,D11,ai_mode,Chicago,urgent,selection,3,1,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhwa1gyTnFZM2hyGAo,google.com,unclassified,Immediate Emergency Dental
+O188,D11,ai_mode,Chicago,urgent,selection,3,2,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhwbU5qZDBOSFpyGAo,google.com,unclassified,Immediate Emergency Dental
+O188,D11,ai_mode,Chicago,urgent,selection,3,3,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVd3MmVuaHVNelZxGAo,google.com,unclassified,Urgent Dentist Care Chicago
+O188,D11,ai_mode,Chicago,urgent,selection,3,4,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVc1MGJuRTRjM0k0GAo,google.com,unclassified,Immediate Emergency Dental
+O188,D11,ai_mode,Chicago,urgent,selection,3,5,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhOamFsOWlkalI1GAo,google.com,unclassified,Urgent Dentistry
+O189,D12,gemini,Chicago,urgent,dentist_branch_evidence,3,1,https://24hrdentist.com/,24hrdentist.com,homepage,Emergency Dentist Chicago | 773-549-2800
+O189,D12,gemini,Chicago,urgent,dentist_branch_evidence,3,2,https://aspendental.com/dentist/il/chicago/3201-n-western-ave/emergency-dental-services,aspendental.com,treatment,"Emergency Dental Services in Chicago, IL (Roscoe Village)"
+O189,D12,gemini,Chicago,urgent,dentist_branch_evidence,3,3,https://vistadentalchicago.com/emergency-dental-care,vistadentalchicago.com,treatment,Emergency Dentist in Chicago & Skokie Same-Day Urgent Care
+O189,D12,gemini,Chicago,urgent,dentist_branch_evidence,3,4,https://priorityemergencydental.care/locations/chicago-illinois,priorityemergencydental.care,location,Chicago Illinois | Priority Emergency Dental Care
+O190,D12,ai_overviews,Chicago,urgent,dentist_branch_evidence,3,1,https://bloomingsmileschicago.com/emergency-dentistry,bloomingsmileschicago.com,treatment,"Immediate Care | Blooming Smiles Chicago, IL"
+O190,D12,ai_overviews,Chicago,urgent,dentist_branch_evidence,3,2,https://wentworthdentalclinicpc.com/services/general-dentistry/emergency-dentist,wentworthdentalclinicpc.com,treatment,Same-Day Emergency Dentist Chicago | Wentworth Dental Clinic
+O190,D12,ai_overviews,Chicago,urgent,dentist_branch_evidence,3,3,https://247localdentist.com/profile/chicago-il-chicago-dental-studio,247localdentist.com,unclassified,24
+O190,D12,ai_overviews,Chicago,urgent,dentist_branch_evidence,3,4,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhvMFkzUm5NSEpmGAo,google.com,unclassified,Emergency Dentistry
+O190,D12,ai_overviews,Chicago,urgent,dentist_branch_evidence,3,5,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVc1MGJuRTRjM0k0GAo,google.com,unclassified,Immediate Emergency Dental
+O190,D12,ai_overviews,Chicago,urgent,dentist_branch_evidence,3,6,https://dentalgroupofchicago.com/dental-emergency,dentalgroupofchicago.com,treatment,"Dental Emergency in Chicago, IL"
+O191,D12,ai_mode,Chicago,urgent,dentist_branch_evidence,3,1,https://zocdoc.com/dentist/gina-grosse-dmd-132565,zocdoc.com,directory_social,"Dr. Gina Grosse, DMD, Chicago, IL | Dentist | Get Virtual Care"
+O191,D12,ai_mode,Chicago,urgent,dentist_branch_evidence,3,2,https://polishedchicago.com/personnel/dr-gina-grosse,polishedchicago.com,dentist_team,Dr. Gina Grosse (General Dentist) - Polished – A Dental Studio
+O191,D12,ai_mode,Chicago,urgent,dentist_branch_evidence,3,3,https://book.modento.io/dental-group-of-chicago/g/google-schedule-link/dental-emergency,book.modento.io,treatment,Dental Emergency
+O192,D12,chatgpt,Chicago,urgent,dentist_branch_evidence,3,1,https://vistadentalchicago.com/emergency-dental-care,vistadentalchicago.com,treatment,Official emergency-care page
+O192,D12,chatgpt,Chicago,urgent,dentist_branch_evidence,3,2,https://smile360chicago.us/services/emergency,smile360chicago.us,treatment,Official emergency dentistry page
+O192,D12,chatgpt,Chicago,urgent,dentist_branch_evidence,3,3,https://moderndentalchicago.com/emergency-dentist-chicago,moderndentalchicago.com,treatment,Official emergency dentist page
+O192,D12,chatgpt,Chicago,urgent,dentist_branch_evidence,3,4,https://emergencydentistchicago.com/contact,emergencydentistchicago.com,location,Official contact and hours page
+O192,D12,chatgpt,Chicago,urgent,dentist_branch_evidence,3,5,https://quadrantdentistry.com/services/emergency-dentistry,quadrantdentistry.com,treatment,Official emergency dentistry page
+O192,D12,chatgpt,Chicago,urgent,dentist_branch_evidence,3,6,https://dentistschicago.com/emergency-dental-care,dentistschicago.com,treatment,Official emergency-care page
+O194,D13,ai_mode,Dallas,cosmetic,selection,3,1,https://dallascosmeticdentist.us/porcelain-dental-veneers,dallascosmeticdentist.us,treatment,Porcelain Veneers Dallas TX
+O194,D13,ai_mode,Dallas,cosmetic,selection,3,2,https://m.yelp.com/search?find_desc=Porcelain+Veneers&find_loc=Dallas%2C+TX,m.yelp.com,directory_social,"TOP 10 BEST Porcelain Veneers in Dallas, TX"
+O194,D13,ai_mode,Dallas,cosmetic,selection,3,3,https://dmagazine.com/publications/d-magazine/2023/february/face-of-porcelain-veneers,dmagazine.com,treatment,Face of Porcelain Veneers
+O194,D13,ai_mode,Dallas,cosmetic,selection,3,4,https://zocdoc.com/practice/mylo-dental-studio-139214?LocIdent=335602&entity_id=pt_6jy5rAaVqkSKEgtWph_jIw-lo_aEGTUU23n0aW-pzT_X-RmR-entity,zocdoc.com,directory_social,Dentist
+O195,D13,chatgpt,Dallas,cosmetic,selection,3,1,https://dentistsranked.com/dental-services/veneers-dallas-tx,dentistsranked.com,treatment,"Best Veneer Dentists in Dallas, TX (2026): 202 Ranked"
+O195,D13,chatgpt,Dallas,cosmetic,selection,3,2,https://rankmydentist.com/top-dentists/dallas/veneers,rankmydentist.com,treatment,Top Dentists for Veneers in Dallas
+O195,D13,chatgpt,Dallas,cosmetic,selection,3,3,https://localdentalclinics.net/c/cosmetic-dentists/texas/dallas,localdentalclinics.net,treatment,"Best Cosmetic Dentists in Dallas, TX: Top Rated & Reviewed"
+O195,D13,chatgpt,Dallas,cosmetic,selection,3,4,https://sealprosthodontics.com/,sealprosthodontics.com,homepage,Seal Prosthodontics
+O195,D13,chatgpt,Dallas,cosmetic,selection,3,5,https://dallasesthetics.com/our-services/cosmetic-dentistry,dallasesthetics.com,treatment,Cosmetic Dentistry
+O195,D13,chatgpt,Dallas,cosmetic,selection,3,6,https://dallasesthetics.com/our-services/porcelain-veneers,dallasesthetics.com,treatment,Porcelain Veneers
+O195,D13,chatgpt,Dallas,cosmetic,selection,3,7,https://dentistdallastx.com/about-us,dentistdallastx.com,unclassified,About Our Dental Team at Luminescence Dentistry
+O195,D13,chatgpt,Dallas,cosmetic,selection,3,8,https://dentistdallastx.com/,dentistdallastx.com,homepage,"Dentistry in Dallas, TX: Family, Cosmetic & Emergency"
+O195,D13,chatgpt,Dallas,cosmetic,selection,3,9,https://cowdincosmeticce.com/,cowdincosmeticce.com,homepage,Cosmetic Dentistry Continuing Education
+O195,D13,chatgpt,Dallas,cosmetic,selection,3,10,https://alignable.com/dallas-tx/dallas-laser-dentistry,alignable.com,unclassified,"Dallas Laser Dentistry - Dallas, TX"
+O195,D13,chatgpt,Dallas,cosmetic,selection,3,11,https://yelp.com/biz/north-dallas-cosmetic-dentistry-robert-b-mitchell-dallas?adjust_creative=openai,yelp.com,directory_social,North Dallas Cosmetic Dentistry - Robert B. Mitchell
+O196,D13,gemini,Dallas,cosmetic,selection,3,1,https://mintdentistry.com/dentist/dfw/highland-hotel/services/cosmetic-dentistry/porcelain-veneers-dallas-tx,mintdentistry.com,treatment,"Porcelain Veneers in Dallas, TX | MINT Highland Hotel"
+O196,D13,gemini,Dallas,cosmetic,selection,3,2,https://cosmeticdentistofdallas.com/services/cosmetic-dentistry/porcelain-veneers-dallas-tx,cosmeticdentistofdallas.com,treatment,"Porcelain Veneers in Dallas, TX | Drs Hamlett and La Mastra"
+O196,D13,gemini,Dallas,cosmetic,selection,3,3,https://hpdentist.com/dental-veneers-in-dallas-a-path-to-a-stunning-smile,hpdentist.com,treatment,Dental Veneers in Dallas - Transform Your Smile
+O196,D13,gemini,Dallas,cosmetic,selection,3,4,https://drjackbodie.com/cosmetic-treatments/porcelain-veneers,drjackbodie.com,treatment,"Porcelain Veneers Dentist in Dallas TX - Jack Bodie, DDS"
+O197,D14,ai_mode,Dallas,cosmetic,dentist_branch_evidence,3,1,https://dallascosmeticdentist.us/porcelain-dental-veneers,dallascosmeticdentist.us,treatment,Porcelain Veneers Dallas TX
+O197,D14,ai_mode,Dallas,cosmetic,dentist_branch_evidence,3,2,https://booking.adit.com/1f16b174-4cc7-41c6-bc36-ca8096c5957f,booking.adit.com,unclassified,Porcelain Veneers
+O197,D14,ai_mode,Dallas,cosmetic,dentist_branch_evidence,3,3,https://zocdoc.com/practice/mylo-dental-studio-139214?LocIdent=335602&entity_id=pt_6jy5rAaVqkSKEgtWph_jIw-lo_aEGTUU23n0aW-pzT_X-RmR-entity,zocdoc.com,directory_social,All Procedures
+O198,D14,chatgpt,Dallas,cosmetic,dentist_branch_evidence,3,1,https://topcosmeticdentistofdallas.com/dental-services/cosmetic-dentistry/porcelain-veneers,topcosmeticdentistofdallas.com,treatment,Porcelain veneers — Dr. Huckin
+O198,D14,chatgpt,Dallas,cosmetic,dentist_branch_evidence,3,2,https://cowdincosmeticdentistry.com/porcelain-veneers-dallas-tx,cowdincosmeticdentistry.com,treatment,Porcelain veneers — Cowdin Cosmetic Dentistry
+O198,D14,chatgpt,Dallas,cosmetic,dentist_branch_evidence,3,3,https://nevilledental.com/,nevilledental.com,homepage,Neville Dental
+O198,D14,chatgpt,Dallas,cosmetic,dentist_branch_evidence,3,4,https://blissdentalofdallas.com/veneers,blissdentalofdallas.com,treatment,Veneers — Bliss Dental
+O198,D14,chatgpt,Dallas,cosmetic,dentist_branch_evidence,3,5,https://dallasesthetics.com/our-services/porcelain-veneers,dallasesthetics.com,treatment,Porcelain veneers — Dallas Esthetics
+O198,D14,chatgpt,Dallas,cosmetic,dentist_branch_evidence,3,6,https://eastquarterdental.com/porcelain-veneers,eastquarterdental.com,treatment,Porcelain veneers — East Quarter Dental
+O198,D14,chatgpt,Dallas,cosmetic,dentist_branch_evidence,3,7,https://thrivedentist.com/locations/north-dallas/cosmetic-dentist,thrivedentist.com,treatment,North Dallas cosmetic dentistry
+O198,D14,chatgpt,Dallas,cosmetic,dentist_branch_evidence,3,8,https://thrivedentist.com/locations/dallas/cosmetic-dentistry,thrivedentist.com,treatment,Dallas cosmetic dentistry
+O198,D14,chatgpt,Dallas,cosmetic,dentist_branch_evidence,3,9,https://sealprosthodontics.com/,sealprosthodontics.com,homepage,Seal Prosthodontics official website
+O198,D14,chatgpt,Dallas,cosmetic,dentist_branch_evidence,3,10,https://frescadentaldallas.com/dental-services/cosmetic-dentistry-in-dallas-tx,frescadentaldallas.com,treatment,Cosmetic dentistry — Fresca Dental
+O199,D14,gemini,Dallas,cosmetic,dentist_branch_evidence,3,1,https://dallascosmeticdentist.us/,dallascosmeticdentist.us,homepage,Dallas Laser Dentistry: Cosmetic Dentist Dallas TX - Local Dentist
+O199,D14,gemini,Dallas,cosmetic,dentist_branch_evidence,3,2,https://dallascosmeticdentist.us/porcelain-dental-veneers,dallascosmeticdentist.us,treatment,Porcelain Veneers Dallas TX - Dallas Laser Dentistry
+O199,D14,gemini,Dallas,cosmetic,dentist_branch_evidence,3,3,https://mintdentistry.com/dentist/dfw/highland-hotel/services/cosmetic-dentistry/porcelain-veneers-dallas-tx,mintdentistry.com,treatment,"Porcelain Veneers in Dallas, TX | MINT Highland Hotel"
+O199,D14,gemini,Dallas,cosmetic,dentist_branch_evidence,3,4,https://cosmeticdentistofdallas.com/services/cosmetic-dentistry/porcelain-veneers-dallas-tx,cosmeticdentistofdallas.com,treatment,"Porcelain Veneers in Dallas, TX | Drs Hamlett and La Mastra"
+O201,D15,chatgpt,Dallas,implants,selection,3,1,https://dentistsranked.com/dental-services/dental-implants-dallas-tx,dentistsranked.com,treatment,"Best Dental Implant Dentists in Dallas, TX (2026): 251 Ranked"
+O201,D15,chatgpt,Dallas,implants,selection,3,2,https://dentalimplantdirectory.com/cities/dallas-tx,dentalimplantdirectory.com,unclassified,"Dental Implants in Dallas, TX"
+O201,D15,chatgpt,Dallas,implants,selection,3,3,https://findadentist.ada.org/dentists-by-specialty/Oral%20and%20Maxillofacial%20Surgery/32.93924/-96.65543,findadentist.ada.org,unclassified,Find Dentists Specializing in Oral and Maxillofacial Surgery Near You
+O201,D15,chatgpt,Dallas,implants,selection,3,4,https://archpointid.com/office/dallas,archpointid.com,location,Dental Implants in Dallas
+O201,D15,chatgpt,Dallas,implants,selection,3,5,https://yelp.com/biz/mcfadden-david-dmd-dallas?adjust_creative=openai,yelp.com,directory_social,The Dental Implant Center
+O201,D15,chatgpt,Dallas,implants,selection,3,6,https://clearchoice.com/locations/tx/dallas/7557-rambler-rd,clearchoice.com,location,ClearChoice Dallas
+O201,D15,chatgpt,Dallas,implants,selection,3,7,https://toothrestorationtx.com/find-an-implant-specialist/dallas-tx,toothrestorationtx.com,treatment,"Implant Specialists in Dallas, Texas: The Register"
+O202,D15,gemini,Dallas,implants,selection,3,1,https://dentalimplantcenter.com/,dentalimplantcenter.com,homepage,Dental Implant Center - Dallas Texas Implant Specialist
+O202,D15,gemini,Dallas,implants,selection,3,2,https://parkcitiesoms.com/,parkcitiesoms.com,homepage,Park Cities Oral & Maxillofacial Surgery Associates - Dental Implant
+O202,D15,gemini,Dallas,implants,selection,3,3,https://pureoralsurgery.com/dentist-reviews/oral-surgery/dental-implants/dallas-tx,pureoralsurgery.com,treatment,"Reviews for Dental Implants Services in Dallas, TX"
+O202,D15,gemini,Dallas,implants,selection,3,4,https://thedentallist.com/dental-dallas,thedentallist.com,unclassified,Top 10 Dentists Dallas Texas
+O203,D15,ai_overviews,Dallas,implants,selection,3,1,https://dallasimplant.com/,dallasimplant.com,homepage,"Periodontist & Dental Implants in Dallas, TX"
+O203,D15,ai_overviews,Dallas,implants,selection,3,2,https://fastnewsmile.com/,fastnewsmile.com,homepage,Dental implants Dallas - FastNewSmile® Dental Implant Center
+O203,D15,ai_overviews,Dallas,implants,selection,3,3,https://dentalimplantcenter.com/,dentalimplantcenter.com,homepage,Dental Implant Center
+O203,D15,ai_overviews,Dallas,implants,selection,3,4,https://archpointid.com/office/dallas,archpointid.com,location,Dental Implants in Dallas | ARCHPOINT Implant Dentistry
+O203,D15,ai_overviews,Dallas,implants,selection,3,5,https://dallascosmeticdentist.us/dental-implants,dallascosmeticdentist.us,treatment,Dental Implants Dallas TX - Replace Missing Teeth | Dallas Laser Dentistry
+O203,D15,ai_overviews,Dallas,implants,selection,3,6,https://parkcitiesoms.com/dental-implants-dallas-tx,parkcitiesoms.com,treatment,"Dental Implants Procedure Dallas, TX | Cost, Types & Benefits of Dental Implants"
+O203,D15,ai_overviews,Dallas,implants,selection,3,7,https://facebook.com/groups/allon4implants/posts/1493312515718379,facebook.com,directory_social,Who is the best for dental implants in Dallas? - Facebook
+O204,D15,ai_mode,Dallas,implants,selection,3,1,https://google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEdkb00yUXpPURgK,google.com,unclassified,The Dental Implant Center
+O204,D15,ai_mode,Dallas,implants,selection,3,2,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdKaWNtZG1kak0wGAo,google.com,unclassified,Dallas Periodontal Associates & Dental Implants
+O204,D15,ai_mode,Dallas,implants,selection,3,3,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVc1bWMyMXFjak5xGAo,google.com,unclassified,Nuvia Dental Implant Center
+O204,D15,ai_mode,Dallas,implants,selection,3,4,https://google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEhCbU4ycHpZdxgK,google.com,unclassified,Park Lane Periodontal and Dental Implant Group
+O204,D15,ai_mode,Dallas,implants,selection,3,5,https://clearchoice.com/schedule-a-consultation?fc=CC_470d3d56-081a-11ef-a998-c202c3cbb21b&zip=75231,clearchoice.com,unclassified,Dental Implants Consultation
+O205,D16,gemini,Dallas,implants,dentist_branch_evidence,3,1,https://parkcitiesoms.com/,parkcitiesoms.com,homepage,Park Cities Oral & Maxillofacial Surgery Associates - Dental Implant
+O205,D16,gemini,Dallas,implants,dentist_branch_evidence,3,2,https://rankmydentist.com/top-dentists/dallas/all-on-4-dental-implants,rankmydentist.com,treatment,Best All-On-X Dental Implants in Dallas - Top Dentists Guide
+O205,D16,gemini,Dallas,implants,dentist_branch_evidence,3,3,https://dallasdentalimplantcenter.com/,dallasdentalimplantcenter.com,homepage,Dallas Dental Implant Center - Prosthodontist Dr. Daniel Tan
+O206,D16,ai_overviews,Dallas,implants,dentist_branch_evidence,3,1,https://ntxpa.com/dental-implants-dallas-tx,ntxpa.com,treatment,"Dental Implants in Dallas TX | D. Bradley Dean, DDS, MS"
+O206,D16,ai_overviews,Dallas,implants,dentist_branch_evidence,3,2,https://archpointid.com/,archpointid.com,homepage,"All-on-4 Dental Implants in Dallas–Fort Worth, TX | ARCHPOINT Implant Dentistry"
+O206,D16,ai_overviews,Dallas,implants,dentist_branch_evidence,3,3,https://archpointid.com/office/dallas,archpointid.com,location,Dental Implants in Dallas | ARCHPOINT Implant Dentistry
+O206,D16,ai_overviews,Dallas,implants,dentist_branch_evidence,3,4,https://google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4Y1RWaWJtcDJlRGcYCg,google.com,unclassified,ARCHPOINT Implant Dentistry
+O206,D16,ai_overviews,Dallas,implants,dentist_branch_evidence,3,5,https://google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEdkb00yUXpPURgK,google.com,unclassified,The Dental Implant Center
+O206,D16,ai_overviews,Dallas,implants,dentist_branch_evidence,3,6,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVd3eGNuQTJjVzV6GAo,google.com,unclassified,Dallas Dental Implant Center
+O206,D16,ai_overviews,Dallas,implants,dentist_branch_evidence,3,7,https://clearchoice.com/schedule-a-consultation?fc=CC_470d3d56-081a-11ef-a998-c202c3cbb21b&zip=75231,clearchoice.com,unclassified,Dental Implants Consultation
+O207,D16,ai_mode,Dallas,implants,dentist_branch_evidence,3,1,https://ntxpa.com/dental-implants-dallas-tx,ntxpa.com,treatment,"Dental Implants in Dallas TX | D. Bradley Dean, DDS, MS"
+O207,D16,ai_mode,Dallas,implants,dentist_branch_evidence,3,2,https://google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEdkb00yUXpPURgK,google.com,unclassified,The Dental Implant Center
+O207,D16,ai_mode,Dallas,implants,dentist_branch_evidence,3,3,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVd3eGNuQTJjVzV6GAo,google.com,unclassified,Dallas Dental Implant Center
+O207,D16,ai_mode,Dallas,implants,dentist_branch_evidence,3,4,https://clearchoice.com/schedule-a-consultation?fc=CC_470d3d56-081a-11ef-a998-c202c3cbb21b&zip=75231,clearchoice.com,unclassified,Dental Implants Consultation
+O208,D16,chatgpt,Dallas,implants,dentist_branch_evidence,3,1,https://dentalimplantcenter.com/,dentalimplantcenter.com,homepage,Official website and implant services
+O208,D16,chatgpt,Dallas,implants,dentist_branch_evidence,3,2,https://periodallas.com/,periodallas.com,homepage,Official practice website and dentist profiles
+O208,D16,chatgpt,Dallas,implants,dentist_branch_evidence,3,3,https://archpointid.com/office/dallas,archpointid.com,location,"Dallas office, provider profiles, and implant services"
+O208,D16,chatgpt,Dallas,implants,dentist_branch_evidence,3,4,https://freshsmiletx.com/,freshsmiletx.com,homepage,"Official website, implant services, and office address"
+O208,D16,chatgpt,Dallas,implants,dentist_branch_evidence,3,5,https://prudentdentistry.com/,prudentdentistry.com,homepage,Official practice website and Dr. Shin's services
+O208,D16,chatgpt,Dallas,implants,dentist_branch_evidence,3,6,https://hmleeperiodontics.com/dental-implants,hmleeperiodontics.com,treatment,Dental implant procedures and office details
+O208,D16,chatgpt,Dallas,implants,dentist_branch_evidence,3,7,https://oralsurgeryofdallas.com/procedures/dental-implants,oralsurgeryofdallas.com,treatment,Official dental implant service page
+O208,D16,chatgpt,Dallas,implants,dentist_branch_evidence,3,8,https://bishopartsdental.com/dental-implants,bishopartsdental.com,treatment,Official dental implant page and office address
+O209,D17,ai_overviews,Dallas,urgent,selection,3,1,https://midtowndentistrydallas.com/blog/2021/08/05/choosing-an-emergency-dentist,midtowndentistrydallas.com,editorial,"Choosing an Emergency Dentist, Dallas"
+O209,D17,ai_overviews,Dallas,urgent,selection,3,2,https://midtowndentistrydallas.com/emergency-visit.html,midtowndentistrydallas.com,unclassified,$50 Emergency Dental Visit | Midtown Family Dentistry Of Dallas
+O209,D17,ai_overviews,Dallas,urgent,selection,3,3,https://monarchdental.com/dental-office/dallas-dentist/30140/emergency-dentist-service-dallas-tx,monarchdental.com,treatment,"Emergency Dentist in Dallas, TX"
+O209,D17,ai_overviews,Dallas,urgent,selection,3,4,https://247localdentist.com/profile/dallas-tx-mint-dentistry-uptown,247localdentist.com,unclassified,24
+O209,D17,ai_overviews,Dallas,urgent,selection,3,5,https://zocdoc.com/dentist/jonathan-swope-dds-673354?LocIdent=368044&entity_id=pr_A4h2jGx0WEK7tf-X_aQDTg-lo_ZNkzBA7lAUuUCAQLnD2jLQ-entity,zocdoc.com,directory_social,Dental Emergency
+O210,D17,ai_mode,Dallas,urgent,selection,3,1,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdoaWMzaDNlVEZqGAo,google.com,unclassified,DentUrgent
+O210,D17,ai_mode,Dallas,urgent,selection,3,2,https://google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4Y1RZeVkzbzNhbVEYCg,google.com,unclassified,Emergency Dental Care USA
+O210,D17,ai_mode,Dallas,urgent,selection,3,3,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdKNmRqVjBkekZrGAo,google.com,unclassified,Urgent Family Dentistry at Preston Meadow
+O211,D17,chatgpt,Dallas,urgent,selection,3,1,https://emergencydental.com/dallas/contact-us,emergencydental.com,location,Contact Us
+O211,D17,chatgpt,Dallas,urgent,selection,3,2,https://emergencydental.com/dallas,emergencydental.com,unclassified,"Emergency Dentist in Dallas, TX"
+O211,D17,chatgpt,Dallas,urgent,selection,3,3,https://dentalemergencycare.com/,dentalemergencycare.com,homepage,Dental Emergency Care
+O211,D17,chatgpt,Dallas,urgent,selection,3,4,https://eastquarterdental.com/emergency-dentistry,eastquarterdental.com,treatment,Emergency Dentistry in Dallas TX
+O211,D17,chatgpt,Dallas,urgent,selection,3,5,https://artsfamilydentistry.com/services/emergency-dentistry,artsfamilydentistry.com,treatment,"Emergency Dentist in Dallas, TX"
+O211,D17,chatgpt,Dallas,urgent,selection,3,6,https://northparkdental.com/emergency-care.php,northparkdental.com,unclassified,Dallas Dentist Emergency Dental Care
+O212,D17,gemini,Dallas,urgent,selection,3,1,https://emergencydentistdallastx.com/,emergencydentistdallastx.com,homepage,"Emergency Dentist in Dallas, TX | Open 7 Days | DentUrgent"
+O212,D17,gemini,Dallas,urgent,selection,3,2,https://parkcentraldentaltx.com/services/general-family-dentistry/same-day-emergency-care,parkcentraldentaltx.com,treatment,Emergency Dentist Dallas TX | Same-Day Care | 214-340-9696
+O212,D17,gemini,Dallas,urgent,selection,3,3,https://247localdentist.com/profile/dallas-tx-dental-loft,247localdentist.com,unclassified,"24-Hour Emergency Dentist Dallas, TX 75231 | Dental Loft"
+O212,D17,gemini,Dallas,urgent,selection,3,4,https://crossroadsdentaldallas.com/our-services/emergency-dental-care,crossroadsdentaldallas.com,treatment,"Emergency Dentist in Dallas, Texas - Crossroads Dental"
+O212,D17,gemini,Dallas,urgent,selection,3,5,https://lfdentist.com/dental-services/general-dentistry/emergency-dentistry-dallas-tx,lfdentist.com,treatment,"No-waiting Emergency Dentist in Dallas, TX | Same day dental care"
+O213,D18,ai_mode,Dallas,urgent,dentist_branch_evidence,3,1,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdoaWMzaDNlVEZqGAo,google.com,unclassified,DentUrgent
+O213,D18,ai_mode,Dallas,urgent,dentist_branch_evidence,3,2,https://google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4Y1RZeVkzbzNhbVEYCg,google.com,unclassified,Emergency Dental Care USA
+O213,D18,ai_mode,Dallas,urgent,dentist_branch_evidence,3,3,https://google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdZNWFEbHlZMmh1GAo,google.com,unclassified,Dental Emergency Care
+O214,D18,chatgpt,Dallas,urgent,dentist_branch_evidence,3,1,https://emergencydentistdallastx.com/,emergencydentistdallastx.com,homepage,Official website and hours
+O214,D18,chatgpt,Dallas,urgent,dentist_branch_evidence,3,2,https://emergencydentistdallastx.com/contact-us,emergencydentistdallastx.com,location,Contact and address
+O214,D18,chatgpt,Dallas,urgent,dentist_branch_evidence,3,3,https://dallassaturdaydentist.com/,dallassaturdaydentist.com,homepage,Practice website
+O214,D18,chatgpt,Dallas,urgent,dentist_branch_evidence,3,4,https://dentalemergencycare.com/,dentalemergencycare.com,homepage,"Official website, services and hours"
+O214,D18,chatgpt,Dallas,urgent,dentist_branch_evidence,3,5,https://drdavidbrumbaugh.com/services/general-dentistry/emergency-dentistry,drdavidbrumbaugh.com,treatment,"Emergency Dentist in Dallas, TX"
+O214,D18,chatgpt,Dallas,urgent,dentist_branch_evidence,3,6,https://dulcedentalofdallas.com/our-services/emergency-dentistry,dulcedentalofdallas.com,treatment,"Emergency Dentist in Dallas, TX"
+O214,D18,chatgpt,Dallas,urgent,dentist_branch_evidence,3,7,https://bucknerfamilydental.com/general-dentistry/dental-emergency,bucknerfamilydental.com,treatment,"Dental Emergencies in Dallas, TX"
+O214,D18,chatgpt,Dallas,urgent,dentist_branch_evidence,3,8,https://mysoleildental.com/services/emergency-dentist,mysoleildental.com,treatment,"Emergency Dentist Oak Lawn, Dallas: $75 Exam"
+O214,D18,chatgpt,Dallas,urgent,dentist_branch_evidence,3,9,https://dfwemergencydental.com/,dfwemergencydental.com,homepage,Dallas–Fort Worth emergency dental directory
+O214,D18,chatgpt,Dallas,urgent,dentist_branch_evidence,3,10,https://hfdentist.com/,hfdentist.com,homepage,Official practice website
+O214,D18,chatgpt,Dallas,urgent,dentist_branch_evidence,3,11,https://eastquarterdental.com/emergency-dentistry,eastquarterdental.com,treatment,Emergency dentistry page
+O215,D18,gemini,Dallas,urgent,dentist_branch_evidence,3,1,https://dentaldefendersdallas.com/empty-page/emergency-dental-care-Dallas,dentaldefendersdallas.com,treatment,"Emergency Dental Care in Dallas, TX | (469) 677-2575"
+O215,D18,gemini,Dallas,urgent,dentist_branch_evidence,3,2,https://priorityemergencydental.care/locations/dallas-texas,priorityemergencydental.care,location,Dallas Texas - Priority Emergency Dental Care
+O215,D18,gemini,Dallas,urgent,dentist_branch_evidence,3,3,https://parkcentraldentaltx.com/services/general-family-dentistry/same-day-emergency-care,parkcentraldentaltx.com,treatment,Emergency Dentist Dallas TX | Same-Day Care | 214-340-9696
+O215,D18,gemini,Dallas,urgent,dentist_branch_evidence,3,4,https://lfdentist.com/dental-services/general-dentistry/emergency-dentistry-dallas-tx,lfdentist.com,treatment,"No-waiting Emergency Dentist in Dallas, TX | Same day dental care"
+O215,D18,gemini,Dallas,urgent,dentist_branch_evidence,3,5,https://crossroadsdentaldallas.com/our-services/emergency-dental-care,crossroadsdentaldallas.com,treatment,"Emergency Dentist in Dallas, Texas - Crossroads Dental"

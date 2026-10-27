@@ -1,0 +1,325 @@
+pair,queryCell,city,intent,variant,wave,platformA,platformB,observationA,observationB,statusA,statusB,answerPair,bothSourceNonempty,emptySourceSides,urlJaccard,domainJaccard,urlsA,urlsB,domainsA,domainsB
+X001,D01,New York City,cosmetic,selection,1,chatgpt,gemini,O001,O002,answer,answer,true,true,0,0,0,4,3,3,3
+X002,D01,New York City,cosmetic,selection,1,chatgpt,ai_overviews,O001,O003,answer,collection_failed,false,false,,,,4,0,3,0
+X003,D01,New York City,cosmetic,selection,1,chatgpt,ai_mode,O001,O004,answer,answer,true,true,0,0,0,4,5,3,4
+X004,D01,New York City,cosmetic,selection,1,gemini,ai_overviews,O002,O003,answer,collection_failed,false,false,,,,3,0,3,0
+X005,D01,New York City,cosmetic,selection,1,gemini,ai_mode,O002,O004,answer,answer,true,true,0,0,0,3,5,3,4
+X006,D01,New York City,cosmetic,selection,1,ai_overviews,ai_mode,O003,O004,collection_failed,answer,false,false,,,,0,5,0,4
+X007,D01,New York City,cosmetic,selection,2,chatgpt,gemini,O076,O073,answer,answer,true,true,0,0,0,4,3,3,3
+X008,D01,New York City,cosmetic,selection,2,chatgpt,ai_overviews,O076,O074,answer,no_answer,false,false,,,,4,0,3,0
+X009,D01,New York City,cosmetic,selection,2,chatgpt,ai_mode,O076,O075,answer,answer,true,true,0,0,0,4,5,3,4
+X010,D01,New York City,cosmetic,selection,2,gemini,ai_overviews,O073,O074,answer,no_answer,false,false,,,,3,0,3,0
+X011,D01,New York City,cosmetic,selection,2,gemini,ai_mode,O073,O075,answer,answer,true,true,0,0,0,3,5,3,4
+X012,D01,New York City,cosmetic,selection,2,ai_overviews,ai_mode,O074,O075,no_answer,answer,false,false,,,,0,5,0,4
+X013,D01,New York City,cosmetic,selection,3,chatgpt,gemini,O147,O148,answer,answer,true,true,0,0,0,5,1,4,1
+X014,D01,New York City,cosmetic,selection,3,chatgpt,ai_overviews,O147,O145,answer,answer,true,false,1,0,0,5,0,4,0
+X015,D01,New York City,cosmetic,selection,3,chatgpt,ai_mode,O147,O146,answer,answer,true,true,0,0,0,5,6,4,4
+X016,D01,New York City,cosmetic,selection,3,gemini,ai_overviews,O148,O145,answer,answer,true,false,1,0,0,1,0,1,0
+X017,D01,New York City,cosmetic,selection,3,gemini,ai_mode,O148,O146,answer,answer,true,true,0,0,0,1,6,1,4
+X018,D01,New York City,cosmetic,selection,3,ai_overviews,ai_mode,O145,O146,answer,answer,true,false,1,0,0,0,6,0,4
+X019,D02,New York City,cosmetic,dentist_branch_evidence,1,chatgpt,gemini,O008,O005,answer,answer,true,true,0,0,0.08333333333333333,11,4,9,4
+X020,D02,New York City,cosmetic,dentist_branch_evidence,1,chatgpt,ai_overviews,O008,O006,answer,no_answer,false,false,,,,11,0,9,0
+X021,D02,New York City,cosmetic,dentist_branch_evidence,1,chatgpt,ai_mode,O008,O007,answer,answer,true,true,0,0,0,11,5,9,5
+X022,D02,New York City,cosmetic,dentist_branch_evidence,1,gemini,ai_overviews,O005,O006,answer,no_answer,false,false,,,,4,0,4,0
+X023,D02,New York City,cosmetic,dentist_branch_evidence,1,gemini,ai_mode,O005,O007,answer,answer,true,true,0,0,0,4,5,4,5
+X024,D02,New York City,cosmetic,dentist_branch_evidence,1,ai_overviews,ai_mode,O006,O007,no_answer,answer,false,false,,,,0,5,0,5
+X025,D02,New York City,cosmetic,dentist_branch_evidence,2,chatgpt,gemini,O079,O080,answer,answer,true,true,0,0.07142857142857142,0.07692307692307693,11,4,10,4
+X026,D02,New York City,cosmetic,dentist_branch_evidence,2,chatgpt,ai_overviews,O079,O077,answer,no_answer,false,false,,,,11,0,10,0
+X027,D02,New York City,cosmetic,dentist_branch_evidence,2,chatgpt,ai_mode,O079,O078,answer,answer,true,true,0,0,0,11,3,10,3
+X028,D02,New York City,cosmetic,dentist_branch_evidence,2,gemini,ai_overviews,O080,O077,answer,no_answer,false,false,,,,4,0,4,0
+X029,D02,New York City,cosmetic,dentist_branch_evidence,2,gemini,ai_mode,O080,O078,answer,answer,true,true,0,0,0,4,3,4,3
+X030,D02,New York City,cosmetic,dentist_branch_evidence,2,ai_overviews,ai_mode,O077,O078,no_answer,answer,false,false,,,,0,3,0,3
+X031,D02,New York City,cosmetic,dentist_branch_evidence,3,chatgpt,gemini,O150,O151,answer,answer,true,true,0,0,0.1,9,3,8,3
+X032,D02,New York City,cosmetic,dentist_branch_evidence,3,chatgpt,ai_overviews,O150,O152,answer,no_answer,false,false,,,,9,0,8,0
+X033,D02,New York City,cosmetic,dentist_branch_evidence,3,chatgpt,ai_mode,O150,O149,answer,answer,true,true,0,0,0,9,3,8,2
+X034,D02,New York City,cosmetic,dentist_branch_evidence,3,gemini,ai_overviews,O151,O152,answer,no_answer,false,false,,,,3,0,3,0
+X035,D02,New York City,cosmetic,dentist_branch_evidence,3,gemini,ai_mode,O151,O149,answer,answer,true,true,0,0,0,3,3,3,2
+X036,D02,New York City,cosmetic,dentist_branch_evidence,3,ai_overviews,ai_mode,O152,O149,no_answer,answer,false,false,,,,0,3,0,2
+X037,D03,New York City,implants,selection,1,chatgpt,gemini,O011,O012,answer,answer,true,true,0,0,0.1111111111111111,8,3,7,3
+X038,D03,New York City,implants,selection,1,chatgpt,ai_overviews,O011,O009,answer,collection_failed,false,false,,,,8,0,7,0
+X039,D03,New York City,implants,selection,1,chatgpt,ai_mode,O011,O010,answer,answer,true,true,0,0,0,8,3,7,1
+X040,D03,New York City,implants,selection,1,gemini,ai_overviews,O012,O009,answer,collection_failed,false,false,,,,3,0,3,0
+X041,D03,New York City,implants,selection,1,gemini,ai_mode,O012,O010,answer,answer,true,true,0,0,0,3,3,3,1
+X042,D03,New York City,implants,selection,1,ai_overviews,ai_mode,O009,O010,collection_failed,answer,false,false,,,,0,3,0,1
+X043,D03,New York City,implants,selection,2,chatgpt,gemini,O082,O083,answer,answer,true,true,0,0,0,10,2,7,2
+X044,D03,New York City,implants,selection,2,chatgpt,ai_overviews,O082,O084,answer,answer,true,true,0,0,0,10,6,7,6
+X045,D03,New York City,implants,selection,2,chatgpt,ai_mode,O082,O081,answer,answer,true,true,0,0,0.1111111111111111,10,4,7,3
+X046,D03,New York City,implants,selection,2,gemini,ai_overviews,O083,O084,answer,answer,true,true,0,0.14285714285714285,0.14285714285714285,2,6,2,6
+X047,D03,New York City,implants,selection,2,gemini,ai_mode,O083,O081,answer,answer,true,true,0,0,0,2,4,2,3
+X048,D03,New York City,implants,selection,2,ai_overviews,ai_mode,O084,O081,answer,answer,true,true,0,0,0,6,4,6,3
+X049,D03,New York City,implants,selection,3,chatgpt,gemini,O153,O154,answer,answer,true,false,1,0,0,13,0,9,0
+X050,D03,New York City,implants,selection,3,chatgpt,ai_overviews,O153,O155,answer,no_answer,false,false,,,,13,0,9,0
+X051,D03,New York City,implants,selection,3,chatgpt,ai_mode,O153,O156,answer,answer,true,true,0,0,0.1111111111111111,13,3,9,1
+X052,D03,New York City,implants,selection,3,gemini,ai_overviews,O154,O155,answer,no_answer,false,false,,,,0,0,0,0
+X053,D03,New York City,implants,selection,3,gemini,ai_mode,O154,O156,answer,answer,true,false,1,0,0,0,3,0,1
+X054,D03,New York City,implants,selection,3,ai_overviews,ai_mode,O155,O156,no_answer,answer,false,false,,,,0,3,0,1
+X055,D04,New York City,implants,dentist_branch_evidence,1,chatgpt,gemini,O014,O015,answer,answer,true,true,0,0,0,11,4,10,4
+X056,D04,New York City,implants,dentist_branch_evidence,1,chatgpt,ai_overviews,O014,O016,answer,no_answer,false,false,,,,11,0,10,0
+X057,D04,New York City,implants,dentist_branch_evidence,1,chatgpt,ai_mode,O014,O013,answer,answer,true,true,0,0,0,11,4,10,3
+X058,D04,New York City,implants,dentist_branch_evidence,1,gemini,ai_overviews,O015,O016,answer,no_answer,false,false,,,,4,0,4,0
+X059,D04,New York City,implants,dentist_branch_evidence,1,gemini,ai_mode,O015,O013,answer,answer,true,true,0,0,0.16666666666666666,4,4,4,3
+X060,D04,New York City,implants,dentist_branch_evidence,1,ai_overviews,ai_mode,O016,O013,no_answer,answer,false,false,,,,0,4,0,3
+X061,D04,New York City,implants,dentist_branch_evidence,2,chatgpt,gemini,O085,O086,answer,answer,true,true,0,0.058823529411764705,0.07142857142857142,14,4,11,4
+X062,D04,New York City,implants,dentist_branch_evidence,2,chatgpt,ai_overviews,O085,O087,answer,answer,true,true,0,0,0.08333333333333333,14,2,11,2
+X063,D04,New York City,implants,dentist_branch_evidence,2,chatgpt,ai_mode,O085,O088,answer,answer,true,true,0,0,0,14,4,11,4
+X064,D04,New York City,implants,dentist_branch_evidence,2,gemini,ai_overviews,O086,O087,answer,answer,true,true,0,0,0,4,2,4,2
+X065,D04,New York City,implants,dentist_branch_evidence,2,gemini,ai_mode,O086,O088,answer,answer,true,true,0,0,0.14285714285714285,4,4,4,4
+X066,D04,New York City,implants,dentist_branch_evidence,2,ai_overviews,ai_mode,O087,O088,answer,answer,true,true,0,0.2,0.2,2,4,2,4
+X067,D04,New York City,implants,dentist_branch_evidence,3,chatgpt,gemini,O160,O157,answer,answer,true,true,0,0,0.07142857142857142,13,3,12,3
+X068,D04,New York City,implants,dentist_branch_evidence,3,chatgpt,ai_overviews,O160,O158,answer,no_answer,false,false,,,,13,0,12,0
+X069,D04,New York City,implants,dentist_branch_evidence,3,chatgpt,ai_mode,O160,O159,answer,answer,true,true,0,0,0,13,3,12,2
+X070,D04,New York City,implants,dentist_branch_evidence,3,gemini,ai_overviews,O157,O158,answer,no_answer,false,false,,,,3,0,3,0
+X071,D04,New York City,implants,dentist_branch_evidence,3,gemini,ai_mode,O157,O159,answer,answer,true,true,0,0,0.25,3,3,3,2
+X072,D04,New York City,implants,dentist_branch_evidence,3,ai_overviews,ai_mode,O158,O159,no_answer,answer,false,false,,,,0,3,0,2
+X073,D05,New York City,urgent,selection,1,chatgpt,gemini,O017,O018,answer,answer,true,true,0,0,0,6,5,5,5
+X074,D05,New York City,urgent,selection,1,chatgpt,ai_overviews,O017,O019,answer,answer,true,true,0,0,0,6,5,5,5
+X075,D05,New York City,urgent,selection,1,chatgpt,ai_mode,O017,O020,answer,answer,true,true,0,0,0,6,5,5,3
+X076,D05,New York City,urgent,selection,1,gemini,ai_overviews,O018,O019,answer,answer,true,true,0,0,0,5,5,5,5
+X077,D05,New York City,urgent,selection,1,gemini,ai_mode,O018,O020,answer,answer,true,true,0,0,0,5,5,5,3
+X078,D05,New York City,urgent,selection,1,ai_overviews,ai_mode,O019,O020,answer,answer,true,true,0,0,0.14285714285714285,5,5,5,3
+X079,D05,New York City,urgent,selection,2,chatgpt,gemini,O092,O089,answer,answer,true,true,0,0,0,6,4,5,4
+X080,D05,New York City,urgent,selection,2,chatgpt,ai_overviews,O092,O090,answer,no_answer,false,false,,,,6,0,5,0
+X081,D05,New York City,urgent,selection,2,chatgpt,ai_mode,O092,O091,answer,answer,true,true,0,0,0,6,4,5,2
+X082,D05,New York City,urgent,selection,2,gemini,ai_overviews,O089,O090,answer,no_answer,false,false,,,,4,0,4,0
+X083,D05,New York City,urgent,selection,2,gemini,ai_mode,O089,O091,answer,answer,true,true,0,0,0,4,4,4,2
+X084,D05,New York City,urgent,selection,2,ai_overviews,ai_mode,O090,O091,no_answer,answer,false,false,,,,0,4,0,2
+X085,D05,New York City,urgent,selection,3,chatgpt,gemini,O163,O164,answer,answer,true,true,0,0.1,0.14285714285714285,9,2,6,2
+X086,D05,New York City,urgent,selection,3,chatgpt,ai_overviews,O163,O161,answer,answer,true,true,0,0.0625,0.18181818181818182,9,8,6,7
+X087,D05,New York City,urgent,selection,3,chatgpt,ai_mode,O163,O162,answer,answer,true,true,0,0,0,9,5,6,3
+X088,D05,New York City,urgent,selection,3,gemini,ai_overviews,O164,O161,answer,answer,true,true,0,0.1111111111111111,0.125,2,8,2,7
+X089,D05,New York City,urgent,selection,3,gemini,ai_mode,O164,O162,answer,answer,true,true,0,0,0,2,5,2,3
+X090,D05,New York City,urgent,selection,3,ai_overviews,ai_mode,O161,O162,answer,answer,true,true,0,0.18181818181818182,0.25,8,5,7,3
+X091,D06,New York City,urgent,dentist_branch_evidence,1,chatgpt,gemini,O024,O021,answer,answer,true,true,0,0,0,8,3,7,3
+X092,D06,New York City,urgent,dentist_branch_evidence,1,chatgpt,ai_overviews,O024,O022,answer,no_answer,false,false,,,,8,0,7,0
+X093,D06,New York City,urgent,dentist_branch_evidence,1,chatgpt,ai_mode,O024,O023,answer,answer,true,true,0,0,0.14285714285714285,8,5,7,1
+X094,D06,New York City,urgent,dentist_branch_evidence,1,gemini,ai_overviews,O021,O022,answer,no_answer,false,false,,,,3,0,3,0
+X095,D06,New York City,urgent,dentist_branch_evidence,1,gemini,ai_mode,O021,O023,answer,answer,true,true,0,0,0,3,5,3,1
+X096,D06,New York City,urgent,dentist_branch_evidence,1,ai_overviews,ai_mode,O022,O023,no_answer,answer,false,false,,,,0,5,0,1
+X097,D06,New York City,urgent,dentist_branch_evidence,2,chatgpt,gemini,O095,O096,answer,answer,true,true,0,0,0,10,5,9,5
+X098,D06,New York City,urgent,dentist_branch_evidence,2,chatgpt,ai_overviews,O095,O093,answer,answer,true,true,0,0,0.1111111111111111,10,3,9,1
+X099,D06,New York City,urgent,dentist_branch_evidence,2,chatgpt,ai_mode,O095,O094,answer,answer,true,true,0,0,0.1,10,4,9,2
+X100,D06,New York City,urgent,dentist_branch_evidence,2,gemini,ai_overviews,O096,O093,answer,answer,true,true,0,0,0,5,3,5,1
+X101,D06,New York City,urgent,dentist_branch_evidence,2,gemini,ai_mode,O096,O094,answer,answer,true,true,0,0,0,5,4,5,2
+X102,D06,New York City,urgent,dentist_branch_evidence,2,ai_overviews,ai_mode,O093,O094,answer,answer,true,true,0,0,0.5,3,4,1,2
+X103,D06,New York City,urgent,dentist_branch_evidence,3,chatgpt,gemini,O166,O167,answer,answer,true,true,0,0.058823529411764705,0.0625,12,6,11,6
+X104,D06,New York City,urgent,dentist_branch_evidence,3,chatgpt,ai_overviews,O166,O168,answer,no_answer,false,false,,,,12,0,11,0
+X105,D06,New York City,urgent,dentist_branch_evidence,3,chatgpt,ai_mode,O166,O165,answer,answer,true,true,0,0,0.08333333333333333,12,4,11,2
+X106,D06,New York City,urgent,dentist_branch_evidence,3,gemini,ai_overviews,O167,O168,answer,no_answer,false,false,,,,6,0,6,0
+X107,D06,New York City,urgent,dentist_branch_evidence,3,gemini,ai_mode,O167,O165,answer,answer,true,true,0,0,0,6,4,6,2
+X108,D06,New York City,urgent,dentist_branch_evidence,3,ai_overviews,ai_mode,O168,O165,no_answer,answer,false,false,,,,0,4,0,2
+X109,D07,Chicago,cosmetic,selection,1,chatgpt,gemini,O027,O028,answer,answer,true,true,0,0,0,9,4,5,4
+X110,D07,Chicago,cosmetic,selection,1,chatgpt,ai_overviews,O027,O025,answer,answer,true,true,0,0,0.08333333333333333,9,8,5,8
+X111,D07,Chicago,cosmetic,selection,1,chatgpt,ai_mode,O027,O026,answer,answer,true,true,0,0,0,9,4,5,3
+X112,D07,Chicago,cosmetic,selection,1,gemini,ai_overviews,O028,O025,answer,answer,true,true,0,0.09090909090909091,0.09090909090909091,4,8,4,8
+X113,D07,Chicago,cosmetic,selection,1,gemini,ai_mode,O028,O026,answer,answer,true,true,0,0,0,4,4,4,3
+X114,D07,Chicago,cosmetic,selection,1,ai_overviews,ai_mode,O025,O026,answer,answer,true,true,0,0.09090909090909091,0.1,8,4,8,3
+X115,D07,Chicago,cosmetic,selection,2,chatgpt,gemini,O098,O099,answer,answer,true,true,0,0,0,7,2,5,2
+X116,D07,Chicago,cosmetic,selection,2,chatgpt,ai_overviews,O098,O100,answer,no_answer,false,false,,,,7,0,5,0
+X117,D07,Chicago,cosmetic,selection,2,chatgpt,ai_mode,O098,O097,answer,answer,true,true,0,0,0.16666666666666666,7,3,5,2
+X118,D07,Chicago,cosmetic,selection,2,gemini,ai_overviews,O099,O100,answer,no_answer,false,false,,,,2,0,2,0
+X119,D07,Chicago,cosmetic,selection,2,gemini,ai_mode,O099,O097,answer,answer,true,true,0,0,0,2,3,2,2
+X120,D07,Chicago,cosmetic,selection,2,ai_overviews,ai_mode,O100,O097,no_answer,answer,false,false,,,,0,3,0,2
+X121,D07,Chicago,cosmetic,selection,3,chatgpt,gemini,O169,O170,answer,answer,true,true,0,0,0.125,13,1,8,1
+X122,D07,Chicago,cosmetic,selection,3,chatgpt,ai_overviews,O169,O171,answer,answer,true,true,0,0,0.0625,13,10,8,9
+X123,D07,Chicago,cosmetic,selection,3,chatgpt,ai_mode,O169,O172,answer,answer,true,true,0,0,0.1111111111111111,13,4,8,2
+X124,D07,Chicago,cosmetic,selection,3,gemini,ai_overviews,O170,O171,answer,answer,true,true,0,0.1,0.1111111111111111,1,10,1,9
+X125,D07,Chicago,cosmetic,selection,3,gemini,ai_mode,O170,O172,answer,answer,true,true,0,0,0,1,4,1,2
+X126,D07,Chicago,cosmetic,selection,3,ai_overviews,ai_mode,O171,O172,answer,answer,true,true,0,0.07692307692307693,0.1,10,4,9,2
+X127,D08,Chicago,cosmetic,dentist_branch_evidence,1,chatgpt,gemini,O030,O031,answer,answer,true,true,0,0,0,9,2,9,2
+X128,D08,Chicago,cosmetic,dentist_branch_evidence,1,chatgpt,ai_overviews,O030,O032,answer,collection_failed,false,false,,,,9,0,9,0
+X129,D08,Chicago,cosmetic,dentist_branch_evidence,1,chatgpt,ai_mode,O030,O029,answer,answer,true,true,0,0,0,9,3,9,3
+X130,D08,Chicago,cosmetic,dentist_branch_evidence,1,gemini,ai_overviews,O031,O032,answer,collection_failed,false,false,,,,2,0,2,0
+X131,D08,Chicago,cosmetic,dentist_branch_evidence,1,gemini,ai_mode,O031,O029,answer,answer,true,true,0,0,0,2,3,2,3
+X132,D08,Chicago,cosmetic,dentist_branch_evidence,1,ai_overviews,ai_mode,O032,O029,collection_failed,answer,false,false,,,,0,3,0,3
+X133,D08,Chicago,cosmetic,dentist_branch_evidence,2,chatgpt,gemini,O101,O102,answer,answer,true,true,0,0,0.07692307692307693,10,4,10,4
+X134,D08,Chicago,cosmetic,dentist_branch_evidence,2,chatgpt,ai_overviews,O101,O103,answer,answer,true,true,0,0,0,10,5,10,3
+X135,D08,Chicago,cosmetic,dentist_branch_evidence,2,chatgpt,ai_mode,O101,O104,answer,answer,true,true,0,0,0,10,3,10,1
+X136,D08,Chicago,cosmetic,dentist_branch_evidence,2,gemini,ai_overviews,O102,O103,answer,answer,true,true,0,0,0,4,5,4,3
+X137,D08,Chicago,cosmetic,dentist_branch_evidence,2,gemini,ai_mode,O102,O104,answer,answer,true,true,0,0,0,4,3,4,1
+X138,D08,Chicago,cosmetic,dentist_branch_evidence,2,ai_overviews,ai_mode,O103,O104,answer,answer,true,true,0,0,0,5,3,3,1
+X139,D08,Chicago,cosmetic,dentist_branch_evidence,3,chatgpt,gemini,O176,O173,answer,answer,true,true,0,0,0.07142857142857142,10,5,10,5
+X140,D08,Chicago,cosmetic,dentist_branch_evidence,3,chatgpt,ai_overviews,O176,O174,answer,no_answer,false,false,,,,10,0,10,0
+X141,D08,Chicago,cosmetic,dentist_branch_evidence,3,chatgpt,ai_mode,O176,O175,answer,answer,true,true,0,0,0,10,4,10,3
+X142,D08,Chicago,cosmetic,dentist_branch_evidence,3,gemini,ai_overviews,O173,O174,answer,no_answer,false,false,,,,5,0,5,0
+X143,D08,Chicago,cosmetic,dentist_branch_evidence,3,gemini,ai_mode,O173,O175,answer,answer,true,true,0,0,0,5,4,5,3
+X144,D08,Chicago,cosmetic,dentist_branch_evidence,3,ai_overviews,ai_mode,O174,O175,no_answer,answer,false,false,,,,0,4,0,3
+X145,D09,Chicago,implants,selection,1,chatgpt,gemini,O033,O034,answer,answer,true,true,0,0,0,11,3,6,3
+X146,D09,Chicago,implants,selection,1,chatgpt,ai_overviews,O033,O035,answer,answer,true,true,0,0,0.08333333333333333,11,8,6,7
+X147,D09,Chicago,implants,selection,1,chatgpt,ai_mode,O033,O036,answer,answer,true,true,0,0,0.16666666666666666,11,3,6,1
+X148,D09,Chicago,implants,selection,1,gemini,ai_overviews,O034,O035,answer,answer,true,true,0,0,0,3,8,3,7
+X149,D09,Chicago,implants,selection,1,gemini,ai_mode,O034,O036,answer,answer,true,true,0,0,0,3,3,3,1
+X150,D09,Chicago,implants,selection,1,ai_overviews,ai_mode,O035,O036,answer,answer,true,true,0,0,0,8,3,7,1
+X151,D09,Chicago,implants,selection,2,chatgpt,gemini,O108,O105,answer,answer,true,true,0,0,0,8,3,5,3
+X152,D09,Chicago,implants,selection,2,chatgpt,ai_overviews,O108,O106,answer,collection_failed,false,false,,,,8,0,5,0
+X153,D09,Chicago,implants,selection,2,chatgpt,ai_mode,O108,O107,answer,answer,true,true,0,0,0.2,8,4,5,1
+X154,D09,Chicago,implants,selection,2,gemini,ai_overviews,O105,O106,answer,collection_failed,false,false,,,,3,0,3,0
+X155,D09,Chicago,implants,selection,2,gemini,ai_mode,O105,O107,answer,answer,true,true,0,0,0,3,4,3,1
+X156,D09,Chicago,implants,selection,2,ai_overviews,ai_mode,O106,O107,collection_failed,answer,false,false,,,,0,4,0,1
+X157,D09,Chicago,implants,selection,3,chatgpt,gemini,O179,O180,answer,answer,true,true,0,0,0,10,1,9,1
+X158,D09,Chicago,implants,selection,3,chatgpt,ai_overviews,O179,O177,answer,no_answer,false,false,,,,10,0,9,0
+X159,D09,Chicago,implants,selection,3,chatgpt,ai_mode,O179,O178,answer,answer,true,true,0,0,0,10,5,9,2
+X160,D09,Chicago,implants,selection,3,gemini,ai_overviews,O180,O177,answer,no_answer,false,false,,,,1,0,1,0
+X161,D09,Chicago,implants,selection,3,gemini,ai_mode,O180,O178,answer,answer,true,true,0,0,0,1,5,1,2
+X162,D09,Chicago,implants,selection,3,ai_overviews,ai_mode,O177,O178,no_answer,answer,false,false,,,,0,5,0,2
+X163,D10,Chicago,implants,dentist_branch_evidence,1,chatgpt,gemini,O040,O037,answer,answer,true,true,0,0,0,10,2,7,2
+X164,D10,Chicago,implants,dentist_branch_evidence,1,chatgpt,ai_overviews,O040,O038,answer,no_answer,false,false,,,,10,0,7,0
+X165,D10,Chicago,implants,dentist_branch_evidence,1,chatgpt,ai_mode,O040,O039,answer,answer,true,true,0,0,0,10,5,7,3
+X166,D10,Chicago,implants,dentist_branch_evidence,1,gemini,ai_overviews,O037,O038,answer,no_answer,false,false,,,,2,0,2,0
+X167,D10,Chicago,implants,dentist_branch_evidence,1,gemini,ai_mode,O037,O039,answer,answer,true,true,0,0,0,2,5,2,3
+X168,D10,Chicago,implants,dentist_branch_evidence,1,ai_overviews,ai_mode,O038,O039,no_answer,answer,false,false,,,,0,5,0,3
+X169,D10,Chicago,implants,dentist_branch_evidence,2,chatgpt,gemini,O111,O112,answer,answer,true,true,0,0,0,12,2,10,2
+X170,D10,Chicago,implants,dentist_branch_evidence,2,chatgpt,ai_overviews,O111,O109,answer,no_answer,false,false,,,,12,0,10,0
+X171,D10,Chicago,implants,dentist_branch_evidence,2,chatgpt,ai_mode,O111,O110,answer,answer,true,true,0,0,0.07692307692307693,12,5,10,4
+X172,D10,Chicago,implants,dentist_branch_evidence,2,gemini,ai_overviews,O112,O109,answer,no_answer,false,false,,,,2,0,2,0
+X173,D10,Chicago,implants,dentist_branch_evidence,2,gemini,ai_mode,O112,O110,answer,answer,true,true,0,0,0,2,5,2,4
+X174,D10,Chicago,implants,dentist_branch_evidence,2,ai_overviews,ai_mode,O109,O110,no_answer,answer,false,false,,,,0,5,0,4
+X175,D10,Chicago,implants,dentist_branch_evidence,3,chatgpt,gemini,O182,O183,answer,answer,true,true,0,0,0,16,2,12,2
+X176,D10,Chicago,implants,dentist_branch_evidence,3,chatgpt,ai_overviews,O182,O184,answer,no_answer,false,false,,,,16,0,12,0
+X177,D10,Chicago,implants,dentist_branch_evidence,3,chatgpt,ai_mode,O182,O181,answer,answer,true,true,0,0,0.07142857142857142,16,4,12,3
+X178,D10,Chicago,implants,dentist_branch_evidence,3,gemini,ai_overviews,O183,O184,answer,no_answer,false,false,,,,2,0,2,0
+X179,D10,Chicago,implants,dentist_branch_evidence,3,gemini,ai_mode,O183,O181,answer,answer,true,true,0,0,0,2,4,2,3
+X180,D10,Chicago,implants,dentist_branch_evidence,3,ai_overviews,ai_mode,O184,O181,no_answer,answer,false,false,,,,0,4,0,3
+X181,D11,Chicago,urgent,selection,1,chatgpt,gemini,O043,O044,answer,answer,true,true,0,0.08333333333333333,0.2222222222222222,8,5,6,5
+X182,D11,Chicago,urgent,selection,1,chatgpt,ai_overviews,O043,O041,answer,answer,true,true,0,0.16666666666666666,0.3333333333333333,8,6,6,6
+X183,D11,Chicago,urgent,selection,1,chatgpt,ai_mode,O043,O042,answer,answer,true,true,0,0,0,8,5,6,4
+X184,D11,Chicago,urgent,selection,1,gemini,ai_overviews,O044,O041,answer,answer,true,true,0,0.375,0.375,5,6,5,6
+X185,D11,Chicago,urgent,selection,1,gemini,ai_mode,O044,O042,answer,answer,true,true,0,0,0,5,5,5,4
+X186,D11,Chicago,urgent,selection,1,ai_overviews,ai_mode,O041,O042,answer,answer,true,true,0,0,0,6,5,6,4
+X187,D11,Chicago,urgent,selection,2,chatgpt,gemini,O114,O115,answer,answer,true,true,0,0,0,7,5,5,5
+X188,D11,Chicago,urgent,selection,2,chatgpt,ai_overviews,O114,O116,answer,no_answer,false,false,,,,7,0,5,0
+X189,D11,Chicago,urgent,selection,2,chatgpt,ai_mode,O114,O113,answer,answer,true,true,0,0,0,7,4,5,2
+X190,D11,Chicago,urgent,selection,2,gemini,ai_overviews,O115,O116,answer,no_answer,false,false,,,,5,0,5,0
+X191,D11,Chicago,urgent,selection,2,gemini,ai_mode,O115,O113,answer,answer,true,true,0,0,0,5,4,5,2
+X192,D11,Chicago,urgent,selection,2,ai_overviews,ai_mode,O116,O113,no_answer,answer,false,false,,,,0,4,0,2
+X193,D11,Chicago,urgent,selection,3,chatgpt,gemini,O185,O186,answer,answer,true,true,0,0,0,7,4,6,4
+X194,D11,Chicago,urgent,selection,3,chatgpt,ai_overviews,O185,O187,answer,no_answer,false,false,,,,7,0,6,0
+X195,D11,Chicago,urgent,selection,3,chatgpt,ai_mode,O185,O188,answer,answer,true,true,0,0,0.16666666666666666,7,5,6,1
+X196,D11,Chicago,urgent,selection,3,gemini,ai_overviews,O186,O187,answer,no_answer,false,false,,,,4,0,4,0
+X197,D11,Chicago,urgent,selection,3,gemini,ai_mode,O186,O188,answer,answer,true,true,0,0,0,4,5,4,1
+X198,D11,Chicago,urgent,selection,3,ai_overviews,ai_mode,O187,O188,no_answer,answer,false,false,,,,0,5,0,1
+X199,D12,Chicago,urgent,dentist_branch_evidence,1,chatgpt,gemini,O046,O047,answer,answer,true,true,0,0.08333333333333333,0.08333333333333333,8,5,8,5
+X200,D12,Chicago,urgent,dentist_branch_evidence,1,chatgpt,ai_overviews,O046,O048,answer,no_answer,false,false,,,,8,0,8,0
+X201,D12,Chicago,urgent,dentist_branch_evidence,1,chatgpt,ai_mode,O046,O045,answer,no_answer,false,false,,,,8,0,8,0
+X202,D12,Chicago,urgent,dentist_branch_evidence,1,gemini,ai_overviews,O047,O048,answer,no_answer,false,false,,,,5,0,5,0
+X203,D12,Chicago,urgent,dentist_branch_evidence,1,gemini,ai_mode,O047,O045,answer,no_answer,false,false,,,,5,0,5,0
+X204,D12,Chicago,urgent,dentist_branch_evidence,1,ai_overviews,ai_mode,O048,O045,no_answer,no_answer,false,false,,,,0,0,0,0
+X205,D12,Chicago,urgent,dentist_branch_evidence,2,chatgpt,gemini,O117,O118,answer,answer,true,true,0,0,0.09090909090909091,6,6,6,6
+X206,D12,Chicago,urgent,dentist_branch_evidence,2,chatgpt,ai_overviews,O117,O119,answer,no_answer,false,false,,,,6,0,6,0
+X207,D12,Chicago,urgent,dentist_branch_evidence,2,chatgpt,ai_mode,O117,O120,answer,answer,true,true,0,0,0,6,4,6,4
+X208,D12,Chicago,urgent,dentist_branch_evidence,2,gemini,ai_overviews,O118,O119,answer,no_answer,false,false,,,,6,0,6,0
+X209,D12,Chicago,urgent,dentist_branch_evidence,2,gemini,ai_mode,O118,O120,answer,answer,true,true,0,0.25,0.42857142857142855,6,4,6,4
+X210,D12,Chicago,urgent,dentist_branch_evidence,2,ai_overviews,ai_mode,O119,O120,no_answer,answer,false,false,,,,0,4,0,4
+X211,D12,Chicago,urgent,dentist_branch_evidence,3,chatgpt,gemini,O192,O189,answer,answer,true,true,0,0.1111111111111111,0.1111111111111111,6,4,6,4
+X212,D12,Chicago,urgent,dentist_branch_evidence,3,chatgpt,ai_overviews,O192,O190,answer,answer,true,true,0,0,0,6,6,6,5
+X213,D12,Chicago,urgent,dentist_branch_evidence,3,chatgpt,ai_mode,O192,O191,answer,answer,true,true,0,0,0,6,3,6,3
+X214,D12,Chicago,urgent,dentist_branch_evidence,3,gemini,ai_overviews,O189,O190,answer,answer,true,true,0,0,0,4,6,4,5
+X215,D12,Chicago,urgent,dentist_branch_evidence,3,gemini,ai_mode,O189,O191,answer,answer,true,true,0,0,0,4,3,4,3
+X216,D12,Chicago,urgent,dentist_branch_evidence,3,ai_overviews,ai_mode,O190,O191,answer,answer,true,true,0,0,0,6,3,5,3
+X217,D13,Dallas,cosmetic,selection,1,chatgpt,gemini,O049,O050,answer,answer,true,true,0,0,0,8,1,7,1
+X218,D13,Dallas,cosmetic,selection,1,chatgpt,ai_overviews,O049,O051,answer,answer,true,true,0,0,0,8,9,7,7
+X219,D13,Dallas,cosmetic,selection,1,chatgpt,ai_mode,O049,O052,answer,answer,true,true,0,0,0,8,3,7,3
+X220,D13,Dallas,cosmetic,selection,1,gemini,ai_overviews,O050,O051,answer,answer,true,true,0,0,0,1,9,1,7
+X221,D13,Dallas,cosmetic,selection,1,gemini,ai_mode,O050,O052,answer,answer,true,true,0,0,0,1,3,1,3
+X222,D13,Dallas,cosmetic,selection,1,ai_overviews,ai_mode,O051,O052,answer,answer,true,true,0,0.09090909090909091,0.1111111111111111,9,3,7,3
+X223,D13,Dallas,cosmetic,selection,2,chatgpt,gemini,O124,O121,answer,answer,true,true,0,0,0,8,2,5,2
+X224,D13,Dallas,cosmetic,selection,2,chatgpt,ai_overviews,O124,O122,answer,answer,true,true,0,0,0,8,6,5,5
+X225,D13,Dallas,cosmetic,selection,2,chatgpt,ai_mode,O124,O123,answer,answer,true,true,0,0,0,8,5,5,5
+X226,D13,Dallas,cosmetic,selection,2,gemini,ai_overviews,O121,O122,answer,answer,true,true,0,0.14285714285714285,0.16666666666666666,2,6,2,5
+X227,D13,Dallas,cosmetic,selection,2,gemini,ai_mode,O121,O123,answer,answer,true,true,0,0.16666666666666666,0.16666666666666666,2,5,2,5
+X228,D13,Dallas,cosmetic,selection,2,ai_overviews,ai_mode,O122,O123,answer,answer,true,true,0,0.375,0.42857142857142855,6,5,5,5
+X229,D13,Dallas,cosmetic,selection,3,chatgpt,gemini,O195,O196,answer,answer,true,true,0,0,0,11,4,9,4
+X230,D13,Dallas,cosmetic,selection,3,chatgpt,ai_overviews,O195,O193,answer,no_answer,false,false,,,,11,0,9,0
+X231,D13,Dallas,cosmetic,selection,3,chatgpt,ai_mode,O195,O194,answer,answer,true,true,0,0,0,11,4,9,4
+X232,D13,Dallas,cosmetic,selection,3,gemini,ai_overviews,O196,O193,answer,no_answer,false,false,,,,4,0,4,0
+X233,D13,Dallas,cosmetic,selection,3,gemini,ai_mode,O196,O194,answer,answer,true,true,0,0,0,4,4,4,4
+X234,D13,Dallas,cosmetic,selection,3,ai_overviews,ai_mode,O193,O194,no_answer,answer,false,false,,,,0,4,0,4
+X235,D14,Dallas,cosmetic,dentist_branch_evidence,1,chatgpt,gemini,O056,O053,answer,answer,true,true,0,0,0,9,4,8,4
+X236,D14,Dallas,cosmetic,dentist_branch_evidence,1,chatgpt,ai_overviews,O056,O054,answer,answer,true,true,0,0.0625,0.07692307692307693,9,8,8,6
+X237,D14,Dallas,cosmetic,dentist_branch_evidence,1,chatgpt,ai_mode,O056,O055,answer,answer,true,true,0,0,0,9,3,8,2
+X238,D14,Dallas,cosmetic,dentist_branch_evidence,1,gemini,ai_overviews,O053,O054,answer,answer,true,true,0,0.09090909090909091,0.1111111111111111,4,8,4,6
+X239,D14,Dallas,cosmetic,dentist_branch_evidence,1,gemini,ai_mode,O053,O055,answer,answer,true,true,0,0.16666666666666666,0.2,4,3,4,2
+X240,D14,Dallas,cosmetic,dentist_branch_evidence,1,ai_overviews,ai_mode,O054,O055,answer,answer,true,true,0,0.1,0.3333333333333333,8,3,6,2
+X241,D14,Dallas,cosmetic,dentist_branch_evidence,2,chatgpt,gemini,O127,O128,answer,answer,true,true,0,0.07692307692307693,0.07692307692307693,10,4,10,4
+X242,D14,Dallas,cosmetic,dentist_branch_evidence,2,chatgpt,ai_overviews,O127,O125,answer,no_answer,false,false,,,,10,0,10,0
+X243,D14,Dallas,cosmetic,dentist_branch_evidence,2,chatgpt,ai_mode,O127,O126,answer,answer,true,true,0,0,0,10,4,10,4
+X244,D14,Dallas,cosmetic,dentist_branch_evidence,2,gemini,ai_overviews,O128,O125,answer,no_answer,false,false,,,,4,0,4,0
+X245,D14,Dallas,cosmetic,dentist_branch_evidence,2,gemini,ai_mode,O128,O126,answer,answer,true,true,0,0.3333333333333333,0.3333333333333333,4,4,4,4
+X246,D14,Dallas,cosmetic,dentist_branch_evidence,2,ai_overviews,ai_mode,O125,O126,no_answer,answer,false,false,,,,0,4,0,4
+X247,D14,Dallas,cosmetic,dentist_branch_evidence,3,chatgpt,gemini,O198,O199,answer,answer,true,true,0,0,0,10,4,9,3
+X248,D14,Dallas,cosmetic,dentist_branch_evidence,3,chatgpt,ai_overviews,O198,O200,answer,collection_failed,false,false,,,,10,0,9,0
+X249,D14,Dallas,cosmetic,dentist_branch_evidence,3,chatgpt,ai_mode,O198,O197,answer,answer,true,true,0,0,0,10,3,9,3
+X250,D14,Dallas,cosmetic,dentist_branch_evidence,3,gemini,ai_overviews,O199,O200,answer,collection_failed,false,false,,,,4,0,3,0
+X251,D14,Dallas,cosmetic,dentist_branch_evidence,3,gemini,ai_mode,O199,O197,answer,answer,true,true,0,0.16666666666666666,0.2,4,3,3,3
+X252,D14,Dallas,cosmetic,dentist_branch_evidence,3,ai_overviews,ai_mode,O200,O197,collection_failed,answer,false,false,,,,0,3,0,3
+X253,D15,Dallas,implants,selection,1,chatgpt,gemini,O059,O060,answer,answer,true,true,0,0,0.07142857142857142,11,5,10,5
+X254,D15,Dallas,implants,selection,1,chatgpt,ai_overviews,O059,O057,answer,no_answer,false,false,,,,11,0,10,0
+X255,D15,Dallas,implants,selection,1,chatgpt,ai_mode,O059,O058,answer,answer,true,true,0,0,0,11,3,10,2
+X256,D15,Dallas,implants,selection,1,gemini,ai_overviews,O060,O057,answer,no_answer,false,false,,,,5,0,5,0
+X257,D15,Dallas,implants,selection,1,gemini,ai_mode,O060,O058,answer,answer,true,true,0,0,0,5,3,5,2
+X258,D15,Dallas,implants,selection,1,ai_overviews,ai_mode,O057,O058,no_answer,answer,false,false,,,,0,3,0,2
+X259,D15,Dallas,implants,selection,2,chatgpt,gemini,O130,O131,answer,answer,true,true,0,0.11764705882352941,0.1,14,5,7,4
+X260,D15,Dallas,implants,selection,2,chatgpt,ai_overviews,O130,O132,answer,no_answer,false,false,,,,14,0,7,0
+X261,D15,Dallas,implants,selection,2,chatgpt,ai_mode,O130,O129,answer,answer,true,true,0,0,0.14285714285714285,14,5,7,1
+X262,D15,Dallas,implants,selection,2,gemini,ai_overviews,O131,O132,answer,no_answer,false,false,,,,5,0,4,0
+X263,D15,Dallas,implants,selection,2,gemini,ai_mode,O131,O129,answer,answer,true,true,0,0,0,5,5,4,1
+X264,D15,Dallas,implants,selection,2,ai_overviews,ai_mode,O132,O129,no_answer,answer,false,false,,,,0,5,0,1
+X265,D15,Dallas,implants,selection,3,chatgpt,gemini,O201,O202,answer,answer,true,true,0,0,0,7,4,7,4
+X266,D15,Dallas,implants,selection,3,chatgpt,ai_overviews,O201,O203,answer,answer,true,true,0,0.07692307692307693,0.07692307692307693,7,7,7,7
+X267,D15,Dallas,implants,selection,3,chatgpt,ai_mode,O201,O204,answer,answer,true,true,0,0,0.125,7,5,7,2
+X268,D15,Dallas,implants,selection,3,gemini,ai_overviews,O202,O203,answer,answer,true,true,0,0.1,0.2222222222222222,4,7,4,7
+X269,D15,Dallas,implants,selection,3,gemini,ai_mode,O202,O204,answer,answer,true,true,0,0,0,4,5,4,2
+X270,D15,Dallas,implants,selection,3,ai_overviews,ai_mode,O203,O204,answer,answer,true,true,0,0,0,7,5,7,2
+X271,D16,Dallas,implants,dentist_branch_evidence,1,chatgpt,gemini,O062,O063,answer,answer,true,true,0,0,0.1,8,3,8,3
+X272,D16,Dallas,implants,dentist_branch_evidence,1,chatgpt,ai_overviews,O062,O064,answer,answer,true,true,0,0.06666666666666667,0.2,8,8,8,4
+X273,D16,Dallas,implants,dentist_branch_evidence,1,chatgpt,ai_mode,O062,O061,answer,answer,true,true,0,0,0,8,3,8,3
+X274,D16,Dallas,implants,dentist_branch_evidence,1,gemini,ai_overviews,O063,O064,answer,answer,true,true,0,0,0,3,8,3,4
+X275,D16,Dallas,implants,dentist_branch_evidence,1,gemini,ai_mode,O063,O061,answer,answer,true,true,0,0,0,3,3,3,3
+X276,D16,Dallas,implants,dentist_branch_evidence,1,ai_overviews,ai_mode,O064,O061,answer,answer,true,true,0,0,0,8,3,4,3
+X277,D16,Dallas,implants,dentist_branch_evidence,2,chatgpt,gemini,O133,O134,answer,answer,true,true,0,0.18181818181818182,0.3333333333333333,9,4,8,4
+X278,D16,Dallas,implants,dentist_branch_evidence,2,chatgpt,ai_overviews,O133,O135,answer,no_answer,false,false,,,,9,0,8,0
+X279,D16,Dallas,implants,dentist_branch_evidence,2,chatgpt,ai_mode,O133,O136,answer,answer,true,true,0,0,0.1,9,3,8,3
+X280,D16,Dallas,implants,dentist_branch_evidence,2,gemini,ai_overviews,O134,O135,answer,no_answer,false,false,,,,4,0,4,0
+X281,D16,Dallas,implants,dentist_branch_evidence,2,gemini,ai_mode,O134,O136,answer,answer,true,true,0,0,0.16666666666666666,4,3,4,3
+X282,D16,Dallas,implants,dentist_branch_evidence,2,ai_overviews,ai_mode,O135,O136,no_answer,answer,false,false,,,,0,3,0,3
+X283,D16,Dallas,implants,dentist_branch_evidence,3,chatgpt,gemini,O208,O205,answer,answer,true,true,0,0,0,8,3,8,3
+X284,D16,Dallas,implants,dentist_branch_evidence,3,chatgpt,ai_overviews,O208,O206,answer,answer,true,true,0,0.07142857142857142,0.09090909090909091,8,7,8,4
+X285,D16,Dallas,implants,dentist_branch_evidence,3,chatgpt,ai_mode,O208,O207,answer,answer,true,true,0,0,0,8,4,8,3
+X286,D16,Dallas,implants,dentist_branch_evidence,3,gemini,ai_overviews,O205,O206,answer,answer,true,true,0,0,0,3,7,3,4
+X287,D16,Dallas,implants,dentist_branch_evidence,3,gemini,ai_mode,O205,O207,answer,answer,true,true,0,0,0,3,4,3,3
+X288,D16,Dallas,implants,dentist_branch_evidence,3,ai_overviews,ai_mode,O206,O207,answer,answer,true,true,0,0.5714285714285714,0.75,7,4,4,3
+X289,D17,Dallas,urgent,selection,1,chatgpt,gemini,O065,O066,answer,answer,true,true,0,0,0,6,4,6,4
+X290,D17,Dallas,urgent,selection,1,chatgpt,ai_overviews,O065,O067,answer,no_answer,false,false,,,,6,0,6,0
+X291,D17,Dallas,urgent,selection,1,chatgpt,ai_mode,O065,O068,answer,answer,true,true,0,0,0,6,3,6,3
+X292,D17,Dallas,urgent,selection,1,gemini,ai_overviews,O066,O067,answer,no_answer,false,false,,,,4,0,4,0
+X293,D17,Dallas,urgent,selection,1,gemini,ai_mode,O066,O068,answer,answer,true,true,0,0,0,4,3,4,3
+X294,D17,Dallas,urgent,selection,1,ai_overviews,ai_mode,O067,O068,no_answer,answer,false,false,,,,0,3,0,3
+X295,D17,Dallas,urgent,selection,2,chatgpt,gemini,O140,O137,answer,answer,true,true,0,0,0.125,5,4,5,4
+X296,D17,Dallas,urgent,selection,2,chatgpt,ai_overviews,O140,O138,answer,answer,true,true,0,0.1,0.375,5,6,5,6
+X297,D17,Dallas,urgent,selection,2,chatgpt,ai_mode,O140,O139,answer,answer,true,true,0,0,0,5,6,5,3
+X298,D17,Dallas,urgent,selection,2,gemini,ai_overviews,O137,O138,answer,answer,true,true,0,0.1111111111111111,0.1111111111111111,4,6,4,6
+X299,D17,Dallas,urgent,selection,2,gemini,ai_mode,O137,O139,answer,answer,true,true,0,0,0,4,6,4,3
+X300,D17,Dallas,urgent,selection,2,ai_overviews,ai_mode,O138,O139,answer,answer,true,true,0,0,0.125,6,6,6,3
+X301,D17,Dallas,urgent,selection,3,chatgpt,gemini,O211,O212,answer,answer,true,true,0,0,0,6,5,5,5
+X302,D17,Dallas,urgent,selection,3,chatgpt,ai_overviews,O211,O209,answer,answer,true,true,0,0,0,6,5,5,4
+X303,D17,Dallas,urgent,selection,3,chatgpt,ai_mode,O211,O210,answer,answer,true,true,0,0,0,6,3,5,1
+X304,D17,Dallas,urgent,selection,3,gemini,ai_overviews,O212,O209,answer,answer,true,true,0,0,0.125,5,5,5,4
+X305,D17,Dallas,urgent,selection,3,gemini,ai_mode,O212,O210,answer,answer,true,true,0,0,0,5,3,5,1
+X306,D17,Dallas,urgent,selection,3,ai_overviews,ai_mode,O209,O210,answer,answer,true,true,0,0,0,5,3,4,1
+X307,D18,Dallas,urgent,dentist_branch_evidence,1,chatgpt,gemini,O072,O069,answer,answer,true,true,0,0.07692307692307693,0.09090909090909091,9,5,7,5
+X308,D18,Dallas,urgent,dentist_branch_evidence,1,chatgpt,ai_overviews,O072,O070,answer,collection_failed,false,false,,,,9,0,7,0
+X309,D18,Dallas,urgent,dentist_branch_evidence,1,chatgpt,ai_mode,O072,O071,answer,answer,true,true,0,0,0,9,3,7,2
+X310,D18,Dallas,urgent,dentist_branch_evidence,1,gemini,ai_overviews,O069,O070,answer,collection_failed,false,false,,,,5,0,5,0
+X311,D18,Dallas,urgent,dentist_branch_evidence,1,gemini,ai_mode,O069,O071,answer,answer,true,true,0,0,0,5,3,5,2
+X312,D18,Dallas,urgent,dentist_branch_evidence,1,ai_overviews,ai_mode,O070,O071,collection_failed,answer,false,false,,,,0,3,0,2
+X313,D18,Dallas,urgent,dentist_branch_evidence,2,chatgpt,gemini,O143,O144,answer,answer,true,true,0,0,0,8,4,7,4
+X314,D18,Dallas,urgent,dentist_branch_evidence,2,chatgpt,ai_overviews,O143,O141,answer,collection_failed,false,false,,,,8,0,7,0
+X315,D18,Dallas,urgent,dentist_branch_evidence,2,chatgpt,ai_mode,O143,O142,answer,answer,true,true,0,0,0,8,3,7,2
+X316,D18,Dallas,urgent,dentist_branch_evidence,2,gemini,ai_overviews,O144,O141,answer,collection_failed,false,false,,,,4,0,4,0
+X317,D18,Dallas,urgent,dentist_branch_evidence,2,gemini,ai_mode,O144,O142,answer,answer,true,true,0,0,0,4,3,4,2
+X318,D18,Dallas,urgent,dentist_branch_evidence,2,ai_overviews,ai_mode,O141,O142,collection_failed,answer,false,false,,,,0,3,0,2
+X319,D18,Dallas,urgent,dentist_branch_evidence,3,chatgpt,gemini,O214,O215,answer,answer,true,true,0,0,0,11,5,10,5
+X320,D18,Dallas,urgent,dentist_branch_evidence,3,chatgpt,ai_overviews,O214,O216,answer,no_answer,false,false,,,,11,0,10,0
+X321,D18,Dallas,urgent,dentist_branch_evidence,3,chatgpt,ai_mode,O214,O213,answer,answer,true,true,0,0,0,11,3,10,1
+X322,D18,Dallas,urgent,dentist_branch_evidence,3,gemini,ai_overviews,O215,O216,answer,no_answer,false,false,,,,5,0,5,0
+X323,D18,Dallas,urgent,dentist_branch_evidence,3,gemini,ai_mode,O215,O213,answer,answer,true,true,0,0,0,5,3,5,1
+X324,D18,Dallas,urgent,dentist_branch_evidence,3,ai_overviews,ai_mode,O216,O213,no_answer,answer,false,false,,,,0,3,0,1

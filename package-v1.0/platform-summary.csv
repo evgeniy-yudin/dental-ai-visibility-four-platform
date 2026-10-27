@@ -1,0 +1,5 @@
+platform,label,planned,completed,answers,noAnswer,failed,notCollected,firstPassFailed,recoveryAttempts,recovered,sourceBearing,sourceUrlOccurrences,uniqueUrls,uniqueDomains,withinPairs,plannedPairs,answerPairs,definedUrlPairs,definedDomainPairs,bothSourceNonemptyPairs,oneSourceEmptyPairs,bothSourceEmptyPairs,excludedNoAnswerPairs,excludedCollectionPairs,meanUrlJaccard,meanDomainJaccard,meanBothNonemptyUrlJaccard,meanBothNonemptyDomainJaccard
+chatgpt,ChatGPT,54,54,54,0,0,0,0,0,0,54,489,298,172,54,54,54,54,54,54,0,0,0,0,0.2900834640996133,0.39256230334661696,0.2900834640996133,0.39256230334661696
+gemini,Gemini,54,54,54,0,0,0,0,0,0,53,189,108,90,54,54,54,54,54,52,2,0,0,0,0.20131540270429163,0.24761904761904763,0.20905830280830287,0.2571428571428572
+ai_overviews,Google AI Overviews,54,47,20,27,7,0,18,18,11,19,123,109,74,54,54,5,5,5,5,0,0,43,6,0.2342857142857143,0.30507936507936506,0.2342857142857143,0.30507936507936506
+ai_mode,Google AI Mode,54,54,53,1,0,0,0,0,0,53,209,115,34,54,54,52,52,52,52,0,0,2,0,0.27775488400488396,0.45407509157509146,0.27775488400488396,0.45407509157509146

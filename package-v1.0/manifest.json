@@ -1,0 +1,166 @@
+{
+  "schema_version": 1,
+  "dataset_id": "dental-ai-visibility-four-platform-v1.0",
+  "version": "1.0",
+  "publication_date": "2026-10-26",
+  "fieldwork": {
+    "start": "2026-10-26T15:29:36.159Z",
+    "end": "2026-10-26T15:48:50.578Z"
+  },
+  "canonical_url": "https://rotgar.com/medical/resources/dental-ai-visibility-four-platform-study",
+  "license": {
+    "identifier": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "files": [
+    {
+      "path": "citation.bib",
+      "media_type": "text/plain; charset=utf-8",
+      "bytes": 314,
+      "sha256": "f2af8404aa782dbe9f35992cca4fad2f9a04eef9c0249b91004cf935007305c3"
+    },
+    {
+      "path": "CITATION.cff",
+      "media_type": "text/plain; charset=utf-8",
+      "bytes": 422,
+      "sha256": "bff8763a7f25b2f1e789fb92bbb7bb51e3890816a6a51ca0a0800390ef5defb3"
+    },
+    {
+      "path": "citations.csv",
+      "media_type": "text/csv; charset=utf-8",
+      "bytes": 193245,
+      "sha256": "b62a1e739ad609280d3dfa3b83ce3a1369e9869db16ff174e7d5145b28716f71",
+      "data_rows": 1010
+    },
+    {
+      "path": "cross-platform-pairs.csv",
+      "media_type": "text/csv; charset=utf-8",
+      "bytes": 38551,
+      "sha256": "7b548ac3a84b9c3033f81622109ad82eaa0229987df3e1a78575e6ca8716f4b0",
+      "data_rows": 324
+    },
+    {
+      "path": "cross-platform-summary.csv",
+      "media_type": "text/csv; charset=utf-8",
+      "bytes": 1170,
+      "sha256": "eac139f75e06562fc6137fd6e601088b8c611bda03592af8b8fed5292c677a4c",
+      "data_rows": 6
+    },
+    {
+      "path": "data-dictionary.csv",
+      "media_type": "text/csv; charset=utf-8",
+      "bytes": 5173,
+      "sha256": "cfce6cd63467d2491d492d07423f1c78cc421a6015c0624612566bb57f3e450d",
+      "data_rows": 42
+    },
+    {
+      "path": "dental-ai-visibility-four-platform-v1.0.json",
+      "media_type": "application/json; charset=utf-8",
+      "bytes": 961180,
+      "sha256": "0d037ad11faf971874218c84ecb23a7d6a6c14953e1cc5f455a3d2616d6c7f8c"
+    },
+    {
+      "path": "intent-summary.csv",
+      "media_type": "text/csv; charset=utf-8",
+      "bytes": 2595,
+      "sha256": "ff9136dc34662bfadf48f579bc1607b63211099dcf537e6ec2c0a132b9b705ba",
+      "data_rows": 12
+    },
+    {
+      "path": "LICENSE.txt",
+      "media_type": "text/plain; charset=utf-8",
+      "bytes": 338,
+      "sha256": "9f63b06b0297efe8dbf0557dcf065302a8422b9105838e10f89197f6ac7314c2"
+    },
+    {
+      "path": "METHODOLOGY.md",
+      "media_type": "text/markdown; charset=utf-8",
+      "bytes": 6021,
+      "sha256": "63eb87ed878d0e9cb3ce524888ba19d73e3b3017925a78434fc3af126644d8fc"
+    },
+    {
+      "path": "platform-summary.csv",
+      "media_type": "text/csv; charset=utf-8",
+      "bytes": 1093,
+      "sha256": "50dd4961602bd5d1b8e4c37af7c7b473a7ce4d7fe04f31482c435b4e1a7216f7",
+      "data_rows": 4
+    },
+    {
+      "path": "prompt-manifest.csv",
+      "media_type": "text/csv; charset=utf-8",
+      "bytes": 2650,
+      "sha256": "97149695e95ec5a5a7ac61bd9e1f670b319e45cce07b14a7afee37c5b377b9d7",
+      "data_rows": 18
+    },
+    {
+      "path": "qualitative-source-review.csv",
+      "media_type": "text/csv; charset=utf-8",
+      "bytes": 28737,
+      "sha256": "da44bdd5e76511cbac91bc5c4df1e46b69642286c7e9900e952ab9a3e9de8cb8",
+      "data_rows": 36
+    },
+    {
+      "path": "README.md",
+      "media_type": "text/markdown; charset=utf-8",
+      "bytes": 1943,
+      "sha256": "c26ad7f7c8692c019c5a63212e0cfdd9df6bfe63cdb2407c477475e949826588"
+    },
+    {
+      "path": "reproduce.mjs",
+      "media_type": "text/plain; charset=utf-8",
+      "bytes": 8889,
+      "sha256": "c15c76b0526e4726441a08b51c8adc66ba683ad7a278711ccc2cd1a678a06b1d"
+    },
+    {
+      "path": "research-card-1200x630.png",
+      "media_type": "image/png",
+      "bytes": 77034,
+      "sha256": "f0718b57b371c6d33ca6a7ca12a572b48f225127f2f225b9cad8c40cbff36c52"
+    },
+    {
+      "path": "research-card-1200x630.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 2826,
+      "sha256": "024c6f7cfac6e6957cc62755185e84a7b0ee928c378420e8c470ac98f085ab53"
+    },
+    {
+      "path": "response-metrics.csv",
+      "media_type": "text/csv; charset=utf-8",
+      "bytes": 33238,
+      "sha256": "0b0912608e94535fc50faf8fb59da432eebd306638a95faecada4f1ac1006d0d",
+      "data_rows": 216
+    },
+    {
+      "path": "source-types.csv",
+      "media_type": "text/csv; charset=utf-8",
+      "bytes": 2264,
+      "sha256": "374ec957a3c90f4d775e007ceaf8b71042a925b8fc1ce3a9df34c5cb33187403",
+      "data_rows": 28
+    },
+    {
+      "path": "url-codebook.mjs",
+      "media_type": "text/plain; charset=utf-8",
+      "bytes": 2113,
+      "sha256": "d81ec30a4b25a1a386a4f574dc556b72eabd13e5e457c62c77d308e69dbe52b6"
+    },
+    {
+      "path": "within-pairs.csv",
+      "media_type": "text/csv; charset=utf-8",
+      "bytes": 26181,
+      "sha256": "bcae204e0ed8406344757a95756e78a053231b7b2e415622ad868114cf84d27b",
+      "data_rows": 216
+    },
+    {
+      "path": "within-source-stability.png",
+      "media_type": "image/png",
+      "bytes": 62239,
+      "sha256": "540924fb1e27f8a7828736d3f49fe95ce936e23f882798db21cb22d2bfa7529f"
+    },
+    {
+      "path": "within-source-stability.svg",
+      "media_type": "image/svg+xml",
+      "bytes": 3455,
+      "sha256": "62be3b44cf8869f25a1c9c048644f840ace2bde109cb9d65109f3d0fd5993380"
+    }
+  ]
+}

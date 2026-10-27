@@ -1,0 +1,7 @@
+platformA,platformB,labelA,labelB,matchedPairs,plannedPairs,answerPairs,definedUrlPairs,definedDomainPairs,bothSourceNonemptyPairs,oneSourceEmptyPairs,bothSourceEmptyPairs,excludedNoAnswerPairs,excludedCollectionPairs,meanUrlJaccard,meanDomainJaccard,meanBothNonemptyUrlJaccard,meanBothNonemptyDomainJaccard
+chatgpt,gemini,ChatGPT,Gemini,54,54,54,54,54,53,1,0,0,0,0.018891940787365624,0.04440932010376454,0.019248392500334787,0.04524723180383557
+chatgpt,ai_overviews,ChatGPT,Google AI Overviews,54,54,20,20,20,19,1,0,27,7,0.03033424908424908,0.08792589355089354,0.03193078850973587,0.0925535721588353
+chatgpt,ai_mode,ChatGPT,Google AI Mode,54,54,53,53,53,53,0,0,1,0,0,0.03539118114589813,0,0.03539118114589813
+gemini,ai_overviews,Gemini,Google AI Overviews,54,54,20,20,20,19,1,0,27,7,0.06323773448773448,0.0790494227994228,0.06656603630287841,0.08320991873623453
+gemini,ai_mode,Gemini,Google AI Mode,54,54,53,53,53,52,1,0,1,0,0.020440251572327043,0.03876909254267744,0.020833333333333332,0.03951465201465201
+ai_overviews,ai_mode,Google AI Overviews,Google AI Mode,54,54,20,20,20,19,1,0,27,7,0.0843494005994006,0.15204365079365081,0.08878884273621117,0.16004594820384296

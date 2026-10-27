@@ -1,0 +1,19 @@
+cell,city,intent,variant,query
+D01,New York City,cosmetic,selection,Which cosmetic dental practices in New York City should I compare for porcelain veneers?
+D02,New York City,cosmetic,dentist_branch_evidence,"Which cosmetic dentists in New York City offer porcelain veneers? Identify the dentist and office location, and link to the evidence."
+D03,New York City,implants,selection,Which dental practices in New York City should I compare for dental implants?
+D04,New York City,implants,dentist_branch_evidence,"Which implant dentists in New York City offer dental implants? Identify the dentist and office location, and link to the evidence."
+D05,New York City,urgent,selection,Which emergency dental practices in New York City should I contact for urgent dental care?
+D06,New York City,urgent,dentist_branch_evidence,"Which emergency dentists in New York City offer urgent dental care? Identify the dentist and office location, and link to the evidence."
+D07,Chicago,cosmetic,selection,Which cosmetic dental practices in Chicago should I compare for porcelain veneers?
+D08,Chicago,cosmetic,dentist_branch_evidence,"Which cosmetic dentists in Chicago offer porcelain veneers? Identify the dentist and office location, and link to the evidence."
+D09,Chicago,implants,selection,Which dental practices in Chicago should I compare for dental implants?
+D10,Chicago,implants,dentist_branch_evidence,"Which implant dentists in Chicago offer dental implants? Identify the dentist and office location, and link to the evidence."
+D11,Chicago,urgent,selection,Which emergency dental practices in Chicago should I contact for urgent dental care?
+D12,Chicago,urgent,dentist_branch_evidence,"Which emergency dentists in Chicago offer urgent dental care? Identify the dentist and office location, and link to the evidence."
+D13,Dallas,cosmetic,selection,Which cosmetic dental practices in Dallas should I compare for porcelain veneers?
+D14,Dallas,cosmetic,dentist_branch_evidence,"Which cosmetic dentists in Dallas offer porcelain veneers? Identify the dentist and office location, and link to the evidence."
+D15,Dallas,implants,selection,Which dental practices in Dallas should I compare for dental implants?
+D16,Dallas,implants,dentist_branch_evidence,"Which implant dentists in Dallas offer dental implants? Identify the dentist and office location, and link to the evidence."
+D17,Dallas,urgent,selection,Which emergency dental practices in Dallas should I contact for urgent dental care?
+D18,Dallas,urgent,dentist_branch_evidence,"Which emergency dentists in Dallas offer urgent dental care? Identify the dentist and office location, and link to the evidence."
